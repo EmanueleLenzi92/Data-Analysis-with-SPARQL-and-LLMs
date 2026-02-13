@@ -1,0 +1,1000 @@
+[CAND 1] ID=2881 CHUNK=2
+ID NARRATIVE: 2881
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 50 IT. The farm has 35 cows in production, of the Grigio Alpina breed and the Original Brouw breed; the main products are 'Formai de Ceresegn 'cheese, aged from one to 
+ment/year [Region] is 72.49%.   Cheese is an excellent product, from a gustatory and nutritional point of view: it is a concentrate of high quality proteins and some minerals (phosphorus and calcium). It also has a good dose of certain vitamins (such as A and B2). The innovation start to spread also in this very traditional value chain.   Key assets for this VC are grasslands and meadows naturally growing in the Alps and the traditional knowledge in dairy products production.…
+
+[CAND 2] ID=3156 CHUNK=3
+ID NARRATIVE: 3156
+The MOVING reference member state of this VC (Value Chain) is TURKEY. The reference MOVING Card ID of this VC is VC 09 TR. The feeding and milking activity of sheep and goat are done by small family farms. Some breeders make cheese by using dried goat or sheep skin. This production method is very un
+vation of this VC (Value Chain) is unspecified. The innovation is related to the whole VC. The land use systems involved are Grassland. The local assets include Natural and cultural.   Cheese which is made from goat and sheep milk is included in other MRLs in the Member State such as Serbia, Spain, Switzerland. However İzmir tulum cheese is special kindf of cheese made by being placed into handmade dried goat or sheep skin.
+
+[CAND 3] ID=3001 CHUNK=6
+ID NARRATIVE: 3001
+The MOVING reference member state of this VC (Value Chain) is SERBIA. The reference MOVING Card ID of this VC is VC 11 SER. Pirot white cheese in brine produced in Pirot/Old Mountain area can be made of sheep, cow and mixed milk. Sheep and mixed cheeses are with higher reputation amongst customers. 
+ problem with finding professional shepherds; even the conditions offered are very favourable. For this reason, there is a lack of sheep milk, which is why more of cow cheese is produced. Reduction of sheep herds, which are autochthonous Pirot and Karakachan sheep, is negative for the area (grazing is reduced), as well as for loosing important genetic material of very good sheep breed (used both for meat and milk, with very high reputation). Demographics of the area is also v…
+
+[CAND 4] ID=2788 CHUNK=3
+ID NARRATIVE: 2788
+The MOVING reference member state of this VC (Value Chain) is FRANCE INRAE. The reference MOVING Card ID of this VC is VC 02 FR. Brocciu is a whey cheese from ewes and goats milk, obtained after making cheese. It depends on other VCS, dairy cheese production and on-farm cheese production. In its cod
+ry processing. the PDO is mainly used by Corsican dairies. There are strong doubts about the origin of milk which is used and potential fraud. For the past years, the syndicate has frequently derogated to the code of practice and allowed more intensive practices.   to (re)assemble resources that have been built and transmitted in the territory (breeds, feeding species.. ) and to be able to address the issues raisen by the agroecological transition. To ensure sustainable coexi…
+
+[CAND 5] ID=2848 CHUNK=3
+ID NARRATIVE: 2848
+The MOVING reference member state of this VC (Value Chain) is HUNGARY. The reference MOVING Card ID of this VC is VC 23 HU. Three different cheese producers in Nivegy-valley micro-region. They produce high quality artisan cheese and milk products. They keep animals (goat/cow) and their products are 
+new sales channels). They also have a good impact on the social environment, as they employ people.    Climate change (warming, new pests, extreme weather conditions). Civilisation/urbanisation pressure on the Mountain landscape. During COVID, they have problems to sell cheese (lack of tourists, no events, no restaurants, hotels). They have lots of other challenges characteristic to very small producers in Hungary. Overall the type of challenge faced by this VC is Current and…
+
+[CAND 6] ID=2725 CHUNK=3
+ID NARRATIVE: 2725
+The MOVING reference member state of this VC (Value Chain) is AUSTRIA. The reference MOVING Card ID of this VC is VC 02 AT. The Almenland small local diary produces various types of cheese (cow, sheep, goat all milk from the region: pasture farming and hay), which then is further processed by the Al
+ value to the milk producing sector in the area; cooperation with the tourist sector is of mutual benefit; cooperation with other local Almenland producers: the company's online marketing platform does not only sell the cheese, but various (nearly all) other Almenland products.    As the cheese production relies exclusively on milk from the Almenland, challenges in milk production also affect this initiative. Predicted changes in climate (extreme weather conditions: drought, …
+
+[CAND 7] ID=2874 CHUNK=3
+ID NARRATIVE: 2874
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 36 IT. The cheese is produced only with milk from the 'Podolica' cow which is a local breed. The processing relies on tranditional activities which are mostly performed
+e area is characterised by a higlhy mixed land use system, where forests and natural grassland the dominant land use systems in the interplay with agricultural land. The 'Podolica' cow breed is traditional asset of the Southern Italian regions, characterized by lower milk production compared with intensive cow breed (e.g., Frisona, Pezzata Rossa), but very much suited for breeding through in wild and semi-wilde systems.    The Caciocavallo cheese is produced in a very remote …
+
+[CAND 8] ID=3156 CHUNK=2
+ID NARRATIVE: 3156
+The MOVING reference member state of this VC (Value Chain) is TURKEY. The reference MOVING Card ID of this VC is VC 09 TR. The feeding and milking activity of sheep and goat are done by small family farms. Some breeders make cheese by using dried goat or sheep skin. This production method is very un
+rovince] is 31.00%. The tertiary sector share of total employment/year [Province] is 59.70%. The primary sector share of total employment/year [Region] is 9.30%. The secondary sector share of total employment/year [Region] is 31.00%. The tertiary sector share of total employment/year [Region] is 59.70%.   İzmir Tulum cheese is made from milk obtained from cows, sheep and goats fed by natural vegetation and water sources of higher parts of Kiraz. The difference from other chee…
+
+[CAND 9] ID=3142 CHUNK=4
+ID NARRATIVE: 3142
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 2. The reference MOVING Card ID of this VC is VC 43 CH2. The VC is made up of 11 manufacturers and ripeners as well as milk producers from the Jura mountain areas. The milk is processed and sold locally, in large Swiss superma
+are threatened by increasing droughts due to climate change (loss of fodder, death of spruce trees in wooded pastures changing the landscape and shade). There are uncertainties about the real effect of climate change on grassland production and animal health (reduced grass growth in summer but a one-month longer growing season depending on the scenario). Overall the type of challenge faced by this VC is Current and Predicted. This VC is classified as Traditional.   The type o…
+
+[CAND 10] ID=2906 CHUNK=2
+ID NARRATIVE: 2906
+The MOVING reference member state of this VC (Value Chain) is NMK. The reference MOVING Card ID of this VC is VC 09 NMK. Key actors dealing with cheese in Maleshevija and the kew brands: a) Maleshevo milk Berovo b) Mlekara Malesh c) Mlekara Natasha d) Farma Pacarski . There are meny individual famil
+ sector share of total employment/year [Region] is 30.50%. The tertiary sector share of total employment/year [Region] is 53.30%.   Agriculture is one of the basic economic activities in the region of Maleshevija. Sheep breeding is a traditional activity of Maleshevija, while Berovo cheese is well recognized as a quality product across the country and even beyond. There is further potential for development of the VC , mainly from the perspective of the market chain. Cheese is…
+
+[CAND 11] ID=3001 CHUNK=7
+ID NARRATIVE: 3001
+The MOVING reference member state of this VC (Value Chain) is SERBIA. The reference MOVING Card ID of this VC is VC 11 SER. Pirot white cheese in brine produced in Pirot/Old Mountain area can be made of sheep, cow and mixed milk. Sheep and mixed cheeses are with higher reputation amongst customers. 
+packaging, labelling, creating promotional campaigns, etc. Different organisations and CSOs from the area are trying to raise the awareness of the market, in the same time supporting farmers to start using some new marketing tools. Restaurants and rural tourism direct connection, and creation of offers 'from the region' are also new ideas how to improve this product's positioning. The innovation is related to New processes, New marketing strategies and New governance systems.…
+
+[CAND 12] ID=3015 CHUNK=3
+ID NARRATIVE: 3015
+The MOVING reference member state of this VC (Value Chain) is SKANDINAVIAN UCO. The reference MOVING Card ID of this VC is VC 09 SCA. The cheese is made from April to October and has always been made with milk from the local goats. There are three families belonging to the Undredal Stølsysteri SA. A
+m. This cheese is part of the region's cultural heritage and also an important aspect of its identity. Both the website and the online store aim to get access to new consumers.   Tha natural assets are the natural pastures and the forage for the winter months. The goats graze in pastures from April till the end of the warm season. In Undfredal (town within the municipality of Aureland), goats and the cheese are both considered as cultural assets and they are part of the terri…
+
+[CAND 13] ID=2849 CHUNK=3
+ID NARRATIVE: 2849
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 01 IT. Parmigiano Reggiano DOP is an hard cheese of ancient tradition, handcrafted with raw cow's milk, partially skimmed by surfacing, without adding additives or pres
+ty.    Pursuing the aims of the consortium, which concern the protection of the PDO of 'Parmigiano Reggiano' cheese, the supervision of production and trade, and the promotion of production in Italy and abroad, they can be further enhanced, increasing its image and notoriety in the world. Overall the type of challenge faced by this VC is Current. This VC is classified as Traditional.   The type of innovation of this VC (Value Chain) is unspecified. 'Mountain product' represen…
+
+[CAND 14] ID=3143 CHUNK=4
+ID NARRATIVE: 3143
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 2. The reference MOVING Card ID of this VC is VC 45 CH2. The VC is very short and includes farmers and potentially resellers in local markets as raw milk cannot be stored for a long time and is mainly sold directly.   The refe
+e milk used for cheese production is based are threatened by increasing droughts due to climate change (loss of fodder, death of spruce trees in wooded pastures changing the landscape and shade). There are uncertainties about the real effect of climate change on grassland production and animal health (reduced grass growth in summer but a one-month longer growing season depending on the scenario). Overall the type of challenge faced by this VC is Current and Predicted. This VC…
+
+[CAND 15] ID=3131 CHUNK=3
+ID NARRATIVE: 3131
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 2. The reference MOVING Card ID of this VC is VC 08 CH2. The VC has 237 dairy farms, 9 cheese dairies and 2 ripeners. It is labelled with the protected designation of origin (pdo) and can therefore only be produced in a limite
+s with EU), thus maintaining the pasture and the landscape, contributes to the maintenance of extensive grazing in wooden pastures. The processes have not changed. The innovation is linked to the capacity of farmers and other acotrs to organisze themeselves (governance systems) and place their product on the market thanks to the invention of the girolle (new product).   Milk is produced from cattle on extensive grazing systems, often in wooden pastures. The cheese production …
+
+[CAND 16] ID=3157 CHUNK=2
+ID NARRATIVE: 3157
+The MOVING reference member state of this VC (Value Chain) is TURKEY. The reference MOVING Card ID of this VC is VC 10 TR. Cheese is produced on the plateaus and pastures of Erzincan where there are nearly half a million sheep. Cheese is produced from the milk of the White Karaman sheep which graze 
+are not present.   The primary sector share of total employment/year [Province] is Medium. The secondary sector share of total employment/year [Province] is Low. The tertiary sector share of total employment/year [Province] is High. The primary sector share of total employment/year [Region] is 31.90%. The secondary sector share of total employment/year [Region] is 9.60%. The tertiary sector share of total employment/year [Region] is 58.20%.   Erzincan Tulum is a traditional c…
+
+[CAND 17] ID=3130 CHUNK=3
+ID NARRATIVE: 3130
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 2. The reference MOVING Card ID of this VC is VC 06 CH2. The VC includes a family farm that produces, processes and sells yogurt directly on the farm. Sales are also made to local cheese dairies. The products is labbeled 'IP S
+ on which the milk used for yogurt production is based are threatened by increasing droughts due to climate change (loss of fodder, death of spruce trees in wooded pastures changing the landscape and shade). There are uncertainties about the real effect of climate change on grassland production and animal health (reduced grass growth in summer but a one-month longer growing season depending on the scenario). Overall the type of challenge faced by this VC is Current and Predic…
+
+[CAND 18] ID=2951 CHUNK=3
+ID NARRATIVE: 2951
+The MOVING reference member state of this VC (Value Chain) is ROMANIA. The reference MOVING Card ID of this VC is VC 10 RO. 'Telemea' cheese is made by adding rennet to milk to curdle it. The resulting curd is removed into cheesecloth, drained and pressed overnight, then cut into square pieces. This
+re of total employment/year [Region] is 38.70%. The secondary sector share of total employment/year [Region] is 26.80%. The tertiary sector share of total employment/year [Region] is 34.50%.   'Telemea' is a salted white cheese most commonly made from sheep or cows' milk, but sometimes also from goats' milk. Varying degrees of ageing. Widepread traditional mountain product in Romania. Similar to Greek 'feta'. This specific value chain is for a 'Telemea' made from cows' milk b…
+
+[CAND 19] ID=2874 CHUNK=4
+ID NARRATIVE: 2874
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 36 IT. The cheese is produced only with milk from the 'Podolica' cow which is a local breed. The processing relies on tranditional activities which are mostly performed
+ moinly produced on farm with very few number of larger processors in the territory and thus a limited amount of product available for the market. For these reasons, producers are exploring alternative marketing strategies besides local markets, such as e-commerce and on farm selling (usually coupled with agritourism actvities). The innovation is related to New marketing strategies. The land use systems involved are Grassland, Forestry and Natural land. The local assets inclu…
+
+[CAND 20] ID=3015 CHUNK=4
+ID NARRATIVE: 3015
+The MOVING reference member state of this VC (Value Chain) is SKANDINAVIAN UCO. The reference MOVING Card ID of this VC is VC 09 SCA. The cheese is made from April to October and has always been made with milk from the local goats. There are three families belonging to the Undredal Stølsysteri SA. A
+mmerce marketing. The innovation is related to New marketing strategies. The land use systems involved are Grassland and Natural land. The local assets include Natural, social and cultural.   A similar example, but with a different cheese making technique, is the Sweden Jämtland Cellar-Matured Goat Cheese (NUTS3 SE322), which is also supported by a Presidium of the Slowfood Foundation for Biodiversity.
+
+[CAND 21] ID=3081 CHUNK=2
+ID NARRATIVE: 3081
+The MOVING reference member state of this VC (Value Chain) is SPAIN UCO. The reference MOVING Card ID of this VC is VC 14 ES. The place where the goats sleep and graze is the same as the cheese production, all happens in the same farm. The goats are milked every day and the milk is sent to a lab for
+or share of total employment/year [Region] is unspecified. The tertiary sector share of total employment/year [Region] is unspecified.   High quality goat cheese from the autochthonous goat breed florida andaluza. The goats have grazed along these natural pastures for centuries, being totally connected with this land use and enabling this way its natural maintenance. It is an innovation in the waste management mostly.   1) The scarce amount of herds of this goat breed comprom…
+
+[CAND 22] ID=2798 CHUNK=3
+ID NARRATIVE: 2798
+The MOVING reference member state of this VC (Value Chain) is FRANCE INRAE. The reference MOVING Card ID of this VC is VC 12 FR. Milk Kid is seasonnaly produced, mostly for Christmas, by approximatively 200 farmers. An association of farmers intervene for slaughtering the animals and corresponding l
+g species.. ), especially to reconect intertwinned activities (milk lamb and dairy production) that have been set appart with agriculture modernization and specialization. To reconnect food production with food uses (cooking, eating habits, etc.). Overall the type of challenge faced by this VC is Current. This VC is classified as Traditional.   The type of innovation of this VC (Value Chain) is unspecified. The innovation is related to the whole VC. The land use systems invol…
+
+[CAND 23] ID=2725 CHUNK=4
+ID NARRATIVE: 2725
+The MOVING reference member state of this VC (Value Chain) is AUSTRIA. The reference MOVING Card ID of this VC is VC 02 AT. The Almenland small local diary produces various types of cheese (cow, sheep, goat all milk from the region: pasture farming and hay), which then is further processed by the Al
+ng time (1.5 years); the cheese is only mad from local hey milk, and many different types of cheese are produced. Participation in international cheese competitions: several awards have been achieved: e.g. the 'Arzberger Ursteirer' was even vice world champion in the USA. The innovation is related to New products, New processes and New marketing strategies. The land use systems involved are pasture farming. The local assets include Natural.   Cheese is produced in many other …
+
+[CAND 24] ID=3165 CHUNK=3
+ID NARRATIVE: 3165
+The MOVING reference member state of this VC (Value Chain) is TURKEY. The reference MOVING Card ID of this VC is VC 18 TR. The feeding and milking activity of sheep and goat are caried out by small family farms. Cheese is ripened originally in dried goat or sheep skin. This is very unique and tradit
+l, cultural and economical conditions and the perpetual decline in the population of rural settlements through immigration; have caused the traditional transhumance to lose its importance. Sheep and goat farming in pasture lands is decreasing because of economical conditions. High feed costs in the region are the most important challenges. The local people are willing and insistent on sustaining traditional transhumance, a longer term preservation of the traditional culture i…
+
+[CAND 25] ID=2876 CHUNK=2
+ID NARRATIVE: 2876
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 43 IT. The VC depends only on the local SES. The main actors are the breeders and farmers who collaborate in the cooperative company to produce milk and cheeses. Qualit
+ertiary sector share of total employment/year [Province] is 70.15%. The primary sector share of total employment/year [Region] is 2.82%. The secondary sector share of total employment/year [Region] is 26.91%. The tertiary sector share of total employment/year [Region] is 70.27%.   The dairy, owned by a local cooperative of farmers, collects and processes the milk produced by 24 local farmers to produce Italian and local cheeses. For the production of the traditional Friulian …
+
+[CAND 26] ID=3157 CHUNK=3
+ID NARRATIVE: 3157
+The MOVING reference member state of this VC (Value Chain) is TURKEY. The reference MOVING Card ID of this VC is VC 10 TR. Cheese is produced on the plateaus and pastures of Erzincan where there are nearly half a million sheep. Cheese is produced from the milk of the White Karaman sheep which graze 
+pe of challenge faced by this VC is Current. This VC is classified as Traditional.   The type of innovation of this VC (Value Chain) is unspecified. Organic honey production. The innovation is related to the whole VC. The land use systems involved are Grassland. The local assets include Natural and cultural.   This VC is also present in other MRLs in the Member States such as Czech Republic, France, Hungary, Serbia, Switzerland, Spain, and Austria.
+
+[CAND 27] ID=2789 CHUNK=0
+ID NARRATIVE: 2789
+The MOVING reference member state of this VC (Value Chain) is FRANCE INRAE. The reference MOVING Card ID of this VC is VC 03 FR. In Corsica, on-farm cheese making is defended by an association of farmers (of dairy goats and dairy ewes), Casgiu Casanu, which has existed since 1998 and has been locall
+The MOVING reference member state of this VC (Value Chain) is FRANCE INRAE. The reference MOVING Card ID of this VC is VC 03 FR. In Corsica, on-farm cheese making is defended by an association of farmers (of dairy goats and dairy ewes), Casgiu Casanu, which has existed since 1998 and has been locally and nationally active. It defends farmers' interests regarding the evolution of european and national regulations. It provides specific training (hygiene, different processes for…
+
+[CAND 28] ID=2954 CHUNK=3
+ID NARRATIVE: 2954
+The MOVING reference member state of this VC (Value Chain) is ROMANIA. The reference MOVING Card ID of this VC is VC 13 RO. 'Brănză Horezu' was first produced in the town of Horezu in the mountainous region of northern Vâlcea County (RO415) in 2001. All milk used for cheese production is collected d
+ed / fermented sheep's milk with a characteristic patterned rind. It is registered as a 'Mountain Product' (https://produse.produsmontan.ro/produs/branza-fermentata-din-lapte-de-oaie-horezu/) under Romania's implementation of the Optional Quality Term (OQT) - see more details below.   The natural asset used for producing 'Brănză Horezu' in the mountain areas of Vâlcea County (RO415) is mainly semi-natural grasslands (private meadows for hay-making and common pastures for comm…
+
+[CAND 29] ID=2825 CHUNK=4
+ID NARRATIVE: 2825
+The MOVING reference member state of this VC (Value Chain) is GREECE. The reference MOVING Card ID of this VC is VC 21 GR. Traditionally, the female members of the family are involved in the processing of the milk and the preparation of the wheat in order to produce xinochontros (ksinochondros). Sti
+igh priced product, can give a prospect to the graziers. It is a traditional product, not well known in the new generation of consumers. The high quality of milk in combination with high quality of local wheat create a unique product which could be called as super food. Overall the type of challenge faced by this VC is Current and Predicted. This VC is classified as Traditional and Innovative. The type of innovation of this VC (Value Chain) is Endogenous. The innovation refer…
+
+[CAND 30] ID=3156 CHUNK=0
+ID NARRATIVE: 3156
+The MOVING reference member state of this VC (Value Chain) is TURKEY. The reference MOVING Card ID of this VC is VC 09 TR. The feeding and milking activity of sheep and goat are done by small family farms. Some breeders make cheese by using dried goat or sheep skin. This production method is very un
+The MOVING reference member state of this VC (Value Chain) is TURKEY. The reference MOVING Card ID of this VC is VC 09 TR. The feeding and milking activity of sheep and goat are done by small family farms. Some breeders make cheese by using dried goat or sheep skin. This production method is very unique and traditional, and adds very special taste to cheese. Some breeders sell raw milk to cooperatives or dairy firms to be processed.The perspectives of the product bring togeth…
+
+[CAND 31] ID=2782 CHUNK=0
+ID NARRATIVE: 2782
+The MOVING reference member state of this VC (Value Chain) is FRANCE CCVD. The reference MOVING Card ID of this VC is VC 07 FR1. Picodon AOP is a goat-milk cheese from the Drome, very representative of middle mountain agriculture.The quality label AOP provides strict requirements in terms of product
+The MOVING reference member state of this VC (Value Chain) is FRANCE CCVD. The reference MOVING Card ID of this VC is VC 07 FR1. Picodon AOP is a goat-milk cheese from the Drome, very representative of middle mountain agriculture.The quality label AOP provides strict requirements in terms of production practices (type of goat, refinements, cultural practices, pasture, animal feeding..) and promotion and marketing in and out of the territory. The VC is well established and str…
+
+[CAND 32] ID=2790 CHUNK=3
+ID NARRATIVE: 2790
+The MOVING reference member state of this VC (Value Chain) is FRANCE INRAE. The reference MOVING Card ID of this VC is VC 04 FR. There are 20 dairies collecting milk of about 300 dairy farmers (mostly dairy-Ewe farmers, but also dairy-Goat farmers). Some of those farmers make their own chese two ('m
+hem are in the hill-sides. They collect farmers'milk everywhere in the region but most of the volume is produced in the plains. The land use systems involved are Grassland, Natural land and agrosylvopastoral systems (schrubs, forests of oaks - accorns, meadows). The local assets include Natural and cultural.   Dairy husbandry and production of Cheese is observable in every other MRLs (Italy, Serbia, Slovakia, Switzerland). Recognition of GIs and coexistence between artisanal …
+
+[CAND 33] ID=2952 CHUNK=4
+ID NARRATIVE: 2952
+The MOVING reference member state of this VC (Value Chain) is ROMANIA. The reference MOVING Card ID of this VC is VC 11 RO. All of the cheeses, including the 'Brânză de Burduf', that are marketed under the 'Stâna de Vaideeni' brand are produced in a licenced processing unit in the village. Cattle an
+Value chains for traditional products such as the 'Brânză de Burduf' produced by the farming family in Vaideeni are vulnerable since there are many lower quality 'industrial' products on the market that undermine their sales. Registration as a 'Mountain Product' helps greatly to promote the product and ensure consumer confidence, but the business must remain competitive in the marketplace. This farming family relies heavily upon direct sales, but have chosen to diversify thei…
+
+[CAND 34] ID=2857 CHUNK=2
+ID NARRATIVE: 2857
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 11 IT. The VC is not dependent on other SES for its production process. Relevant actor is the family farmer who produce white garlic and herbs in mountain area. They us
+ of total employment/year [Region] is 24.13%. The tertiary sector share of total employment/year [Region] is 65.60%.   In this VC, farmers adopt the label 'Prodotto di Montagna (mountain product) to emphasise their products' quality (white garlic and herbs). They also stress the quality of the (unpolluted) mountain air and soil, which adds more aromaticity to their products. Specific attention is paid to packaging, following the food market trend, which appreciates packaging …
+
+[CAND 35] ID=3001 CHUNK=5
+ID NARRATIVE: 3001
+The MOVING reference member state of this VC (Value Chain) is SERBIA. The reference MOVING Card ID of this VC is VC 11 SER. Pirot white cheese in brine produced in Pirot/Old Mountain area can be made of sheep, cow and mixed milk. Sheep and mixed cheeses are with higher reputation amongst customers. 
+g area with Bulgaria, there is a big interest from both countries in this matter. The area of Old Mountain close to Bulgaria is also multi-national, with majority of Bulgarian and Serbian nationalities.   The Old Mountain has been placed under protection, in order to preserve: exceptional value of flora and fauna, places that express exceptional geological diversity of the area, such as certain landforms, special occurrences of surface and groundwater and rock formations, bea…
+
+[CAND 36] ID=2951 CHUNK=5
+ID NARRATIVE: 2951
+The MOVING reference member state of this VC (Value Chain) is ROMANIA. The reference MOVING Card ID of this VC is VC 10 RO. 'Telemea' cheese is made by adding rennet to milk to curdle it. The resulting curd is removed into cheesecloth, drained and pressed overnight, then cut into square pieces. This
+ co-ordination of the OQT, including maintenance of the National Registry of Mountain Products (https://produse.produsmontan.ro/). Processing and approval of requests to use the OQT and associated 'Mountain products' logo is undertaken locally by 30 Mountain Development Offices located in mountain communes. The National Consumers Protection Authority is responsible for regulating the market in 'Mountain Products' and checks if producers have been granted the authorisation to …
+
+[CAND 37] ID=2993 CHUNK=4
+ID NARRATIVE: 2993
+The MOVING reference member state of this VC (Value Chain) is SERBIA. The reference MOVING Card ID of this VC is VC 27 SER. There have been registered several operators in the last few year, while the number is probablly in dozens of small home made processing workshops. The processing is almost nev
+n medicinal values of this product which is considered very potent and concentrated 'super food' according to local criteria.    Depopulation and change of lifestyle from pasture grazing system to stationary are the main reasons for decline in number of sheep and milk shortage. There are 13760 sheep now, and the are the aging and uninhabited villages cannot sustain the needed production. Apart from these, the management of natural resources bocomes an issue with increased vul…
+
+[CAND 38] ID=2880 CHUNK=3
+ID NARRATIVE: 2880
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 48 IT. The 'Latte del Parco' farm is strongly linked to the natural and cultural context of the mountains (i.e. the SES) for its natural resources (e.g. mountain pastur
+services on the park, too. The 'Latte del Parco' farm emphasises the authenticity, traditionality and naturalness of its products. However, this marketing strategy is not particularly stressed.   The farm uses the pastureland in the park for seven months and uses the natural and cultural landscape to distinguishing its production.    The VC intersects different sectors (i.e., confectionery) to enhance the milk and the naturalistic context. The complexity of productions and se…
+
+[CAND 39] ID=3161 CHUNK=2
+ID NARRATIVE: 3161
+The MOVING reference member state of this VC (Value Chain) is TURKEY. The reference MOVING Card ID of this VC is VC 14 TR. Dairy cattle enterprises are small scale. Cows graze in the highlands. Livestock provides the main livelihood for households. Kars Gruyere and Kashar are the most-produced chees
+ted areas are not present.   The primary sector share of total employment/year [Province] is High. The secondary sector share of total employment/year [Province] is Low. The tertiary sector share of total employment/year [Province] is Medium. The primary sector share of total employment/year [Region] is 54.70%. The secondary sector share of total employment/year [Region] is 11.90%. The tertiary sector share of total employment/year [Region] is 33.10%.   The village of Boğatep…
+
+[CAND 40] ID=2782 CHUNK=4
+ID NARRATIVE: 2782
+The MOVING reference member state of this VC (Value Chain) is FRANCE CCVD. The reference MOVING Card ID of this VC is VC 07 FR1. Picodon AOP is a goat-milk cheese from the Drome, very representative of middle mountain agriculture.The quality label AOP provides strict requirements in terms of product
+c picodon producers also provide ecosystemic services: hampering fires thank to pasture practices, preservation of middle mountain agriculture.    Picodon AOP is a well-structured VC as goat-milk production is one of the top production in Drome which provide local economic value and territorial identity. However, this VC is very large and gather diverse producers: Farmers' Picodon producers often practice pastoralisme and Dairy Picodon producers working in dairy companies. Ac…
+
+[CAND 41] ID=2788 CHUNK=4
+ID NARRATIVE: 2788
+The MOVING reference member state of this VC (Value Chain) is FRANCE INRAE. The reference MOVING Card ID of this VC is VC 02 FR. Brocciu is a whey cheese from ewes and goats milk, obtained after making cheese. It depends on other VCS, dairy cheese production and on-farm cheese production. In its cod
+ Cheese is observable in every other MRLs. Recognition of GIs is also a common features of those areas.
+
+[CAND 42] ID=2806 CHUNK=3
+ID NARRATIVE: 2806
+The MOVING reference member state of this VC (Value Chain) is GREECE. The reference MOVING Card ID of this VC is VC 01 GR. The production of graviera affects the graziers of the wider Kalogeros area and their families. The perspectives of the product bring together breeders, cultural associations, l
+free-range sheep and goat breeding is the predominant activity. The native flora of the area contributes to the aromatic and rich in fat milk, mainly used for traditional dairy products in family level. Recently a new business endeavour by a famous local cheesemaker in the village of Kalogerou-Amari has been undertaken, aiming to revive the cheesemaking as a small industry and re-introduce the well established cheese in gastronomy. Graviera of Amari is a product of high quali…
+
+[CAND 43] ID=2733 CHUNK=4
+ID NARRATIVE: 2733
+The MOVING reference member state of this VC (Value Chain) is AUSTRIA. The reference MOVING Card ID of this VC is VC 09 AT. The hay milk is produced by organic farmers, who supply to the regional diary. The dairy processes it to a very big range of dairy products, which are then exclusively sold und
+production, but also to an increasing consumer preference for regional and sustainable products.   The maintenance of mosaic like areas of grassland, meadows, alpine pastures and High Nature Value farmland through cattle grazing, hay mowing and aftermath reduces scrub and tree encroachment as well as the risk of mudflows and landslides, and thereby guarantees high levels of biodiversity. Moreover, the economic viability of organic milk producing farms is increased, which is a…
+
+[CAND 44] ID=3132 CHUNK=3
+ID NARRATIVE: 3132
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 2. The reference MOVING Card ID of this VC is VC 09 CH2. Alpine Gruyère is produced seasonally from April to October in 53 alpine chalets. Gruyère production is organised by the Gruyère Interprofession created in 1997 who brin
+are present.   The primary sector share of total employment/year [Province] is 4.91%. The secondary sector share of total employment/year [Province] is 43.00%. The tertiary sector share of total employment/year [Province] is 51.97%. The primary sector share of total employment/year [Region] is 4.63%. The secondary sector share of total employment/year [Region] is 23.61%. The tertiary sector share of total employment/year [Region] is 71.57%.   Emblematic swiss cheese, known an…
+
+[CAND 45] ID=3014 CHUNK=2
+ID NARRATIVE: 3014
+The MOVING reference member state of this VC (Value Chain) is SKANDINAVIAN UCO. The reference MOVING Card ID of this VC is VC 08 SCA. Pultost is a sour milk cheese made from cow's milk without the use of rennet. Instead, a self-produced culture of old strains of lactic bacteria is added to start the
+ces (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 4752.83. The regional (Region) share of total BPs/year is 18.66%. The number of agricultural holdings in the LAU is 4 271. The nearest settlement with population over 100000 (km) is 212. In this region protected areas are present.   The primary sector share of total employment/year [Province] is 3.73%. The secondary sector share of total employment/year [Province] is 19.97%. The tertiary sector…
+
+[CAND 46] ID=3001 CHUNK=0
+ID NARRATIVE: 3001
+The MOVING reference member state of this VC (Value Chain) is SERBIA. The reference MOVING Card ID of this VC is VC 11 SER. Pirot white cheese in brine produced in Pirot/Old Mountain area can be made of sheep, cow and mixed milk. Sheep and mixed cheeses are with higher reputation amongst customers. 
+The MOVING reference member state of this VC (Value Chain) is SERBIA. The reference MOVING Card ID of this VC is VC 11 SER. Pirot white cheese in brine produced in Pirot/Old Mountain area can be made of sheep, cow and mixed milk. Sheep and mixed cheeses are with higher reputation amongst customers. Sheep and mixed cheese is made during the milking sheep season (April-October), when sheep are usually living in the mountains (bacija - summer place for sheep, usually also joint …
+
+[CAND 47] ID=2952 CHUNK=3
+ID NARRATIVE: 2952
+The MOVING reference member state of this VC (Value Chain) is ROMANIA. The reference MOVING Card ID of this VC is VC 11 RO. All of the cheeses, including the 'Brânză de Burduf', that are marketed under the 'Stâna de Vaideeni' brand are produced in a licenced processing unit in the village. Cattle an
+ of total employment/year [Region] is 34.50%.   'Brânză de Burduf' is a traditional salted cheese with a strong flavour and unique texture. It is a very specific mountain product associated with the Southern Romanian Carpathians and there are numerous variants according to local tradition. This specific value chain is for a 'Brânză de Burduf' made from sheeps' milk by a farming family based in Vaideeni commune (174021) in Vâlcea County (RO415). The family is part of an agricu…
+
+[CAND 48] ID=3143 CHUNK=3
+ID NARRATIVE: 3143
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 2. The reference MOVING Card ID of this VC is VC 45 CH2. The VC is very short and includes farmers and potentially resellers in local markets as raw milk cannot be stored for a long time and is mainly sold directly.   The refe
+of total employment/year [Province] is 5.02%. The secondary sector share of total employment/year [Province] is 42.70%. The tertiary sector share of total employment/year [Province] is 52.16%. The primary sector share of total employment/year [Region] is 4.63%. The secondary sector share of total employment/year [Region] is 23.61%. The tertiary sector share of total employment/year [Region] is 71.57%.   Other valorisation of the milk through the raw milk and direct sales, pos…
+
+[CAND 49] ID=2874 CHUNK=0
+ID NARRATIVE: 2874
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 36 IT. The cheese is produced only with milk from the 'Podolica' cow which is a local breed. The processing relies on tranditional activities which are mostly performed
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 36 IT. The cheese is produced only with milk from the 'Podolica' cow which is a local breed. The processing relies on tranditional activities which are mostly performed at the farm. Thus, farmers are the main actors of the VC. The product is mainly sold on-farm or in local markets. 'Caciocavallo dei Monti Dauni' holds the label of 'Traditional Fo…
+
+[CAND 50] ID=3027 CHUNK=2
+ID NARRATIVE: 3027
+The MOVING reference member state of this VC (Value Chain) is SLOVAKIA. The reference MOVING Card ID of this VC is VC 01 SK. Key activities: sheep breeding, cow milk production, cheese production, marketing. Key actors: shepherds, cheese producers, actors in marketing. Labelling: PGI. VC is dependen
+are of total employment/year [Province] is 59.00%. The primary sector share of total employment/year [Region] is 4.00%. The secondary sector share of total employment/year [Region] is 37.00%. The tertiary sector share of total employment/year [Region] is 59.00%.   Each type of described cheeses (Slovenská bryndza, Slovenská parenica smoked or not smoked and Slovenský oštiepok - smoked or not smoked) is registered as the protected product of the EU at the national level - Slov…
+
+[CAND 51] ID=3014 CHUNK=0
+ID NARRATIVE: 3014
+The MOVING reference member state of this VC (Value Chain) is SKANDINAVIAN UCO. The reference MOVING Card ID of this VC is VC 08 SCA. Pultost is a sour milk cheese made from cow's milk without the use of rennet. Instead, a self-produced culture of old strains of lactic bacteria is added to start the
+The MOVING reference member state of this VC (Value Chain) is SKANDINAVIAN UCO. The reference MOVING Card ID of this VC is VC 08 SCA. Pultost is a sour milk cheese made from cow's milk without the use of rennet. Instead, a self-produced culture of old strains of lactic bacteria is added to start the coagulation. Once the cheese is drained, crumbled and fermented, salt and caraway seeds are added to stop fermentation, giving to it a special character. The cheese can be eaten f…
+
+[CAND 52] ID=2797 CHUNK=3
+ID NARRATIVE: 2797
+The MOVING reference member state of this VC (Value Chain) is FRANCE INRAE. The reference MOVING Card ID of this VC is VC 11 FR. Milk lamb is seasonnaly produced, mostly in autumn, by approximatively 300 dairy-ewe farmers. Two associations of farmers intervene for slaughtering the animals and corres
+ransmitted in the territory (breeds, feeding species.. ), especially to reconect intertwinned activities (milk lamb and dairy production) that have been set appart with agriculture modernization and specialization. To reconnect food production with food uses (cooking, eating habits, etc.). Overall the type of challenge faced by this VC is Current. This VC is classified as Traditional.   The type of innovation of this VC (Value Chain) is Endogenous. One large stakeholder (orga…
+
+[CAND 53] ID=3028 CHUNK=2
+ID NARRATIVE: 3028
+The MOVING reference member state of this VC (Value Chain) is SLOVAKIA. The reference MOVING Card ID of this VC is VC 02 SK. Key activities: livestock pasture, milk processing Key actors: farmers and shepherds, milk processors, traders. Positive impact on local and regional SES is employment, added 
+ [Province] is 59.00%. The primary sector share of total employment/year [Region] is 4.00%. The secondary sector share of total employment/year [Region] is 37.00%. The tertiary sector share of total employment/year [Region] is 59.00%.   Milk production in the mountain area. The raw materials and feed come mainly from mountain areas, and milk is also processed at a set altitude, at least 500 m. Cows and sheep from 73 Slovak farms and mountain huts supply milk exclusively for '…
+
+[CAND 54] ID=2788 CHUNK=0
+ID NARRATIVE: 2788
+The MOVING reference member state of this VC (Value Chain) is FRANCE INRAE. The reference MOVING Card ID of this VC is VC 02 FR. Brocciu is a whey cheese from ewes and goats milk, obtained after making cheese. It depends on other VCS, dairy cheese production and on-farm cheese production. In its cod
+The MOVING reference member state of this VC (Value Chain) is FRANCE INRAE. The reference MOVING Card ID of this VC is VC 02 FR. Brocciu is a whey cheese from ewes and goats milk, obtained after making cheese. It depends on other VCS, dairy cheese production and on-farm cheese production. In its code of practice, PDO Brocciu is dependant on pastoral ecosystems, schrubs, summer pastures, etc. animals (of local breeds) must be fed with local fodder (grazing or hay). The current…
+
+[CAND 55] ID=2807 CHUNK=4
+ID NARRATIVE: 2807
+The MOVING reference member state of this VC (Value Chain) is GREECE. The reference MOVING Card ID of this VC is VC 02 GR. The production of Dry Anthotyros affects the breeders of the wider Lasithi plateau area and their families. The perspectives of the product bring together breeders, cultural ass
+, starting from the final products and ending with the producer and the day of receipt. It is a standard traditional cheese factory with operation since 1984. The cheesemaking is an activity of great importance for the sustainability of the area, both economically and socially. The dry anthotyros is a traditional cheese of ancient origin, part of the cultural heritage of the area and for Crete in general. The main challenge for the area is the rapid decline of the population.…
+
+[CAND 56] ID=2743 CHUNK=0
+ID NARRATIVE: 2743
+The MOVING reference member state of this VC (Value Chain) is BULGARIA. The reference MOVING Card ID of this VC is VC 08 BG. The profitability of dairy farms in the region depends greatly upon the price paid for the raw milk produced - which in turn depends upon the milk quality. The key quality ind
+The MOVING reference member state of this VC (Value Chain) is BULGARIA. The reference MOVING Card ID of this VC is VC 08 BG. The profitability of dairy farms in the region depends greatly upon the price paid for the raw milk produced - which in turn depends upon the milk quality. The key quality indicators that farmers must achieve when supplying raw milk are: i) clean and unadulterated; ii) not containing veterinary substances e.g. antibiotics; iii) free of pathogenic microo…
+
+[CAND 57] ID=3161 CHUNK=3
+ID NARRATIVE: 3161
+The MOVING reference member state of this VC (Value Chain) is TURKEY. The reference MOVING Card ID of this VC is VC 14 TR. Dairy cattle enterprises are small scale. Cows graze in the highlands. Livestock provides the main livelihood for households. Kars Gruyere and Kashar are the most-produced chees
+ remigration has started to Boğatepe in recent years. It is important to increase the production and promotion of gruyere and kashar cheeses. Overall the type of challenge faced by this VC is Current. This VC is classified as Traditional.   The type of innovation of this VC (Value Chain) is unspecified. The innovation is related to the whole VC. The land use systems involved are Grassland. The local assets include Natural, social and cultural.   This VC is also present in oth…
+
+[CAND 58] ID=2770 CHUNK=3
+ID NARRATIVE: 2770
+The MOVING reference member state of this VC (Value Chain) is CZECH REPUBLIC. The reference MOVING Card ID of this VC is VC 15 CZ. Syrup producers are not necessarily located in mountain areas. They collect ingredients from the mountain region and process the ingredients in nearby regions. Crucial p
+ the producers refer to traditional knowledge embedded in the region, their product labels refer to cultural traits associated with the mountain area. The symbolic value refering to the mountains is what distingusihes the product from other similar products.    Syrups are sold on mainstream food markets that are highly competetive. Main challenge for the given VC is associated with valorization of the product and with a marketing strategy. Overall the type of challenge faced …
+
+[CAND 59] ID=3014 CHUNK=3
+ID NARRATIVE: 3014
+The MOVING reference member state of this VC (Value Chain) is SKANDINAVIAN UCO. The reference MOVING Card ID of this VC is VC 08 SCA. Pultost is a sour milk cheese made from cow's milk without the use of rennet. Instead, a self-produced culture of old strains of lactic bacteria is added to start the
+ndustrial dairies are proliferating; 2) Preserve the artisanal cheese making and strenghten the market al local and national scale. Overall the type of challenge faced by this VC is Current. This VC is classified as Traditional.   The type of innovation of this VC (Value Chain) is unspecified. The innovation is related to the whole VC. The land use systems involved are Grassland and Natural land. The local assets include Natural, social and cultural.   The VC is also present …
+
+[CAND 60] ID=2996 CHUNK=6
+ID NARRATIVE: 2996
+The MOVING reference member state of this VC (Value Chain) is SERBIA. The reference MOVING Card ID of this VC is VC 03 SER. Livestock husbandry is the main agricultural activity in the area of Zlatar Mountain. Cattle breeding is at the basis of the VC, the biggest number of the farmer households is 
+a few small dairies in the area. Number of cattle is reducing, as well as number of people in rural areas who are keeping animals. In last couple of years there are some attempts to organise farmers and create farmer organisations for managing PDO Zlatar cheese, increase its visibility and prevent misuse of the name by other cheese producers outside of Zlatar area. Tourism is increased in last couple of years, but it is not always done in a planned way. Parts of Zlatar Mounta…
+
+[CAND 61] ID=2963 CHUNK=3
+ID NARRATIVE: 2963
+The MOVING reference member state of this VC (Value Chain) is SCOTLAND HUTTON. The reference MOVING Card ID of this VC is VC 02 UK. Traditional Welsh artisinal Caerphilly cheese is protected with Euopean Protected Georgaphical Indication (PGI) stuatus. PGI status is for English and Welsh spellings. 
+etival relies on strong community relations within caerphilly. For cultural assests, there is a reliance on local and traditional knowledge for undertaking tradional (but innovative) processing of Caerphilly cheese. There is also a lot of cultural heritage tied into the brand, even from those made in England. There are links to the cultural history of Caerphilyl as the cheese was orignally made for local coal minres. PGI status also for Welsh spelling of the term linking agai…
+
+[CAND 62] ID=2733 CHUNK=0
+ID NARRATIVE: 2733
+The MOVING reference member state of this VC (Value Chain) is AUSTRIA. The reference MOVING Card ID of this VC is VC 09 AT. The hay milk is produced by organic farmers, who supply to the regional diary. The dairy processes it to a very big range of dairy products, which are then exclusively sold und
+The MOVING reference member state of this VC (Value Chain) is AUSTRIA. The reference MOVING Card ID of this VC is VC 09 AT. The hay milk is produced by organic farmers, who supply to the regional diary. The dairy processes it to a very big range of dairy products, which are then exclusively sold under the Label 'Zurück zum Ursprung' throughout Austria in supermarkets. The supermarket chain owns the brand, quality control is done according the EU and Austrian regulations for o…
+
+[CAND 63] ID=2741 CHUNK=3
+ID NARRATIVE: 2741
+The MOVING reference member state of this VC (Value Chain) is BULGARIA. The reference MOVING Card ID of this VC is VC 06 BG. Most commonly made from sheep, cow or goat milk, or sometimes a mixture of these. Varying degrees of ageing. Most farmers do not have a problem with selling their products loc
+rn of use of these natural assets has changed. When allocating use of the common grasslands to local farmers, municipalities now frequently give priority access to the best grasslands to those livestock farmers eligible to receive CAP payments and who can therefore pay a higher rent. The pastures in worse conditions in terms of scrub / tree encroachment are designated for common use by subsistence farmers in the villages that do not apply for CAP payments.    For very traditi…
+
+[CAND 64] ID=3114 CHUNK=0
+ID NARRATIVE: 3114
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 1. The reference MOVING Card ID of this VC is VC 17 CH1. Honey from the alps is supposed to have an especially gourmet taste. It is often produced in small batches and then sold directly by the prodcuers or in nearby farm shop
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 1. The reference MOVING Card ID of this VC is VC 17 CH1. Honey from the alps is supposed to have an especially gourmet taste. It is often produced in small batches and then sold directly by the prodcuers or in nearby farm shops. Increasingly, these products are also sold in online shops. Some products are also sold to larger retailers. There are several labels and brands for alpine products, e.g. 'Pro M…
+
+[CAND 65] ID=2862 CHUNK=2
+ID NARRATIVE: 2862
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 16 IT. In the VC, the Zappalà company is the main actor. Zappalà embeds the cultural elements linked to the tradition of cheese making and the milk produced from the SE
+rtiary sector share of total employment/year [Province] is 79.71%. The primary sector share of total employment/year [Region] is 7.84%. The secondary sector share of total employment/year [Region] is 13.96%. The tertiary sector share of total employment/year [Region] is 78.20%.   The company has large relevance for the Sicilian economy. It produces both traditional and PDO-certified cheeses as well as standard products in the cheese sector, like mozzarella cheese. It uses loc…
+
+[CAND 66] ID=2848 CHUNK=0
+ID NARRATIVE: 2848
+The MOVING reference member state of this VC (Value Chain) is HUNGARY. The reference MOVING Card ID of this VC is VC 23 HU. Three different cheese producers in Nivegy-valley micro-region. They produce high quality artisan cheese and milk products. They keep animals (goat/cow) and their products are 
+The MOVING reference member state of this VC (Value Chain) is HUNGARY. The reference MOVING Card ID of this VC is VC 23 HU. Three different cheese producers in Nivegy-valley micro-region. They produce high quality artisan cheese and milk products. They keep animals (goat/cow) and their products are marketed in SFC-s, restaurants, farmers markets, on-farm-sales and webshop delivery. Animal husbandry are traditional in this area, however, cheese-making, especially high quality,…
+
+[CAND 67] ID=2733 CHUNK=5
+ID NARRATIVE: 2733
+The MOVING reference member state of this VC (Value Chain) is AUSTRIA. The reference MOVING Card ID of this VC is VC 09 AT. The hay milk is produced by organic farmers, who supply to the regional diary. The dairy processes it to a very big range of dairy products, which are then exclusively sold und
+this VC (Value Chain) is Exogenous. Establishment of a joint quality certification scheme and joint marketing and sales strategy. The innovation is related to New products, New processes, New marketing strategies and New governance systems. The land use systems involved are Grassland and pasture farming. The local assets include Natural and cultural.   There are other hay milk related VCs in Austria, but this is unique due to its specific labelling scheme.
+
+[CAND 68] ID=3134 CHUNK=3
+ID NARRATIVE: 3134
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 2. The reference MOVING Card ID of this VC is VC 12 CH2. The VC is composed of small scale farming with the farmers that produce and transform the sheep's milk and sell the cheese directly on the farm. The milk is processed in
+e type of innovation of this VC (Value Chain) is unspecified. The innovation is related to the whole VC. The land use systems involved are Grassland. The local assets include Natural and cultural.
+
+[CAND 69] ID=2868 CHUNK=2
+ID NARRATIVE: 2868
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 25 IT. Key activities and key actors, labelling, quality schemes in place, dependencies of VC on local SES and impacts (positive and negative ) of VC on regional SES.  
+use the label ' Mountain Product'. The innovation start to spread also in this very traditional value chain. The idea to close the supply chain was ,otiveted by the ruduction of quality agricoltural products.   An organic production of cereals and a Bakery done following the dictates of bio-architecture, and using photovoltaics combined with a heat pump to produce the energy necessary for the process.    From a classic bakery to a farm that have close the supply chain startin…
+
+[CAND 70] ID=2835 CHUNK=2
+ID NARRATIVE: 2835
+The MOVING reference member state of this VC (Value Chain) is HUNGARY. The reference MOVING Card ID of this VC is VC 10 HU. Traditional production of cabbages (red, white, cauliflower, etc.) with special local varieties, produced by small farmers, integrated by one larger ones, marketed through both
+ total employment/year [Region] is 4.47%. The secondary sector share of total employment/year [Region] is 42.86%. The tertiary sector share of total employment/year [Region] is 52.67%.   Successful local integration of small traditional cabbage producers by a slightly larger local producer, who organises logistics, storage, processing and trading of the products. They have become part of the local territorial quality assurance system (European Territorial Quality Mark). Cabag…
+
+[CAND 71] ID=2790 CHUNK=0
+ID NARRATIVE: 2790
+The MOVING reference member state of this VC (Value Chain) is FRANCE INRAE. The reference MOVING Card ID of this VC is VC 04 FR. There are 20 dairies collecting milk of about 300 dairy farmers (mostly dairy-Ewe farmers, but also dairy-Goat farmers). Some of those farmers make their own chese two ('m
+The MOVING reference member state of this VC (Value Chain) is FRANCE INRAE. The reference MOVING Card ID of this VC is VC 04 FR. There are 20 dairies collecting milk of about 300 dairy farmers (mostly dairy-Ewe farmers, but also dairy-Goat farmers). Some of those farmers make their own chese two ('mixte producers'). DAiries and farmers interact at each dairy's level, but they have also interprofesionnels organization such as the PDO Brocciu. the 5 most important dairies, each…
+
+[CAND 72] ID=2906 CHUNK=0
+ID NARRATIVE: 2906
+The MOVING reference member state of this VC (Value Chain) is NMK. The reference MOVING Card ID of this VC is VC 09 NMK. Key actors dealing with cheese in Maleshevija and the kew brands: a) Maleshevo milk Berovo b) Mlekara Malesh c) Mlekara Natasha d) Farma Pacarski . There are meny individual famil
+The MOVING reference member state of this VC (Value Chain) is NMK. The reference MOVING Card ID of this VC is VC 09 NMK. Key actors dealing with cheese in Maleshevija and the kew brands: a) Maleshevo milk Berovo b) Mlekara Malesh c) Mlekara Natasha d) Farma Pacarski . There are meny individual families involved in producing sheep;s cheese.   The reference mountain chain of this VC is Mountain Meleshevija. The reference mountain landscape of this VC is unspecified. Maleshevski…
+
+[CAND 73] ID=2789 CHUNK=4
+ID NARRATIVE: 2789
+The MOVING reference member state of this VC (Value Chain) is FRANCE INRAE. The reference MOVING Card ID of this VC is VC 03 FR. In Corsica, on-farm cheese making is defended by an association of farmers (of dairy goats and dairy ewes), Casgiu Casanu, which has existed since 1998 and has been locall
+local breeds, etc.). Those choices can be in continuity with local tradition and know-how, or not. The innovation is related to New governance systems. The land use systems involved are Grassland, Natural land and agrosylvopastoral systems (schrubs, forests of oaks - accorns, meadows). The local assets include Natural and cultural.   Dairy husbandry and production of Cheese is observable in every other MRLs. On-farm cheese making is not a specificity of Corsica, but its anter…
+
+[CAND 74] ID=3109 CHUNK=2
+ID NARRATIVE: 3109
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 1. The reference MOVING Card ID of this VC is VC 12 CH1. Gran Alpin is a label for cereals produced above a certain altitude and in organic production systems. It also supports the production of more varieties of cereal. Some 
+/year [Region] is unspecified. The secondary sector share of total employment/year [Region] is unspecified. The tertiary sector share of total employment/year [Region] is unspecified.   super successfull label that re-values what is already there, GranAlpin presents grains grown in an organic way above a certain altitude in a certain region, this is basically how it has always been done. the label enables the products to be sold at a higher price, another part of the label is…
+
+[CAND 75] ID=2741 CHUNK=4
+ID NARRATIVE: 2741
+The MOVING reference member state of this VC (Value Chain) is BULGARIA. The reference MOVING Card ID of this VC is VC 06 BG. Most commonly made from sheep, cow or goat milk, or sometimes a mixture of these. Varying degrees of ageing. Most farmers do not have a problem with selling their products loc
+ land use systems involved are Grassland. The local assets include Natural.   Bulgaria has adopted conditions and procedures for use of the optional quality term (OQT) 'Mountain Product' and a national logo has been approved. However uptake of the OQT is currently very low.
+
+[CAND 76] ID=2953 CHUNK=4
+ID NARRATIVE: 2953
+The MOVING reference member state of this VC (Value Chain) is ROMANIA. The reference MOVING Card ID of this VC is VC 12 RO. Transylvania Lactate' pursues an integrated production-processing-marketing concept based upon managing as much of the value chain as possible from maintaining the High Nature 
+ they do exist they are mainly versions of well-known products such as yoghurt, sour cream and salted white cheese that are made with buffalo milk rather than sheep, cow or goat.    Maintaining the visibility and profitability of a premium product on the Romanian market is an ongoing challenge, especially in the face of cheaper imports of a speciality product such as Mozzarella. The dairy company, 'Transilvania Lactate' (https://www.transilvanialactate.ro/en/), therefore work…
+
+[CAND 77] ID=3133 CHUNK=2
+ID NARRATIVE: 3133
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 2. The reference MOVING Card ID of this VC is VC 11 CH2. The cake is produced and sold directly by about fifteen bakers in the canton or in small local shops.   The reference mountain chain of this VC is Jura. The reference mo
+tiary sector share of total employment/year [Province] is 41.41%. The primary sector share of total employment/year [Region] is 4.63%. The secondary sector share of total employment/year [Region] is 23.61%. The tertiary sector share of total employment/year [Region] is 71.57%.   The cake has a strong terrirotial identitity, being considered as a traditional speciality form the Jura canton, consumed extensively during local festivals. It is produced from flour and cream, made …
+
+[CAND 78] ID=2792 CHUNK=2
+ID NARRATIVE: 2792
+The MOVING reference member state of this VC (Value Chain) is FRANCE INRAE. The reference MOVING Card ID of this VC is VC 06 FR. A not very active union gathers the firms. Due to a demanding market and the absence of production and trade rules, the activity is governed by the summer and export marke
+ecified. The tertiary sector share of total employment/year [Province] is unspecified. The primary sector share of total employment/year [Region] is 0.036. The secondary sector share of total employment/year [Region] is 0.162. The tertiary sector share of total employment/year [Region] is 0.802.   Pork meat products made by big firms with imported raw material from lean pigs, destinated to European market. One part of them benefits of PGI since 2019. This value chain is part …
+
+[CAND 79] ID=2759 CHUNK=4
+ID NARRATIVE: 2759
+The MOVING reference member state of this VC (Value Chain) is CZECH REPUBLIC. The reference MOVING Card ID of this VC is VC 04 CZ. Farms - goat breeding, goat husbandry, grazing, perennial grassland management. Farms implement organic farming methods. Vast majority of farms process their own milk, p
+t years showed that in certain periods of dry Summer (e.g in year 2018) there might be a shortage of the feedstuff for animals. Overall the type of challenge faced by this VC is Current and Predicted. This VC is classified as Traditional and Innovative.   The type of innovation of this VC (Value Chain) is Endogenous and Exogenous. Innovation is associated with development of new food producst that are not so common in food menu of mainstream consumers. The innovation is relat…
+
+[CAND 80] ID=2763 CHUNK=3
+ID NARRATIVE: 2763
+The MOVING reference member state of this VC (Value Chain) is CZECH REPUBLIC. The reference MOVING Card ID of this VC is VC 08 CZ. Producers are not necessarily located in the mountains. Their businesses can be located outside mountains. However, they purchase and collect products from the mountain 
+eting in food areas. Producerts are creating new marketing chanels for selling their products and try to valorize symbolic features of the mountain region (such as 'pure nature', 'traditions' etc.).   Sumava Mountains provide pictoresque landscape and unique natural assects, the regions has been partly abandoned during the socialist-era (1950s-1989). In the last 30 years many farms have been renewed based on the pre-WII tradition. The region is highly attractive for tourists …
+
+[CAND 81] ID=2823 CHUNK=0
+ID NARRATIVE: 2823
+The MOVING reference member state of this VC (Value Chain) is GREECE. The reference MOVING Card ID of this VC is VC 19 GR. The actors in Ammotopos include: Small animal husbandry farmers where milk production is the main source of income. The company EPIRUS SA that operates in the region is one of t
+The MOVING reference member state of this VC (Value Chain) is GREECE. The reference MOVING Card ID of this VC is VC 19 GR. The actors in Ammotopos include: Small animal husbandry farmers where milk production is the main source of income. The company EPIRUS SA that operates in the region is one of the largest cheese-producing companies in Greece. The activities include: quality assurance, collection-transport of milk, quality control, milk processing, the maturing process and…
+
+[CAND 82] ID=3033 CHUNK=3
+ID NARRATIVE: 3033
+The MOVING reference member state of this VC (Value Chain) is SLOVAKIA. The reference MOVING Card ID of this VC is VC 07 SK. Activities: herbs production, collection of wild herbs and forest fruits. Key actors: managers, workers, consumers . Positive impact on local and regional SES is a contributio
+oduction is seasonal. 3) Due to the processing and storage of organic food without chemicals, their storage life is shorter. It requires more frequent processing, packaging, distribution, etc. At the same time, the organic food needs to be controlled at all production and processing stages. Overall the type of challenge faced by this VC is Current and Predicted. This VC is classified as Traditional and Innovative.   The type of innovation of this VC (Value Chain) is Endogenou…
+
+[CAND 83] ID=2957 CHUNK=4
+ID NARRATIVE: 2957
+The MOVING reference member state of this VC (Value Chain) is ROMANIA. The reference MOVING Card ID of this VC is VC 16 RO. Production is divided between men and women with everyone involved respecting the specific sequence of operations. The men are the potters. They select and dig the earth they c
+e chains for marketing these very traditional mountain products and there is growing interest in online sales, plus the possibility of some form of cooperation between families to access better established and more resilient value chains. Overall the type of challenge faced by this VC is Current. This VC is classified as Traditional.   The type of innovation of this VC (Value Chain) is unspecified. The innovation is related to the whole VC. The land use systems involved are T…
+
+[CAND 84] ID=2849 CHUNK=1
+ID NARRATIVE: 2849
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 01 IT. Parmigiano Reggiano DOP is an hard cheese of ancient tradition, handcrafted with raw cow's milk, partially skimmed by surfacing, without adding additives or pres
+verage per capita income (EUR/year) [Province] is 38700. The total Gross Value Added (GVA) (EUR million/year) [Province] is 15648.6. The primary sector share of total GVA/year [Province] is 2.38%. The secondary sector share of total GVA/year [Province] is 36.11%. The tertiary sector share of total GVA/year [Province] is 61.49%. The per capita income (EUR/year) [Region] is 36200. The total Gross Value Added (GVA) (EUR million/year) [Region] is 144710. The primary sector share …
+
+[CAND 85] ID=3161 CHUNK=0
+ID NARRATIVE: 3161
+The MOVING reference member state of this VC (Value Chain) is TURKEY. The reference MOVING Card ID of this VC is VC 14 TR. Dairy cattle enterprises are small scale. Cows graze in the highlands. Livestock provides the main livelihood for households. Kars Gruyere and Kashar are the most-produced chees
+The MOVING reference member state of this VC (Value Chain) is TURKEY. The reference MOVING Card ID of this VC is VC 14 TR. Dairy cattle enterprises are small scale. Cows graze in the highlands. Livestock provides the main livelihood for households. Kars Gruyere and Kashar are the most-produced cheeses in the village. There are five cheese production plants though only two them produce Gruyere cheese. The production of Gruyere and Kashar cheeses are important for the sustainab…
+
+[CAND 86] ID=2961 CHUNK=3
+ID NARRATIVE: 2961
+The MOVING reference member state of this VC (Value Chain) is ROMANIA. The reference MOVING Card ID of this VC is VC 20 RO. The 'Păstrăvăria Bușteni' began selling fresh (eviscerated) Rainbow Trout in 2018 and has since diversified into the processing and sale of a broad range of additional products
+'catch-and-cook'). The 'Păstrăvăria Bușteni' is a good example of a trout farm (https://www.pastravariabusteni.ro/) located in a mountain area (the Prahova River Valley) that is popular with tourists and therefore has a thriving business in direct sales of fresh trout and trout products - all registered as 'Mountain Products' under Romania's adoption of the Optional Quality Term (OQT).   The key natural asset for a trout farm such as this is a clean (unpolluted) source of wat…
+
+[CAND 87] ID=2832 CHUNK=3
+ID NARRATIVE: 2832
+The MOVING reference member state of this VC (Value Chain) is HUNGARY. The reference MOVING Card ID of this VC is VC 07 HU. It is part of an exceptionally well designed high value added local products' cluster, run by a monastery, mixing thousand year tradition with modern design and marketing tools
+ction (products, stories, etc.) for a 1000 years, this knowledge is used in production and marketing effectively. The managers of the different sections, products (the herb garden, winery, brewery, fruit and vegetable gardens, local shop, design, marketing, etc.) are normally having some strong ties to the monastery (e.g. monks, or graduated from the secondary school of the monastery, etc.) Staff is normally very committed, loyal and strongly identifies with the place and the…
+
+[CAND 88] ID=3002 CHUNK=6
+ID NARRATIVE: 3002
+The MOVING reference member state of this VC (Value Chain) is SERBIA. The reference MOVING Card ID of this VC is VC 12 SER. Donkeys are kept in natural environment, grazing in natural pastures, or fed with hay, with some addition of oat (when needed). Principles of organic production are applied. Th
+be carefully directed towards sustainable development. Overall the type of challenge faced by this VC is Current and Predicted. This VC is classified as Traditional and Innovative.   The type of innovation of this VC (Value Chain) is Endogenous and Exogenous. Donkey milk is a high quality product, but it is not very often used due to very low quantities of milk per animal. Balkan donkey was present in the area for long time, but during last decades, donkey became obsolete, an…
+
+[CAND 89] ID=3082 CHUNK=0
+ID NARRATIVE: 3082
+The MOVING reference member state of this VC (Value Chain) is SPAIN UCO. The reference MOVING Card ID of this VC is VC 15 ES. There are 6 main different kind of cheeses in the area, shared by three provinces (NUTS2). The blue cheeses from this region stand out nationwide and even competing in intern
+The MOVING reference member state of this VC (Value Chain) is SPAIN UCO. The reference MOVING Card ID of this VC is VC 15 ES. There are 6 main different kind of cheeses in the area, shared by three provinces (NUTS2). The blue cheeses from this region stand out nationwide and even competing in international cheese awards. The quality is certified by the four PDOs and two PGIs. As mentioned above, this cheese is highly linked to the social-ecological-system, being produced by t…
+
+[CAND 90] ID=2999 CHUNK=6
+ID NARRATIVE: 2999
+The MOVING reference member state of this VC (Value Chain) is SERBIA. The reference MOVING Card ID of this VC is VC 07 SER. Mountain trount value chain is nationally fragmented and dominated by small actors, with capacity of up to 1000m2. Out of this number many are not even registered. Their produc
+re free water fishing opportunities of mountan trout that are increasingly popular. Water management and monitoring of water quality ting natural conditions offer possibilities for developing other high-quality production systems, including agroecological production, etc. Existing GI protection is combined with other standards like Halal in order to reach foreign markets. There are initiatives for starting e-commerce of the products from this area. The innovation is related t…
+
+[CAND 91] ID=2953 CHUNK=0
+ID NARRATIVE: 2953
+The MOVING reference member state of this VC (Value Chain) is ROMANIA. The reference MOVING Card ID of this VC is VC 12 RO. Transylvania Lactate' pursues an integrated production-processing-marketing concept based upon managing as much of the value chain as possible from maintaining the High Nature 
+The MOVING reference member state of this VC (Value Chain) is ROMANIA. The reference MOVING Card ID of this VC is VC 12 RO. Transylvania Lactate' pursues an integrated production-processing-marketing concept based upon managing as much of the value chain as possible from maintaining the High Nature Value pastures that the buffalo graze; making supplementary animal feed for buffalo; ensuring the health of the buffalo; managing all aspects of dairy production and processing, an…
+
+[CAND 92] ID=2810 CHUNK=4
+ID NARRATIVE: 2810
+The MOVING reference member state of this VC (Value Chain) is GREECE. The reference MOVING Card ID of this VC is VC 05 GR. The vineyards are owned by member producers of the cooperative and their families. The processing (vinification) capacity of the facilities is 700 tons in 12 hours and for the p
+ a farmers' co-operative of 10 local villages and continuing a wine-production tradition of centuries. The growing expansion of this industry raises challenges for the sustainability of practices, as well as the potential of the cooperative to cover future demand. Another challenge is the sensitivity of wine production level and quality against climate change. Overall the type of challenge faced by this VC is Predicted. This VC is classified as Traditional and Innovative. The…
+
+[CAND 93] ID=2777 CHUNK=3
+ID NARRATIVE: 2777
+The MOVING reference member state of this VC (Value Chain) is FRANCE CCVD. The reference MOVING Card ID of this VC is VC 02 FR1. Extensive sheep farming and pastoralism are characteristic of Drôme valley mountain and mid-mountain areas. Local slaughtering and direct sales either directly to the cons
+velopment of adaptation practices in the face of climate change Sharing of mountain space and production of ecosystem services provided in the mountains (silvopastoralism). New marketing strategies: creation of a local filiere of organic sheep meet through direct sale and labels New governance systems: different actors using the mountain space gathers to define a common strategy of use such as 'Plan Pastoral Territorial'. Depends a lot of public policies, regional and local. …
+
+[CAND 94] ID=3081 CHUNK=3
+ID NARRATIVE: 3081
+The MOVING reference member state of this VC (Value Chain) is SPAIN UCO. The reference MOVING Card ID of this VC is VC 14 ES. The place where the goats sleep and graze is the same as the cheese production, all happens in the same farm. The goats are milked every day and the milk is sent to a lab for
+at cheese producers in Sierra Morena. Another case can be found in Guarromán (23039) where the familiar company 'Besos y Quesos' is following similar cheese making but with goats of the Malagueña breed.
+
+[CAND 95] ID=2791 CHUNK=3
+ID NARRATIVE: 2791
+The MOVING reference member state of this VC (Value Chain) is FRANCE INRAE. The reference MOVING Card ID of this VC is VC 05 FR. The activity is organized around actors constituted in several forms of organization which are in relation or not. First, the organization of the PDO which brings together
+, exogenous breeds slaughtered younger (8-10 months) etc.). These product are made by small-scale on-farm processors from local pigs (nustrale breed), reared in extensive conditions with chestnuts and acorns. The 3 PDOs are exemplary of the association of domestic animal and plant biodiversity (spontaneous and cultivated resources) and traditional knowledge (processing and tasting). The interest is linked to the coupling between the different human and non-human components on…
+
+[CAND 96] ID=2878 CHUNK=2
+ID NARRATIVE: 2878
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 46 IT. A large family of 2,300 mountain farmers and 470 employees it s our mission to uphold the South Tyrolean dairy industry and produce high-quality products. A coop
+is 72.95%. The primary sector share of total employment/year [Region] is 6.72%. The secondary sector share of total employment/year [Region] is 20.33%. The tertiary sector share of total employment/year [Region] is 72.95%.   Mila garantee a secured continuity of mountain farming, with quality products to the best possible milk price: the net profit of the cooperative is paid out to our farmers. Mila is a very important cooperative that take care to the producer of milk in mou…
+
+[CAND 97] ID=2866 CHUNK=2
+ID NARRATIVE: 2866
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 22 IT. We have chosen Paysage à Manger as a project of 'edible culture', an innovative and radical experiment at high altitude in which crops and cultures try to recove
+mployment/year [Region] is 3.73%. The secondary sector share of total employment/year [Region] is 17.72%. The tertiary sector share of total employment/year [Region] is 78.55%.   The farm is menber of Pro Specie Rara Swiss foundation that for 40 years has represented a point of reference in the research and protection of ancient Alpine varieties and breeds. They were selected by ReStartAlp, as one of the best projects of the year. Paysage à Manger is passion and research for …
+
+[CAND 98] ID=2842 CHUNK=3
+ID NARRATIVE: 2842
+The MOVING reference member state of this VC (Value Chain) is HUNGARY. The reference MOVING Card ID of this VC is VC 17 HU. Homemade pasta free of additives and artificial substances. The pasta is from only two ingredients: flour and eggs. They produce the raw materials needed for production almost 
+ sales channels. Problems of social enterprise labor supply and work ethic. Overall the type of challenge faced by this VC is Current and Predicted. This VC is classified as Traditional and Innovative.   The type of innovation of this VC (Value Chain) is Endogenous and Exogenous. Pasta preparation and hen keeping, flour grinding are traditional activities. The VC is implemented within the framework of a social enterprise, initiated by the local municipality (to provide work o…
+
+[CAND 99] ID=2765 CHUNK=2
+ID NARRATIVE: 2765
+The MOVING reference member state of this VC (Value Chain) is CZECH REPUBLIC. The reference MOVING Card ID of this VC is VC 10 CZ. Herb liquers are not a mainstream product. The producers operate on a niche market. The producers do not have to be located in the region, but mostly they are. The herb 
+45%. The number of agricultural holdings in the LAU is 1759. The nearest settlement with population over 100000 (km) is 100. In this region protected areas are present.   The primary sector share of total employment/year [Province] is 5.41%. The secondary sector share of total employment/year [Province] is 39.27%. The tertiary sector share of total employment/year [Province] is 55.33%. The primary sector share of total employment/year [Region] is 3.80%. The secondary sector s…
+
+[CAND 100] ID=2845 CHUNK=3
+ID NARRATIVE: 2845
+The MOVING reference member state of this VC (Value Chain) is HUNGARY. The reference MOVING Card ID of this VC is VC 20 HU. The key activities of this VC are collecting truffles, making special processed products and organising truffle collecting tours. They use forest areas on an environmentally fr
+ue to use forests to collect truffles. Marketing their truffle-adventure tours. Overall the type of challenge faced by this VC is Current and Predicted. This VC is classified as Innovative.   The type of innovation of this VC (Value Chain) is Exogenous. The processed products within this VC are special and innovative (truffle stuffed cheese, oil with truffle, salt with truffle). Looking for truffles is rare in the area, this VC is based on external knowledge. They are also in…
+
+[CAND 101] ID=2818 CHUNK=5
+ID NARRATIVE: 2818
+The MOVING reference member state of this VC (Value Chain) is GREECE. The reference MOVING Card ID of this VC is VC 14 GR. Prickly pear grows both wildly and is cultivated in Dicti mountainous terrain and on Crete. It is new farming activity and production of byproducts has not developed fully. The 
+ specific origin. More specifically, it's use in the production of food for livestock can decrease the cost and expenses of stockbreeders. However, there is no much demand by consumers for this product. Overall the type of challenge faced by this VC is Current. This VC is classified as Traditional and Innovative. The type of innovation of this VC (Value Chain) is Endogenous. Innovative products produced from a plant that has been underused until recently. Products produced ar…
+
+[CAND 102] ID=3097 CHUNK=3
+ID NARRATIVE: 3097
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND. The reference MOVING Card ID of this VC is VC CH 01. Key actors of the VC are represented mostly by small individual winegrowers, who are selling the grapes to bigger private wineries. Most of the producers, 75,8%, cultivate 
+f sustainability the ecological value of mountain can be further enhanced through the biodiversity enhancement and safeguarding. Overall the type of challenge faced by this VC is unspecified. This VC is classified as Traditional.   The type of innovation of this VC (Value Chain) is unspecified. The innovation is related to the whole VC. The land use systems involved are Cropland. The local assets include Natural.
+
+[CAND 103] ID=2759 CHUNK=3
+ID NARRATIVE: 2759
+The MOVING reference member state of this VC (Value Chain) is CZECH REPUBLIC. The reference MOVING Card ID of this VC is VC 04 CZ. Farms - goat breeding, goat husbandry, grazing, perennial grassland management. Farms implement organic farming methods. Vast majority of farms process their own milk, p
+oughurt, hard cheese etc. depending on the volume of milk which they produce). Farms are creating new marketing chanels for selling their products.   Sumava Mountains provide pictoresque landscape and unique natural assects, the regions has been partly abandoned during the socialist-era (1950s-1989). In the last 30 years many farms have been renewed based on the pre-WII tradition. The region is highly attractive for tourists in Winter as well Summer season. The goat farms and…
+
+[CAND 104] ID=2850 CHUNK=2
+ID NARRATIVE: 2850
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 02 IT. Key activities and key actors, labelling, quality schemes in place, dependencies of VC on local SES and impacts (positive and negative ) of VC on regional SES.  
+tnut tree planted from 500 meters to 1000 meter that usually rapresent the highest altitude, The Chestnuts are collected by small farm that process the fruit in small productions and high identity value. The chestnut tree performs various functions: productive, protective, naturalistic, landscape, recreational, didactic. The innovation start to spread also in this very traditional value chain.   The altitude, chestnut varieties, traditional rosted process, give to these chest…
+
+[CAND 105] ID=2797 CHUNK=4
+ID NARRATIVE: 2797
+The MOVING reference member state of this VC (Value Chain) is FRANCE INRAE. The reference MOVING Card ID of this VC is VC 11 FR. Milk lamb is seasonnaly produced, mostly in autumn, by approximatively 300 dairy-ewe farmers. Two associations of farmers intervene for slaughtering the animals and corres
+d, Serbia, Spain) might also been interesting regarding the use of resources linked with specialization.
+
+[CAND 106] ID=2916 CHUNK=3
+ID NARRATIVE: 2916
+The MOVING reference member state of this VC (Value Chain) is NMK. The reference MOVING Card ID of this VC is VC 19 NMK. Key actors dealing with honey in Maleshevija and the kew brands: a) Pcelarstvo Bobolibbksi b) Shumi Med c) Maleshevski Med d) Pcelarstvo Radinski . At national level there are 2 n
+also important to mention that, due to the highly developed biodiversity of honey flora, 98% of the honey in the country is polyfloral. Some recent studies have shown that only 2% of the honey is monofloral and this honey is produced from white acacia (Ribinia pseudoacacia).   Global climate change, environmental pollution, the decrease in natural lands under human pressure weaken the bees and make them more vulnerable to diseases. Chemicals used sometimes wrongly and needles…
+
+[CAND 107] ID=2718 CHUNK=3
+ID NARRATIVE: 2718
+The MOVING reference member state of this VC (Value Chain) is AUSTRIA. The reference MOVING Card ID of this VC is VC 13 AT. About 94 sheep farmers are associated within the cooperative ARGE Glocknerlamm which was founded in 2003. This cooperative processes and sells the lamb products to private cons
+traditional sheep races. The lamb is the key product of the region.    The region is situated within the highest mountains of Austria and the topography of the mountains doesn t allow for various farming practices. Sheep farming therefore is one of the few income possibilities for the mountain farmers. Climate change affects this region in regard to biodiversity loss and neophytes as well as a changing water balance. Overall the type of challenge faced by this VC is Current a…
+
+[CAND 108] ID=2842 CHUNK=0
+ID NARRATIVE: 2842
+The MOVING reference member state of this VC (Value Chain) is HUNGARY. The reference MOVING Card ID of this VC is VC 17 HU. Homemade pasta free of additives and artificial substances. The pasta is from only two ingredients: flour and eggs. They produce the raw materials needed for production almost 
+The MOVING reference member state of this VC (Value Chain) is HUNGARY. The reference MOVING Card ID of this VC is VC 17 HU. Homemade pasta free of additives and artificial substances. The pasta is from only two ingredients: flour and eggs. They produce the raw materials needed for production almost entirely locally (they also have eggs and their own mills). Their products are also sold in nearby local grocery stores. The product is beautifully packaged and high quality. The p…
+
+[CAND 109] ID=2840 CHUNK=3
+ID NARRATIVE: 2840
+The MOVING reference member state of this VC (Value Chain) is HUNGARY. The reference MOVING Card ID of this VC is VC 15 HU. Organic garlic production, a joint enterprise of two small family businesses with modern machines purchased with the help of the local Leader LAG. High-quality garlic produced,
+s very strong. This is a new line of production in the arey (and for these particular businesses) made possible by climate change, there is some lack of knowledge and experience.. Overall the type of challenge faced by this VC is Current and Predicted. This VC is classified as Innovative.   The type of innovation of this VC (Value Chain) is Endogenous. Garlic is not a traditional product in the Bakony Mountains, also the special quality, the organic cultivation and the specia…
+
+[CAND 110] ID=2821 CHUNK=4
+ID NARRATIVE: 2821
+The MOVING reference member state of this VC (Value Chain) is GREECE. The reference MOVING Card ID of this VC is VC 17 GR. The VC engages the local producers and their families, due to the traditional scheme of cultivatrion. There is one cooperative of all producers, responsible for the quality stan
+rations of joy or in ceremonies of sorrow in the villages of Feneos. The increasing interest of the product in the traditional Greek gastronomy has extented the VC beyond the limits of the area. Legumes seem to be quite resilient to clime change compare to other cultivated plants. There is also evidence that the cultivation of legumes, especially with traditional techniques, has a very small energy footprint. Additionally, the increasing demand of legumes and the high nutriti…
+
+[CAND 111] ID=3107 CHUNK=2
+ID NARRATIVE: 3107
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 1. The reference MOVING Card ID of this VC is VC 10 CH1. There is one major beer brand ('Appenzellerbier') that uses barley from the mountain regions, as well as many smaller breweries producing many types of beer. However, th
+y sector share of total employment/year [Region] is unspecified.   innovative use of mountain grain, using traditional grain varieties. craft beers have become popular only in the last max. 10 years in switzerland, innovative way of using locally adapted produce, marketed towards younger customers than more traditional alpine products.   potentially problematic when water becomes scarce. Overall the type of challenge faced by this VC is Predicted. This VC is classified as Inn…
+
+[CAND 112] ID=2905 CHUNK=2
+ID NARRATIVE: 2905
+The MOVING reference member state of this VC (Value Chain) is NMK. The reference MOVING Card ID of this VC is VC 08 NMK. Mainly private individuals and families dealing with the agriculutre. .   The reference mountain chain of this VC is Mountain Meleshevija. The reference mountain landscape of this
+ a high quality, due to natural factors, which are produced in a very cleaned environment, such as Maleshevija. Potatoes have a good identity from the region of Maleshevija, and are sold across the country. The high quality product, due to natural factors. Well recognized across the country the Maleshevski potatoes.   In few occasions, the lack of consolidated VC. Potatos are sold directly to customers or retailed on the green markets. There are no indications for the origin …
+
+[CAND 113] ID=2954 CHUNK=5
+ID NARRATIVE: 2954
+The MOVING reference member state of this VC (Value Chain) is ROMANIA. The reference MOVING Card ID of this VC is VC 13 RO. 'Brănză Horezu' was first produced in the town of Horezu in the mountainous region of northern Vâlcea County (RO415) in 2001. All milk used for cheese production is collected d
+Authority is responsible for regulating the market in 'Mountain Products' and checks if producers have been granted the authorisation to use the OQT and if the labelling is in compliance with the national regulation.
+
+[CAND 114] ID=2797 CHUNK=2
+ID NARRATIVE: 2797
+The MOVING reference member state of this VC (Value Chain) is FRANCE INRAE. The reference MOVING Card ID of this VC is VC 11 FR. Milk lamb is seasonnaly produced, mostly in autumn, by approximatively 300 dairy-ewe farmers. Two associations of farmers intervene for slaughtering the animals and corres
+l employment/year [Province] is unspecified. The secondary sector share of total employment/year [Province] is unspecified. The tertiary sector share of total employment/year [Province] is unspecified. The primary sector share of total employment/year [Region] is 0.036. The secondary sector share of total employment/year [Region] is 0.162. The tertiary sector share of total employment/year [Region] is 0.802.   high reputation products, coexistence between mountainous area and…
+
+[CAND 115] ID=2781 CHUNK=4
+ID NARRATIVE: 2781
+The MOVING reference member state of this VC (Value Chain) is FRANCE CCVD. The reference MOVING Card ID of this VC is VC 06 FR1. Drome stone fruit value chain is a well established value chain. The main production are peaches and abricots with an average size of the orchard are 15ha. The main cultur
+o find solutions to fight freezing episodes but also to diversify towards more adapted cultures. Due to the climatic crisis, the VC depends on regional public aids. Overall the type of challenge faced by this VC is Current and Predicted. This VC is classified as Traditional.   The type of innovation of this VC (Value Chain) is unspecified. The innovation stands in the fact that the stone fruitd VC is currently diversifying to face freeing episode challenge: production of new …
+
+[CAND 116] ID=2794 CHUNK=3
+ID NARRATIVE: 2794
+The MOVING reference member state of this VC (Value Chain) is FRANCE INRAE. The reference MOVING Card ID of this VC is VC 08 FR. Autumn honey is made almost exclusively from arbutus unedo honey. Its strongly bitter taste characteristic distinguishes it very easily from other honeys in the range. Its
+to increasing drought linked to global warming. Overall the type of challenge faced by this VC is Current. This VC is classified as Traditional and Innovative.   The type of innovation of this VC (Value Chain) is Endogenous and Exogenous. The innovation consists of designing a marketing strategy aimed at associating the promotion of honey with a public of European connoisseurs and the preservation of unedo arbutus stands for which there has been a decrease in the Mediterranea…
+
+[CAND 117] ID=2740 CHUNK=3
+ID NARRATIVE: 2740
+The MOVING reference member state of this VC (Value Chain) is BULGARIA. The reference MOVING Card ID of this VC is VC 05 BG. Kilim production is also clearly linked to the traditional farming systems practised in the region sheep grazing in the mountainous pastures, the processing of their wool to p
+lim weaving in Chiprovtsi Municipality (MON36) is considered an important part of Bulgarian national heritage and was inscribed on the UNESCO list of Intangible Cultural Heritage in 2014.   A combination of assets are used: the semi-natural and natural mountain grasslands (meadows and pastures) plus the cultural heritage of the Kilim weaving tradition.    Whilst local sheep production remains a reliable source of wool, the local kilim industry has declined in recent years bec…
+
+[CAND 118] ID=3071 CHUNK=3
+ID NARRATIVE: 3071
+The MOVING reference member state of this VC (Value Chain) is SPAIN ADEGUA. The reference MOVING Card ID of this VC is VC 45 ES. The production occurs in the small orchards located in the described area, both in dry and irrigated land. The production is destined to different markets for its raw sale
+tain high-quality fruits. It is a unique market that demands quality and innovation. There is a growing demand for organic quince. Overall the type of challenge faced by this VC is Current and Predicted. This VC is classified as Traditional and Innovative.   The type of innovation of this VC (Value Chain) is Endogenous and Exogenous. Since the end of the 1960s, quince juice production began to be experimented with, and it has been taken up more recently by the Almazaras de la…
+
+[CAND 119] ID=3006 CHUNK=6
+ID NARRATIVE: 3006
+The MOVING reference member state of this VC (Value Chain) is SERBIA. The reference MOVING Card ID of this VC is VC 21 SER. Main activities are different types of tours and touristic offers created by the Adventure Network, including outdoor festivals, hiking tours, sky running, yoga retreats, free 
+ndangering living ecosystems in and around rivers and right to water. Use of mountain streams for fish production is linked to clear and not pollute waters and springs. The environmental impacts of current economic activities in the area is high, including poor waste management, construction in the protected areas, pollution of rivers and lake Zavoj (water supply lake), etc. Prevailing farming is livestock production (sheep and cows), used for meat production, as well as for …
+
+[CAND 120] ID=3150 CHUNK=0
+ID NARRATIVE: 3150
+The MOVING reference member state of this VC (Value Chain) is TURKEY. The reference MOVING Card ID of this VC is VC 03 TR. Key actors: mushroom compost or compost material suppliers, spawn suppliers, companies, small-scale farmers, traders; producer union; retailers; consumers Key activities: Input 
+The MOVING reference member state of this VC (Value Chain) is TURKEY. The reference MOVING Card ID of this VC is VC 03 TR. Key actors: mushroom compost or compost material suppliers, spawn suppliers, companies, small-scale farmers, traders; producer union; retailers; consumers Key activities: Input supply, growing, harvesting, processing, packaging, logistics; marketing; sales; purchasing It is stated that 96% of mushroom production in Korkuteli is carried out by small family…
+
+[CAND 121] ID=2915 CHUNK=3
+ID NARRATIVE: 2915
+The MOVING reference member state of this VC (Value Chain) is NMK. The reference MOVING Card ID of this VC is VC 18 NMK. The top 15 wineries are members of the body Wines of Macedonia and they work together to represent the country s wines and wine regions in expert markets. The same body participat
+n of Maleshevija (the reference region of the project). Overall the type of challenge faced by this VC is Current and Predicted. This VC is classified as Traditional and Innovative.   The type of innovation of this VC (Value Chain) is unspecified. The used technology on production and distribution. The innovation is related to New processes and New marketing strategies. The land use systems involved are Forestry and Natural land. The local assets include Natural, social and c…
+
+[CAND 122] ID=3139 CHUNK=2
+ID NARRATIVE: 3139
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 2. The reference MOVING Card ID of this VC is VC 18 CH2. The VC is composed only of farms, which produce, process and sell the resource directly on the farm. Some external and local inputs are used for colouring and flavouring
+total employment/year [Province] is 66.91%. The primary sector share of total employment/year [Region] is 2.55%. The secondary sector share of total employment/year [Region] is 15.85%. The tertiary sector share of total employment/year [Region] is 81.36%.   High quality product, produced, processed and sold directly at the farm level. Mustard is an often industrial and highly consumed product. The innovation comes from the process of production and local transformation in dir…
+
+[CAND 123] ID=2959 CHUNK=3
+ID NARRATIVE: 2959
+The MOVING reference member state of this VC (Value Chain) is ROMANIA. The reference MOVING Card ID of this VC is VC 18 RO. The value chain is very short and very simple. Visitors to a village have the opportunity to enhance their holiday or day-trip experience in a rural mountain setting to be enha
+ists visiting the area a real, safe, unique culinary experience in the local villages. This need exists in many other mountain areas and the concept of a Local Gastronomic Point is very straightforward to replicate. It is also a very good way to build community spirit and social capital through cooperation - whilst improving household incomes and selling increased quantities of local food and drink. .   Local hospitality at the level of individual households and the quality o…
+
+[CAND 124] ID=3128 CHUNK=0
+ID NARRATIVE: 3128
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 2. The reference MOVING Card ID of this VC is VC 01 CH2. The malthouse has 34 members, including 14 farmers, 16 breweries and other malt processors, as well as 14 other people interested in the development of the regional brew
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 2. The reference MOVING Card ID of this VC is VC 01 CH2. The malthouse has 34 members, including 14 farmers, 16 breweries and other malt processors, as well as 14 other people interested in the development of the regional brewing industry. Farmers can bring in their barley, which is processed into malt to be used in the production of beer.   The reference mountain chain of this VC is Jura. The reference…
+
+[CAND 125] ID=2987 CHUNK=4
+ID NARRATIVE: 2987
+The MOVING reference member state of this VC (Value Chain) is SERBIA. The reference MOVING Card ID of this VC is VC 06 SER. Local wild berries picked by local people in order to supplement their incomes. Pure natural product dependent on the state of the natural system. Local knowledge of the terrai
+ting strategies, etc. apply. On top of that come the problems posed by the effects of climate change such as drought, late season frost, etc. In addition, while for the cultivation of blue berries stable production and quality via applying cultivation techniques can be assured, this does not apply for wild berry picking which is dependent on local climatic and soil conditions. Wild berries are not always easy to find and don't have the same characteristics over various season…
+
+[CAND 126] ID=3082 CHUNK=3
+ID NARRATIVE: 3082
+The MOVING reference member state of this VC (Value Chain) is SPAIN UCO. The reference MOVING Card ID of this VC is VC 15 ES. There are 6 main different kind of cheeses in the area, shared by three provinces (NUTS2). The blue cheeses from this region stand out nationwide and even competing in intern
+nnovation of this VC (Value Chain) is Exogenous. The innovations are related to e-commerce strategies (still not very developed) and the geographical certifications. The innovation is related to New marketing strategies. The land use systems involved are Grassland and Animal skin / leather. The local assets include Natural and cultural.   This VC is present in the following municipalities: Cabrales (33008), Peñamellera Alta (33046), Cangas de Onís (22012), Onís (33043), Amiev…
+
+[CAND 127] ID=2719 CHUNK=4
+ID NARRATIVE: 2719
+The MOVING reference member state of this VC (Value Chain) is AUSTRIA. The reference MOVING Card ID of this VC is VC 14 AT. Only registered animals can take part in the beef quality program approved by the Agrarmarkt Austria (AMA). The oxen come from suckler cow husbandry and are hired by the fatten
+as passed on to those who work in this area: Traditional knowledge and experience of animal husbandry (adaptation of the herds to the conditions of the environment, know-how of the farmers, type of beef production, improvement genetic material), the butcher's know-how (animal transport, experience in slaughtering, cutting, meat maturing) and the experience of the Murbodner cattle breeders' association.   The Murbodener adds value to the meat, which is of particular relevance …
+
+[CAND 128] ID=2908 CHUNK=2
+ID NARRATIVE: 2908
+The MOVING reference member state of this VC (Value Chain) is NMK. The reference MOVING Card ID of this VC is VC 11 NMK. Mainly the state owne company (Makedonski Shumi) deals with the forestry and wood in the region of Maleshevija.   The reference mountain chain of this VC is Mountain Meleshevija. 
+ [Region] is 53.30%.   The forests in the Maleshevija Mountain take place with around 52%. Mostly there are pine forest (f. Pinacae), oak forest (f. Quercacae) and the beech forest (f. Fugacae). The woAs many as 62 percent of the total number of Macedonian households use firewood as a primary source of energy, 29 percent use electricity, and only eight percent are connected to central heating, according to recent research. Heating with firewood is still the most economical, a…
+
+[CAND 129] ID=2860 CHUNK=2
+ID NARRATIVE: 2860
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 14 IT. The VC is not dependent on other SES for its production process, but marketing strategies involve other VCs and even other neighbour SESs. The relevant actor is 
+otected areas are present.   The primary sector share of total employment/year [Province] is 2.13%. The secondary sector share of total employment/year [Province] is 28.25%. The tertiary sector share of total employment/year [Province] is 69.62%. The primary sector share of total employment/year [Region] is 2.97%. The secondary sector share of total employment/year [Region] is 31.23%. The tertiary sector share of total employment/year [Region] is 65.80%.   A young farmer's so…
+
+[CAND 130] ID=2841 CHUNK=2
+ID NARRATIVE: 2841
+The MOVING reference member state of this VC (Value Chain) is HUNGARY. The reference MOVING Card ID of this VC is VC 16 HU. The backbone of the business, launched in 2010, is a chemical engineer couple, who farm with the help of their children and their parents. They produce and sell wine (Chardonna
+oyment/year [Province] is 3.89%. The secondary sector share of total employment/year [Province] is 40.14%. The tertiary sector share of total employment/year [Province] is 55.97%. The primary sector share of total employment/year [Region] is 3.89%. The secondary sector share of total employment/year [Region] is 40.14%. The tertiary sector share of total employment/year [Region] is 55.97%.   Small familiy organic winery, organic vegetable and fruit gardan. They work with the w…
+
+[CAND 131] ID=2971 CHUNK=3
+ID NARRATIVE: 2971
+The MOVING reference member state of this VC (Value Chain) is SCOTLAND HUTTON. The reference MOVING Card ID of this VC is VC 12 UK. Welsh Lamb is designated with a PGI mark (since 2003), and it is often considered as the best lamb in the worls. It is reared uing traditional non-intensive processes o
+ive processes to rear their lamb.   Natural assets - Relies on the land to be maintained in same way (i.e., not used for another non-farming purpose) to ensure quality welsh lamb can be reared here. Social assets - good relatoinships within and across the VC. Cultural - relies of traditional knowledge to maintain same lamb rearing processes.    Threats of costs of lamb production/ price obtained at market through Brexit/ COVID lockdown. Welsh lamb very dependent on land so ch…
+
+[CAND 132] ID=2724 CHUNK=2
+ID NARRATIVE: 2724
+The MOVING reference member state of this VC (Value Chain) is AUSTRIA. The reference MOVING Card ID of this VC is VC 19 AT. The cooperative provides an income basis for the mountain farmers which is also of importance regarding the multifunctionality of the mountain landscape, which has value for to
+vince] is 2.94%. The secondary sector share of total employment/year [Province] is 28.24%. The tertiary sector share of total employment/year [Province] is 68.82%. The primary sector share of total employment/year [Region] is 3.48%. The secondary sector share of total employment/year [Region] is 22.84%. The tertiary sector share of total employment/year [Region] is 73.68%.   Bio vom Berg is a Tyrolian brand owned by a cooperative (BioAlpin e.G.) of about 600 farmers and small…
+
+[CAND 133] ID=2764 CHUNK=2
+ID NARRATIVE: 2764
+The MOVING reference member state of this VC (Value Chain) is CZECH REPUBLIC. The reference MOVING Card ID of this VC is VC 09 CZ. VC uses now EU PGI label. Behind this label there is specific symbol of the region. Albeit located close to heavy industrialised and polluted region of Ostrava, Vallachi
+ sector share of total employment/year [Province] is 2.10%. The secondary sector share of total employment/year [Province] is 49.40%. The tertiary sector share of total employment/year [Province] is 48.50%. The primary sector share of total employment/year [Region] is 3.24%. The secondary sector share of total employment/year [Region] is 45.99%. The tertiary sector share of total employment/year [Region] is 50.77%.   EU Protected Geographical Indication (PGI) label and region…
+
+[CAND 134] ID=2728 CHUNK=3
+ID NARRATIVE: 2728
+The MOVING reference member state of this VC (Value Chain) is AUSTRIA. The reference MOVING Card ID of this VC is VC 04 AT. Four fish farmers have teamed up and value solidarity-based cooperation. One farm breeds the fish from the egg and supplies the other farms with seedlings. One does not market 
+nimals, fish are particularly susceptible to changes in their ambient temperature. Particularly cold stenothermic species, i.e. fish species that are difficult to deal with increases in temperature, are affected by global warming and highly vulnerable. Overall the type of challenge faced by this VC is Current and Predicted. This VC is classified as Innovative.   The type of innovation of this VC (Value Chain) is Endogenous and Exogenous. Fish farming is not usual for the regi…
+
+[CAND 135] ID=3153 CHUNK=0
+ID NARRATIVE: 3153
+The MOVING reference member state of this VC (Value Chain) is TURKEY. The reference MOVING Card ID of this VC is VC 06 TR. The leading marketing channels of Karyağdı Pear used by the farmers are local merchants, followed by non-local merchants and companies. It is seen that they do not sell to the s
+The MOVING reference member state of this VC (Value Chain) is TURKEY. The reference MOVING Card ID of this VC is VC 06 TR. The leading marketing channels of Karyağdı Pear used by the farmers are local merchants, followed by non-local merchants and companies. It is seen that they do not sell to the supermarket retailers. However, other retailers are used moderately in product sales. It is seen that the farmers also sell pears directly to the hotels since it is in the tourism r…
+
+[CAND 136] ID=2873 CHUNK=3
+ID NARRATIVE: 2873
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 35 IT. The Di Iorio family is at the heart of the VC that connects several SESs to supply raw materials traditionally used in traditional desserts. The company has seve
+an root materials (almonds, sugar, flour, butter, etc.). In the SES, the production of nougat is traditional. However, the 'Di Iorio' factory has diversified its production with other conventional Italian confectionery products and innovated the products more in line with consumers' needs and interests. The company has also invested in online commerce. They stress high-quality productions and their awards.   Gastronomic and confectionery culture is predominant in this VC. Sev…
+
+[CAND 137] ID=2815 CHUNK=2
+ID NARRATIVE: 2815
+The MOVING reference member state of this VC (Value Chain) is GREECE. The reference MOVING Card ID of this VC is VC 11 GR. Local beekeepers produce pefkothymaromelo with the traditional way of apicature. Their familes are involved. The product is processed by local units. The Region of Crete has add
+is 19873. The nearest settlement with population over 100000 (km) is 52. In this region protected areas are present.   The primary sector share of total employment/year [Province] is 14.78%. The secondary sector share of total employment/year [Province] is 11.46%. The tertiary sector share of total employment/year [Province] is 73.76%. The primary sector share of total employment/year [Region] is 16.20%. The secondary sector share of total employment/year [Region] is 11.84%. …
+
+[CAND 138] ID=2924 CHUNK=0
+ID NARRATIVE: 2924
+The MOVING reference member state of this VC (Value Chain) is PORTUGAL ESTRELA. The reference MOVING Card ID of this VC is VC 03 PT2. Sheep of Bordaleira Serra da Estrela and/or Churra Mondegueira breeds feed on pastures exclusively from the geographical production area of Serra da Estrela. However,
+The MOVING reference member state of this VC (Value Chain) is PORTUGAL ESTRELA. The reference MOVING Card ID of this VC is VC 03 PT2. Sheep of Bordaleira Serra da Estrela and/or Churra Mondegueira breeds feed on pastures exclusively from the geographical production area of Serra da Estrela. However, simple or compound food can be used to reinforce the diet, especially at the beginning and end of pregnancy and at the peak of lactation, with authorization from the producers gro…
+
+[CAND 139] ID=2714 CHUNK=3
+ID NARRATIVE: 2714
+The MOVING reference member state of this VC (Value Chain) is AUSTRIA. The reference MOVING Card ID of this VC is VC 01 AT. ALMO is a label for quality ox products and the lead product of the region. 'ALMO' (Almo Steirisches Almochsenfleisch) is protected as word mark. The Association Steirische Ber
+t. ALMO is based on traditional pasture framing, and characterised by exceptionally high animal welfare standards (cooperation with an Austrian animal welfare NGO). Through the cooperation between farmers and with other value chain actors (veterinaries, butchers, retailers, tourism, regional development agency) several innovations emerged. The initiative is driven by special relationships of the initiators with other value chain actors, well embedded into the regional develop…
+
+[CAND 140] ID=3017 CHUNK=3
+ID NARRATIVE: 3017
+The MOVING reference member state of this VC (Value Chain) is SKANDINAVIAN UCO. The reference MOVING Card ID of this VC is VC 11 SCA. Rakfish is fermented trout, and is one of the most extended traditional products in Norway. Fish is taken from the water and right after put into buckets with specifi
+ renewal from natural streams that flow through the ponds. This generates the best environment to breed fish as they can excersice swimming in fresh and clean water. Water temperature, speed and biochemical characteristics influence the fish quality. The social asset is represented in the PDO that brings producers together. Finally, the rakfish is a traditional product consumed all along Norway and the traditional fermentation method is quite unique in Europe.    In the light…
+
+[CAND 141] ID=2986 CHUNK=3
+ID NARRATIVE: 2986
+The MOVING reference member state of this VC (Value Chain) is SCOTLAND HUTTON. The reference MOVING Card ID of this VC is VC 28 UK. Breakfast puddings including haggis and Stornoway black pudding are an important Scottish food and export commodity. Haggis has an export value of £8.8 million over the
+ures (i.e. scottish breakfast puddings often served in tourist accomodation). Social assets: strong links throughout the VC including between farmer/crofter, butcher and touism provider. Cultural assets: Links to traditional knowledge for pudding production, but also crofting and livestock farming practices. Haggis and black pudding are also important cultural icons for Scottish food industry.    relies on tourism for a good market for selling produce (potential challenges fr…
+
+[CAND 142] ID=2955 CHUNK=4
+ID NARRATIVE: 2955
+The MOVING reference member state of this VC (Value Chain) is ROMANIA. The reference MOVING Card ID of this VC is VC 14 RO. 'Pastrama de Oaie' is produced from boneless mutton (sheepmeat), preserved and smoked according to a special recipe with very characteristic aroma and taste. It is commonly sol
+rocessing and approval of requests to use the OQT and associated 'Mountain products' logo is undertaken locally by 30 Mountain Development Offices located in mountain communes. The National Consumers Protection Authority is responsible for regulating the market in 'Mountain Products' and checks if producers have been granted the authorisation to use the OQT and if the labelling is in compliance with the national regulation.
+
+[CAND 143] ID=3140 CHUNK=3
+ID NARRATIVE: 3140
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 2. The reference MOVING Card ID of this VC is VC 38 CH2. The value chain consists of a beekeeper who produces and markets his honey locally, in small local shops and sells it online. The honeys also go through a certification 
+VC is classified as Traditional and Innovative.   The type of innovation of this VC (Value Chain) is unspecified. In addition to the production of artisanal honey, the producer proposes to sponsor beehives to make consumers aware of the importance of bees and to provide an additional income. The innovation is related to The producers offer a new service (beehive sponsoring) to sensitize the consummer to the importance of bees and help him finance his production. The land use …
+
+[CAND 144] ID=2853 CHUNK=4
+ID NARRATIVE: 2853
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 05 IT. The Di Nucci family organised VCs involving local economic actors (e.g., breeders) in high-quality traditional dairy productions. The 'Di Nucci' dairy incorporat
+e land use systems involved are Cropland and Grassland. The local assets include Natural, social and cultural.   The company has a quality certification about its milk supply chain, and it has won several awards for its products and its innovation strategy.
+
+[CAND 145] ID=2903 CHUNK=2
+ID NARRATIVE: 2903
+The MOVING reference member state of this VC (Value Chain) is NMK. The reference MOVING Card ID of this VC is VC 06 NMK. Key actors dealing with NTFP in Maleshevija : a) Agro Maks b) Balivski c) Emilija Pehcheva d) Krstovski Gjorgji . There are many private individuals/families leaving in the region
+ of total employment/year [Region] is 30.50%. The tertiary sector share of total employment/year [Region] is 53.30%.   The large majority of the recorded plants are used in form of teas, and mainly for minor dysfunctions of the respiratory system, in a form of medicinal herbs. These herbs have a potential to involve local collectors , mainly individuals and families from the region of Maleshevija. With these efforts there is a potential to create employment opportunity thereb…
+
+[CAND 146] ID=3112 CHUNK=2
+ID NARRATIVE: 3112
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 1. The reference MOVING Card ID of this VC is VC 15 CH1. Soglio is a well established brand of cosmetics from Grisons, which refines natural alpine raw materials into body care products of the highest quality. These are sold i
+ quality, but then the product is not overly sustainable or made at a local scale, could this be improved?.   a lot of value creation happens elsewhere, profits off of regional traditions. Overall the type of challenge faced by this VC is Current. This VC is classified as Traditional and Innovative.   The type of innovation of this VC (Value Chain) is unspecified. while making cosmetics form local natural finds like herbs has a long tradition, SOGLIO managed to make a well es…
+
+[CAND 147] ID=2726 CHUNK=0
+ID NARRATIVE: 2726
+The MOVING reference member state of this VC (Value Chain) is AUSTRIA. The reference MOVING Card ID of this VC is VC 20 AT. Styria beef is a premium beef product of organic farmers from Styria. Their homepage states that 'Styria beef' is only available on-farm, small food shops, high class gastronom
+The MOVING reference member state of this VC (Value Chain) is AUSTRIA. The reference MOVING Card ID of this VC is VC 20 AT. Styria beef is a premium beef product of organic farmers from Styria. Their homepage states that 'Styria beef' is only available on-farm, small food shops, high class gastronomy and online, but it's also available in certain supermarket. The BIO-BEEF GmbH is the main actor owning the brand. The company 'Karnerta' is named as a key player in the marketing…
+
+[CAND 148] ID=3052 CHUNK=4
+ID NARRATIVE: 3052
+The MOVING reference member state of this VC (Value Chain) is SPAIN ADEGUA. The reference MOVING Card ID of this VC is VC 13 ES. The organic production of olive oil in mountain areas represents a small group of producers and a niche market that can guarantee their survival as long as a specific mark
+cosystem with an important presence of associated natural vegetation.    Emphasis should be placed on: greater interest by producers in innovative systems; greater coordination among producers; the development of processing chains and specific products under organic certification; reference to local varieties of olives and mountain cultivars; the opening of specific marketing channels; synergies with other sectors such as culture, the environment and tourism; adaptation to cl…
+
+[CAND 149] ID=2829 CHUNK=2
+ID NARRATIVE: 2829
+The MOVING reference member state of this VC (Value Chain) is HUNGARY. The reference MOVING Card ID of this VC is VC 04 HU. Within a social employment programme, initiated by the local government, members of the local community (poor, unemployed, Roma) produce pumpkin seeds and process it into diffe
+ce] is 55.97%. The primary sector share of total employment/year [Region] is 3.89%. The secondary sector share of total employment/year [Region] is 40.14%. The tertiary sector share of total employment/year [Region] is 55.97%.   In addition to other vegetables and herbs, peeled seedless pumpkins began to be grown in Boldva, in the framework in a public employment based social enterprise, giving livelihood to poor, disadvantaged social groups (mainly Roma). A small processing …
+
+[CAND 150] ID=2809 CHUNK=3
+ID NARRATIVE: 2809
+The MOVING reference member state of this VC (Value Chain) is GREECE. The reference MOVING Card ID of this VC is VC 04 GR. The cooperative activities have an important impact on the regional SES, as they offer an opportunity for work and entrepreneurship to women. Their products are under quality sc
+and standardization of products and maintains a beautiful country tavern for hosting social events. Their products are sold through online stores. The set of activities of the cooperative contribute to the local SES. The raw materials and products used by the cooperative are provided mainly by the local natural resources, the grassland and natural land. The women's cooperative has an important impact for the area of Gergeri, as well as for every mountainous area in Crete, bec…
+
+[CAND 151] ID=2974 CHUNK=4
+ID NARRATIVE: 2974
+The MOVING reference member state of this VC (Value Chain) is SCOTLAND HUTTON. The reference MOVING Card ID of this VC is VC 15 UK. Just as Scottish heather can be used to make honey, it is also used in jewellery making. The woody stems of heather provide no nutriional value for wildlife and so by u
+ Chain) is Endogenous and Exogenous. innovative through the continues use of traditional processes for heather jewellery making and new means of selling (i.e., online stores, etsy etc.). The innovation is related to New marketing strategies. The land use systems involved are Natural land. The local assets include Natural, social and cultural.   Could not find other examples of heather jewellery making in other MRLs, but there are examples of pressed flower jewellery (i.e. flo…
+
+[CAND 152] ID=2785 CHUNK=0
+ID NARRATIVE: 2785
+The MOVING reference member state of this VC (Value Chain) is FRANCE CCVD. The reference MOVING Card ID of this VC is VC 10 FR1. Organic still wine production is an innovative VC in the Drôme. It was developped in response to Clairette de Die (famous local sparkling wine) crisis. In fact, Drome viti
+The MOVING reference member state of this VC (Value Chain) is FRANCE CCVD. The reference MOVING Card ID of this VC is VC 10 FR1. Organic still wine production is an innovative VC in the Drôme. It was developped in response to Clairette de Die (famous local sparkling wine) crisis. In fact, Drome viticultors were strongly specialized in the Clairette de Die production while this product's sale are decreasing. To face the crisis, some producers adapted and offer new proposition …
+
+[CAND 153] ID=3004 CHUNK=0
+ID NARRATIVE: 3004
+The MOVING reference member state of this VC (Value Chain) is SERBIA. The reference MOVING Card ID of this VC is VC 18 SER. Local pickers, purchasing stations, processors, whole sale, retail and end consumers (markets, supermarkets, restaurants, health shops). Under used potential has lead to the ne
+The MOVING reference member state of this VC (Value Chain) is SERBIA. The reference MOVING Card ID of this VC is VC 18 SER. Local pickers, purchasing stations, processors, whole sale, retail and end consumers (markets, supermarkets, restaurants, health shops). Under used potential has lead to the need to supplement local production with imports from Ukraine, Poland and other countries. Most producers/processors adhere to at least one quality scheme such as the HACCP standard.…
+
+[CAND 154] ID=2734 CHUNK=5
+ID NARRATIVE: 2734
+The MOVING reference member state of this VC (Value Chain) is GREECE. The reference MOVING Card ID of this VC is VC 09 GR. The adaptability and ease in farming led to the cultivation of Aloe vera as an alternative plant during economic crisis of 2008-2016. The plant is being processed to produce jui
+ vera is a very profitable investment, and that is significant for crisis-ravaged farmerns in the region. Overall the type of challenge faced by this VC is Current. This VC is classified as Traditional and Innovative. The type of innovation of this VC (Value Chain) is Endogenous and Exogenous. Innovation concerns: (1) A network of partners farmers and byproduct producers of Aloe Vera plants has been established in the Dikti region. The cooperative is called the Minoan Land (2…
+
+[CAND 155] ID=3129 CHUNK=3
+ID NARRATIVE: 3129
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 2. The reference MOVING Card ID of this VC is VC 05 CH2. The VC is composed of farmers, breeding horses in the wild, slaughterhouses and processors (in sausage, terrine or fresh meat), local butcher's shop for the sale. The me
+eed, limitation of imports (90% in 2019), horses raised in wooded pastures which are strongly present in the Franches Montagnes region, high quality meat cheaper than cow meat. Instead of being incinerated, the horse is turned into a new product which is local meat. To promote the meat and counteract the taboos, sales strategies have been put in place such as promoting the local side with a horse raised directly in the wooded pastures without any feed supplement from abroad. …
+
+[CAND 156] ID=2808 CHUNK=5
+ID NARRATIVE: 2808
+The MOVING reference member state of this VC (Value Chain) is GREECE. The reference MOVING Card ID of this VC is VC 03 GR. Meat production affects the pastures of the wider area of Anogeia and their families. The prospects of the product bring together pastures, cultural associations, local authorit
+ed by many different microclimates (rainfall, average temperature, flora, etc.). This peculiarity enabled each mountainous area of the island of Crete to have its own sheep breeds. In Anogeia there is the Anogeia tribe, in Sfakia there is the Sfakia tribe etc.
+
+[CAND 157] ID=2998 CHUNK=5
+ID NARRATIVE: 2998
+The MOVING reference member state of this VC (Value Chain) is SERBIA. The reference MOVING Card ID of this VC is VC 05 SER. Buckwheat is produced by individual farmers, mostly farmers who also started to grow other old types of grains (spelt, barley, etc.). It is grown almost without herbicides and 
+populairity of the product creates much larger demand, and therefore wider growingof this grain. Growing conditions are favorable, but also in some years, if the temperature is too high in the flowering season, yields are very small / brining insecurity in the market. Overall the type of challenge faced by this VC is Current and Predicted. This VC is classified as Traditional and Innovative.   The type of innovation of this VC (Value Chain) is Endogenous and Exogenous. Buckwh…
+
+[CAND 158] ID=3004 CHUNK=3
+ID NARRATIVE: 3004
+The MOVING reference member state of this VC (Value Chain) is SERBIA. The reference MOVING Card ID of this VC is VC 18 SER. Local pickers, purchasing stations, processors, whole sale, retail and end consumers (markets, supermarkets, restaurants, health shops). Under used potential has lead to the ne
+ctor share of total employment/year [Province] is 50.70%. The primary sector share of total employment/year [Region] is 5.20%. The secondary sector share of total employment/year [Region] is 38.40%. The tertiary sector share of total employment/year [Region] is 56.40%.   In Serbia, wild mushroom picking is an age old tradition. Most of it is collected to be sold on and processed further down the VC which is longer and more complicated than that of berries. People also pick th…
+
+[CAND 159] ID=2771 CHUNK=4
+ID NARRATIVE: 2771
+The MOVING reference member state of this VC (Value Chain) is CZECH REPUBLIC. The reference MOVING Card ID of this VC is VC 16 CZ. A family (better to say unmarried couple) produce exlusive alcoholic drink of fruit wine type. It uses rosehips which are traditionally processed for tea. Wine is a sort
+ is related to New products. The land use systems involved are rosehip bush. The local assets include Natural and cultural.   The company also produces typical fruit wines (black currants, strawberies) but the fruits are not local (purchase dfrom Czechia and Slovakia).
+
+[CAND 160] ID=2894 CHUNK=2
+ID NARRATIVE: 2894
+The MOVING reference member state of this VC (Value Chain) is ITALY VINIDEA. The reference MOVING Card ID of this VC is VC 37 IT.   The reference mountain chain of this VC is 0. The reference mountain landscape of this VC is OFENA. In the Ofena basin and the sorrounding areas (350-550 m altitude), s
+e principal culture of the mountain area in the past, then almost abandoned and presently we assist to a revival of the VC Climate change is giving this area some advantages, improving conditions for production of high quality grapes. Warmer average temperatures allow perfect maturation of the late harvest red varieties, but mountain environment keeps large temperature day-night excursion, for optimal aroma and color development. Together with one single producer who did not …
+
+[CAND 161] ID=2816 CHUNK=4
+ID NARRATIVE: 2816
+The MOVING reference member state of this VC (Value Chain) is GREECE. The reference MOVING Card ID of this VC is VC 12 GR. Key activities include the collection of raw material, sifting out small stones, leaving the raw materials under the sun and laying them in plastic bags. All these activities ar
+y of the cultural traditions support thematic and cultural tourism with heritage craft themes contributing to the preservation of these forms of cultural heritage and concomitantly sustaining village life. The natural landscape in the Municipality of Mylopotamos includes many raw materials that are connected to this value chain. Margarites village has a pottery and ceramics tradition dating back centuries. Pottery is one of the oldest arts developed in Crete from 3000 BC and …
+
+[CAND 162] ID=2855 CHUNK=3
+ID NARRATIVE: 2855
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 07 IT. MP Sardinia core bussines is still the potato production, while the 'cioccoderra' cookies are produce only during Christmas and Easter. It is used to increase th
+4% of national surface. however, potato from Sardinia has a relevant quality and it is specialised in early potatos that are sold on market before other potatos varieties. Overall the type of challenge faced by this VC is unspecified. This VC is classified as N/A.   The type of innovation of this VC (Value Chain) is unspecified. The idea to use potatos for cookies production came from Mp Sardinia (https://www.mpsardinia.it/), a Sardinian agricultural company located in Buddus…
+
+[CAND 163] ID=2732 CHUNK=4
+ID NARRATIVE: 2732
+The MOVING reference member state of this VC (Value Chain) is AUSTRIA. The reference MOVING Card ID of this VC is VC 08 AT. The Murauer brewery is very engaged in sustainability effort within their own company but also to promote and increase regionality e.g. just as this VC description has been fin
+monade production (name: Murelli ) with an increasing number of different tastes, which was in the beginning only available on tap, but meanwhile in bottles. Interestingly the price is very low (half the prize of a Coca Cola; at the same level as lemonades with the private labels of supermarkets).   Murauer is a very old beer brand, thus, the traditional brewing art is used for their marketing. The regional sourcing and engagement makes the brewery an important actor within t…
+
+[CAND 164] ID=3043 CHUNK=2
+ID NARRATIVE: 3043
+The MOVING reference member state of this VC (Value Chain) is SLOVAKIA. The reference MOVING Card ID of this VC is VC 17 SK. Activities: collection of juniper berries, drink preparation, marketing. Key actors: forest owners, drink producers, consumers. Positive impact on local and regional SES is a 
+ The primary sector share of total employment/year [Region] is 3.00%. The secondary sector share of total employment/year [Region] is 34.00%. The tertiary sector share of total employment/year [Region] is 63.00%.   Three trademarks are registered in EU as protected geographical products located in mountain areas: Špišská Borovička , Slovenská Borovička Juniperus , Liptovská Borovička .The beverages are produced by the unique fermentation of the juniper fruit. The pure juniper…
+
+[CAND 165] ID=2813 CHUNK=3
+ID NARRATIVE: 2813
+The MOVING reference member state of this VC (Value Chain) is GREECE. The reference MOVING Card ID of this VC is VC 08 GR. The Selli area carob cultivation has become the origin of an extensive VC developed in Rethymno prefecture, which involves local farmers and family firms producing a multitude o
+y for many farmers, especially in mountainous and semi-mountainous areas. Because of the limited cultivation needs and the constantl demand, offers a complementary revenue and an alternative to more intensive and labor-demanding farming activities. The carob production as well as the processing for producing products like flour or syrop, can be done in a family or community level. Such activities have been proven sustainable and result to the strengthening of the social netwo…
+
+[CAND 166] ID=2960 CHUNK=4
+ID NARRATIVE: 2960
+The MOVING reference member state of this VC (Value Chain) is ROMANIA. The reference MOVING Card ID of this VC is VC 19 RO. Farming in the Bran commune is traditionally a form of small-scale semi-subsistence pastoralism and many of these farming households have diversified into some form of 'agro-to
+sonal and weekend visitors .    The Bran area offers a significant number of attractions for tourists, but the pattern of development during the last 30 years has come to threaten its future viability and sustainability as an attractive and profitable tourist destination. Bran is very well located and easily accessible with relatively good infrastructure. It has developed as a multi-purpose recreational resource with some relatively good accomodation / restaurants combined wi…
+
+[CAND 167] ID=2817 CHUNK=6
+ID NARRATIVE: 2817
+The MOVING reference member state of this VC (Value Chain) is GREECE. The reference MOVING Card ID of this VC is VC 13 GR. Dittany has been growing wildly on Crete s mountains inside fissures and calcareous cliffs since ancient times. It is depicted in frescos and myths as a healing herb. It is part
+, insecticides, and pharmaceuticals depict how ancient cultural traditions can cycle into new industries, forms of production, commerce. These products are produced in Italy and other European countries. In Crete, it is found mainly in Embaros, Herakleion and Episkopi, Rethymno.
+
+[CAND 168] ID=3013 CHUNK=3
+ID NARRATIVE: 3013
+The MOVING reference member state of this VC (Value Chain) is SKANDINAVIAN UCO. The reference MOVING Card ID of this VC is VC 07 SCA. Barley is the cereal that needs a shorter time to grow, which makes it suitable for mountain areas with extreme climate conditions like Roros. Nontheless, it takes 4 
+erase the need of fertilizers and pesticides; 2) The low consumption of barley by humans in comparison with wheat; 3) The challenge to increase the human consumption of barley and its corresponding market due to its great nutritious value; 4) Climate Change may enhance the development of plant diseases and pest that are nowadays limited by the cold temperatures. Overall the type of challenge faced by this VC is Current. This VC is classified as Traditional and Innovative.   T…
+
+[CAND 169] ID=3044 CHUNK=2
+ID NARRATIVE: 3044
+The MOVING reference member state of this VC (Value Chain) is SLOVAKIA. The reference MOVING Card ID of this VC is VC 18 SK. Key activities: packaging and marketing. Key actors: producers, actors in marketing. Labelling: waters with a certain amount of minerals can be labeled as 'mineral water'.   T
+ar [Region] is 4.00%. The secondary sector share of total employment/year [Region] is 37.00%. The tertiary sector share of total employment/year [Region] is 59.00%.   Slovakia has several mineral water springs in the mountains, which are commercialized for drinking water. Currently, there are 14 brands of mineral waters and numerous spring waters in Slovakia. These waters have been existing on the market for several decades. They are considered to have a high reputation for d…
+
+[CAND 170] ID=2895 CHUNK=0
+ID NARRATIVE: 2895
+The MOVING reference member state of this VC (Value Chain) is ITALY VINIDEA. The reference MOVING Card ID of this VC is VC 40 IT. Forests (PEFC certified) produce timber and wood that are used by local sawmills to produce materials for other local actors to produce construction pieces, frames, piece
+The MOVING reference member state of this VC (Value Chain) is ITALY VINIDEA. The reference MOVING Card ID of this VC is VC 40 IT. Forests (PEFC certified) produce timber and wood that are used by local sawmills to produce materials for other local actors to produce construction pieces, frames, pieces of furniture etc. Resonance woods are sold in annual auctions and bought by local but also foreign instruments producers. By products (sawdust, chips etc) feed a local biomass pl…
+
+[CAND 171] ID=2888 CHUNK=4
+ID NARRATIVE: 2888
+The MOVING reference member state of this VC (Value Chain) is ITALY VINIDEA. The reference MOVING Card ID of this VC is VC 23 IT. the value chain pertains organic production of champenois wines by the Ferrari company. The company, historically based in Trento processes the grapes of their own farms,
+ne regions to assess the potentials of going upwards with the vineyard cultivation and that could be a lever to regain to agriculture what are today considered marginal areas.
+
+[CAND 172] ID=2761 CHUNK=4
+ID NARRATIVE: 2761
+The MOVING reference member state of this VC (Value Chain) is CZECH REPUBLIC. The reference MOVING Card ID of this VC is VC 06 CZ. Chicken husbandry is present on many farm located in the mountain region. There are a few farms that directly specialize on chicken meat production. These farms keep chi
+ production on small-scale farms faces a challenge related to profitability and animal welfare. The examples of small-scale chicken farms play very important role in shifting the food production towards more local food production and consumption. Since the chicken husbandry does not directly rely on land, the farms can be also located in mountain regions where the arable land is scarce. Overall the type of challenge faced by this VC is Current. This VC is classified as Tradit…
+
+[CAND 173] ID=2915 CHUNK=0
+ID NARRATIVE: 2915
+The MOVING reference member state of this VC (Value Chain) is NMK. The reference MOVING Card ID of this VC is VC 18 NMK. The top 15 wineries are members of the body Wines of Macedonia and they work together to represent the country s wines and wine regions in expert markets. The same body participat
+The MOVING reference member state of this VC (Value Chain) is NMK. The reference MOVING Card ID of this VC is VC 18 NMK. The top 15 wineries are members of the body Wines of Macedonia and they work together to represent the country s wines and wine regions in expert markets. The same body participates in creating wine law and appellations to improve the quality, together with the Ministry of Agriculture of North Macedonia.   The reference mountain chain of this VC is Mountain…
+
+[CAND 174] ID=3120 CHUNK=2
+ID NARRATIVE: 3120
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 1. The reference MOVING Card ID of this VC is VC 23 CH1. Fruttipertutti is a project by a few farmers in the Puschlav. Wherever you see a sign saying 'Fruttipertutti', you can pick the fruit and learn the name of the fruit in 
+share of total employment/year [Region] is unspecified.   innovative marketing strategy, product is technically free but good advertisment for area. innovative, clever idea of using what is already there.   product is free, so production costs need to be covered somehow. Overall the type of challenge faced by this VC is Current. This VC is classified as Innovative.   The type of innovation of this VC (Value Chain) is Endogenous. new way of using what is already there. The inn…
+
+[CAND 175] ID=2927 CHUNK=2
+ID NARRATIVE: 2927
+The MOVING reference member state of this VC (Value Chain) is PORTUGAL ESTRELA. The reference MOVING Card ID of this VC is VC 06 PT2. Smoked Sauages ingredients may include pig meat, fat and blood, bread, onions, wine and spices, among others. The sausage is smoked with oak and chestnut wood, among 
+of total employment/year [Province] is 34.59%. The tertiary sector share of total employment/year [Province] is 45.30%. The primary sector share of total employment/year [Region] is 13.25%. The secondary sector share of total employment/year [Region] is 48.20%. The tertiary sector share of total employment/year [Region] is 38.55%.   Products connected to territorial identity. Smoked Sausages are traditionally homemade products, made by family members at the time of the slaugh…
+
+[CAND 176] ID=3007 CHUNK=3
+ID NARRATIVE: 3007
+The MOVING reference member state of this VC (Value Chain) is SKANDINAVIAN UCO. The reference MOVING Card ID of this VC is VC 01 SCA. Although there are hundreds of ways to brew the local traditional beer, they all share a common feature, the smoky taste. The general process is as follows. First the
+y this product is purchased.   There is a strong beer brewing tradition in the area. There are up to hundreds of small producers that brew their own beer in groups of friends or family just for their own enjoyment and consumption. Knowledge on the basic steps to make this smoked beer is shared among the brewers to maintain alive the tradition, but each of them keep their own recepies' secret, giving this way a great diversity to the local beers. Normally, they use local malt …
+
+[CAND 177] ID=3118 CHUNK=2
+ID NARRATIVE: 3118
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 1. The reference MOVING Card ID of this VC is VC 21 CH1. Young whiskey brand distilled at 3303 m.a.s.l. in Grisons.   The reference mountain chain of this VC is unspecified. The reference mountain landscape of this VC is unspe
+on of this VC (Value Chain) is Exogenous. idea to bring Whiskey making to Switzerland and use very Swiss features as part of markeitng. The innovation is related to New products and New processes. The land use systems involved are Cropland. The local assets include Natural and cultural.
+
+[CAND 178] ID=2973 CHUNK=0
+ID NARRATIVE: 2973
+The MOVING reference member state of this VC (Value Chain) is SCOTLAND HUTTON. The reference MOVING Card ID of this VC is VC 14 UK. Highland cattle are very symbolic of Scotland and a great cultural asset to Scotland. They are kept as both a cultural asset and due to their good genetics (i.e., they 
+The MOVING reference member state of this VC (Value Chain) is SCOTLAND HUTTON. The reference MOVING Card ID of this VC is VC 14 UK. Highland cattle are very symbolic of Scotland and a great cultural asset to Scotland. They are kept as both a cultural asset and due to their good genetics (i.e., they produce leaner meat and birth more calves than other breeds of cows). Their milk also has a high butterfat content so they are frequently kept as house cows.Highland cow are also u…
+
+[CAND 179] ID=3020 CHUNK=2
+ID NARRATIVE: 3020
+The MOVING reference member state of this VC (Value Chain) is SKANDINAVIAN UCO. The reference MOVING Card ID of this VC is VC 14 SCA. Jønsi Gård on Hjuksebø in Telemark is Norway's largest producer of biodynamic apples and has been Demeter approved since 1991. On the farm there are over 20 different
+loyment/year [Province] is 24.77%. The tertiary sector share of total employment/year [Province] is 74.87%. The primary sector share of total employment/year [Region] is 1.39%. The secondary sector share of total employment/year [Region] is 21.99%. The tertiary sector share of total employment/year [Region] is 76.61%.   Demeter certified juices are products of high quality that care for the environment.   Although the growing season is short in this latitude, the local climat…
+
+[CAND 180] ID=3093 CHUNK=0
+ID NARRATIVE: 3093
+The MOVING reference member state of this VC (Value Chain) is SPAIN UCO. The reference MOVING Card ID of this VC is VC 43 ES. The sweets are mostly produced in small bakeries along the municipalities of Sierra Morena. In some cases the quality is guaranteed by the use of certified products such as P
+The MOVING reference member state of this VC (Value Chain) is SPAIN UCO. The reference MOVING Card ID of this VC is VC 43 ES. The sweets are mostly produced in small bakeries along the municipalities of Sierra Morena. In some cases the quality is guaranteed by the use of certified products such as PDO or organic olive oil, and other local products. However, the quality is mostly guranteed by the baker. The singularity of this VC is the use of traditional ingredients that come…
+
+[CAND 181] ID=2898 CHUNK=2
+ID NARRATIVE: 2898
+The MOVING reference member state of this VC (Value Chain) is NMK. The reference MOVING Card ID of this VC is VC 01 NMK. There is not a consolidated VC on this product.   The reference mountain chain of this VC is Mountain Meleshevija. The reference mountain landscape of this VC is unspecified. Male
+ in a very cleaned environment, such as Maleshevija. Being products with rare values.   Production of Juniper essential oil is very variable and depends mainly on climate change. Chemicals used sometimes wrongly and needlessly. Currently, there is not a consolidated VC for this product. Overall the type of challenge faced by this VC is Current and Predicted. This VC is classified as Traditional.   The type of innovation of this VC (Value Chain) is unspecified. Juniper essenti…
+
+[CAND 182] ID=2796 CHUNK=0
+ID NARRATIVE: 2796
+The MOVING reference member state of this VC (Value Chain) is FRANCE INRAE. The reference MOVING Card ID of this VC is VC 10 FR. The reputation and the high price level of the essential oil of helichrysum from Corsica are linked to the image of the wild nature of Corsica. The value of production is 
+The MOVING reference member state of this VC (Value Chain) is FRANCE INRAE. The reference MOVING Card ID of this VC is VC 10 FR. The reputation and the high price level of the essential oil of helichrysum from Corsica are linked to the image of the wild nature of Corsica. The value of production is low relative to the activities of distillation, trading and prescription of oils. The downstream power runs the risk of disembedding the activity and wild harvests to have negative…
+
+[CAND 183] ID=2929 CHUNK=1
+ID NARRATIVE: 2929
+The MOVING reference member state of this VC (Value Chain) is PORTUGAL ESTRELA. The reference MOVING Card ID of this VC is VC 08 PT2. Heather Honey is collected from hives located at Serra da Estrela highlands. Product sold locally and nationally.   The reference mountain chain of this VC is Cordilh
+verage per capita income (EUR/year) [Province] is 13122.59. The total Gross Value Added (GVA) (EUR million/year) [Province] is 2534.72. The primary sector share of total GVA/year [Province] is 3.67%. The secondary sector share of total GVA/year [Province] is 24.16%. The tertiary sector share of total GVA/year [Province] is 72.00%. The per capita income (EUR/year) [Region] is 16576.33. The total Gross Value Added (GVA) (EUR million/year) [Region] is 33268.83. The primary secto…
+
+[CAND 184] ID=2985 CHUNK=0
+ID NARRATIVE: 2985
+The MOVING reference member state of this VC (Value Chain) is SCOTLAND HUTTON. The reference MOVING Card ID of this VC is VC 27 UK. Gwent Valley (or Blaenau Gwent in Welsh) (LAU1) Beeswax products include candles, soaps, other beauty products and reusable food wraps (i.e., instead of cling film). Ho
+The MOVING reference member state of this VC (Value Chain) is SCOTLAND HUTTON. The reference MOVING Card ID of this VC is VC 27 UK. Gwent Valley (or Blaenau Gwent in Welsh) (LAU1) Beeswax products include candles, soaps, other beauty products and reusable food wraps (i.e., instead of cling film). Honey Bee Beautiful for instance is a sustainable honey and beeswax skincare business based in Gwent Valley. They only use raw Welsh Honey and Beeswax cappings. Meanwhile, Sirhowy Va…
+
+[CAND 185] ID=3053 CHUNK=3
+ID NARRATIVE: 3053
+The MOVING reference member state of this VC (Value Chain) is SPAIN ADEGUA. The reference MOVING Card ID of this VC is VC 16 ES. The springs of Lanjarón were discovered at the end of the 18th century. In 1818, six springs in the town of Lanjarón were declared mineral-medicinal water, including the S
+lished by law a perimeter of protection, an aquifer recharge zone, keeping under control human, industrial, and livestock activities as long as they do not affect the quantity or quality of the mineral water. Some waters have the added protection of being born in a National Park, such as the Sierra Nevada.    Faced with a private company's business challenges, the company is committed to the environmental and global challenges of our society. Specifically, in the case of Lanj…
+
+[CAND 186] ID=3060 CHUNK=3
+ID NARRATIVE: 3060
+The MOVING reference member state of this VC (Value Chain) is SPAIN ADEGUA. The reference MOVING Card ID of this VC is VC 28 ES. The companies associated with the PGI Botillo del Bierzo are meat companies that manufacture, in addition to botillo, a wide range of products including chorizo, salchichó
+nts such as tongue, cheek, shoulder, and backbone could be added to a maximum of 20% of the total, and no component of this rest can exceed half of this 20%. Salt, paprika, and garlic, authorized additives, and other natural spices are subsequently added to all the ingredients. The basic ingredients come from the production area and the Autonomous Community of Castilla y León.    The botillo has spread to regions bordering El Bierzo. The Regulatory Council of the PGI is respo…
+
+[CAND 187] ID=2990 CHUNK=3
+ID NARRATIVE: 2990
+The MOVING reference member state of this VC (Value Chain) is SERBIA. The reference MOVING Card ID of this VC is VC 14 SER. Arilje raspberry region covers Arilje and the villages of several bordering municipalities. It is located in the southwest of Serbia, fenced by the slopes of Zlatibor and Javor
+e of total employment/year [Region] is 55.10%.   High quality product. Serbia is the biggest producer and biggest exporter of frozen rapsberries in the world. The raspberries from Arilje, Serbia, with its Protected Designation of Origin (PDO), are a synonym for quality and refined taste which can be attributed to the rich and fertile soil, favorable climatic conditions but also to them being grown in small family farms. Arilje is the location with the biggest concentration of…
+
+[CAND 188] ID=3012 CHUNK=3
+ID NARRATIVE: 3012
+The MOVING reference member state of this VC (Value Chain) is SKANDINAVIAN UCO. The reference MOVING Card ID of this VC is VC 06 SCA. Norway has 1843 hectares of organic wheat and spelt and 1841 ha of organic oats and other spring cereals. In addition, in the region of the muinicipality of Selbu, th
+ducts.    Competition with industrial products of similar use (sweets, cereals and other snaks). Also, the hectares dedicated to organic oats and other spring cereals have decreased since 2012 in Norway (Eurostat). Overall the type of challenge faced by this VC is Current. This VC is classified as Innovative.   The type of innovation of this VC (Value Chain) is Endogenous and Exogenous. This VC is focussed on keeping the nutrutional values of cereals as much as possible by do…
+
+[CAND 189] ID=2723 CHUNK=3
+ID NARRATIVE: 2723
+The MOVING reference member state of this VC (Value Chain) is AUSTRIA. The reference MOVING Card ID of this VC is VC 18 AT. The oil is produced by 4 family farms, who sell their product on-farm, in farmers' cooperative shops and other small shops in the region. The marketing is supported by the regi
+C.   The production of pumpkin seed oil enriches the local culinary landscape.    As already addressed above, farmers are not allowed to market the oil by using the PGI label. The fact that pumpkin seed oil from the Murtal is not officially a 'Styrian pumpkin seed oil' is due to that only products from certain regions are intended for this label. The growing areas of the pumpkins must correspond to defined political districts. A bit ridiculous in this context ist, that these …
+
+[CAND 190] ID=3016 CHUNK=3
+ID NARRATIVE: 3016
+The MOVING reference member state of this VC (Value Chain) is SKANDINAVIAN UCO. The reference MOVING Card ID of this VC is VC 10 SCA. Cattle graze in cultivated pastures in the village and in open pastures around the farms in Dagalifjell. The grazing season is from May to October. In winter, the ani
+classified as Traditional.   The type of innovation of this VC (Value Chain) is unspecified. The innovation is related to the whole VC. The land use systems involved are Grassland and Natural land. The local assets include Natural and social.
+
+[CAND 191] ID=3072 CHUNK=3
+ID NARRATIVE: 3072
+The MOVING reference member state of this VC (Value Chain) is SPAIN ADEGUA. The reference MOVING Card ID of this VC is VC 48 ES. Traditional charcoal making is the craft of making charcoal from firewood. This has been an essential source of heat, used for cooking or heating houses. The charcoal make
+and, maintaining in this context the interest of charcoal makers in a complementary and economically unprofitable activity is another critical challenge, together with the need to carry out a regenerative practice of the forest and not an extractive one. Overall the type of challenge faced by this VC is Current. This VC is classified as Traditional and Innovative.   The type of innovation of this VC (Value Chain) is Endogenous. Although it provides innovative nuances by linki…
+
+[CAND 192] ID=2818 CHUNK=3
+ID NARRATIVE: 2818
+The MOVING reference member state of this VC (Value Chain) is GREECE. The reference MOVING Card ID of this VC is VC 14 GR. Prickly pear grows both wildly and is cultivated in Dicti mountainous terrain and on Crete. It is new farming activity and production of byproducts has not developed fully. The 
+row, this renders it particularly suitable for the Dicti landscape. Prickly pears can be used to restore degraded land and poor soils.Cactus pear crops are gaining increasing interest due to popularity of byproducts that are of high nutritional, cosmetic, and pharmaceutical value. In the DIcti region prickly pears are grown in both agricultural systems and natural environment. They are crops that withstand drought and climate change. A cooperate has been established for the p…
+
+[CAND 193] ID=2982 CHUNK=4
+ID NARRATIVE: 2982
+The MOVING reference member state of this VC (Value Chain) is SCOTLAND HUTTON. The reference MOVING Card ID of this VC is VC 23 UK. Winters sports, in this instance Lecht ski resort depend on maintenance of the land in the area (i.e., ensuring it is releatively undisturbed in summer) so that it can 
+acts, and current closures from COVID - potential for land to be used for more specifically land-connected activities but these may not be so profitable or helpful for resilience (i.e. in terms of wider jobs and tourism). There is also tension betwen habitat designations on the plateau and the ski slopes providing access to these areas (and infrastrcuture e.g. car parks, cafes). The tension between tourism and conservation is at the heart of the reason why the National park w…
+
+[CAND 194] ID=2962 CHUNK=0
+ID NARRATIVE: 2962
+The MOVING reference member state of this VC (Value Chain) is SCOTLAND HUTTON. The reference MOVING Card ID of this VC is VC 01 UK. Highland Spring and Tesco perthsire mineral waters (still and sparkling) depend on extracting spring/ground water from the protected catchment sources in the Ochil Hill
+The MOVING reference member state of this VC (Value Chain) is SCOTLAND HUTTON. The reference MOVING Card ID of this VC is VC 01 UK. Highland Spring and Tesco perthsire mineral waters (still and sparkling) depend on extracting spring/ground water from the protected catchment sources in the Ochil Hills and bottling them at their plants for distribution to supermarkets and restaurants and vending machines. These catchment sources do not allow farming (but are grazed by wild deer…
+
+[CAND 195] ID=2923 CHUNK=3
+ID NARRATIVE: 2923
+The MOVING reference member state of this VC (Value Chain) is PORTUGAL ESTRELA. The reference MOVING Card ID of this VC is VC 02 PT2. Sheep of Bordaleira Serra da Estrela and/or Churra Mondegueira breeds feed on pastures exclusively from the geographical production area of Serra da Estrela. However,
+haracteristics.   Bordaleira Serra da Estrela sheep breed has a medium stature and is white or black in color. It has horns curled forward and females have a well developed udder. It has, predominantly, dairy aptitude. Churra Mondegueira sheep breed is of medium stature and is white in color. Traditional knowledge, passed down from generation to generation, on cheese manufacture techniques from sheep's milk, salt and thistle (Cynara cardunculus) flower.    Reduced number of s…
+
+[CAND 196] ID=2913 CHUNK=3
+ID NARRATIVE: 2913
+The MOVING reference member state of this VC (Value Chain) is NMK. The reference MOVING Card ID of this VC is VC 16 NMK. The main actors in the bottled water in the region are Kozuvcanka, Pelisterka, Maya etc. They are private companies, but associated in a National Chamber of Commerce.   The refere
+ion. The innovation is related to New processes and New marketing strategies. The land use systems involved are Forestry and Natural land. The local assets include Natural, social and cultural.
+
+[CAND 197] ID=2931 CHUNK=2
+ID NARRATIVE: 2931
+The MOVING reference member state of this VC (Value Chain) is PORTUGAL ESTRELA. The reference MOVING Card ID of this VC is VC 10 PT2. Several local producers grow Feijoca de Manteigas in croplands with areas from 150 m2 to 1200 m2. After harvested, this product is sold in local markets and beyond. G
+ment/year [Province] is 20.11%. The secondary sector share of total employment/year [Province] is 34.59%. The tertiary sector share of total employment/year [Province] is 45.30%. The primary sector share of total employment/year [Region] is 13.25%. The secondary sector share of total employment/year [Region] is 48.20%. The tertiary sector share of total employment/year [Region] is 38.55%.   Feijoca de Manteigas is a local bean variety from the municipality of Manteigas, thus …
+
+[CAND 198] ID=3152 CHUNK=5
+ID NARRATIVE: 3152
+The MOVING reference member state of this VC (Value Chain) is TURKEY. The reference MOVING Card ID of this VC is VC 05 TR. Approximately 4517 tons of grapes were produced in Elmalı in 2020. 45% of the grape production in Elmalı is fresh table grape, 40% wine grape and 15% dried grape. There are two 
+similar to the value chain in Switzerland. Grape producers in the grape value chain in Switzerland sell their products directly to wine makers. On the other hand, grape growers in Elmalı sell 40% of the volume of grapes produced to wine companies. The common feature in both value chains is that the products are not processed by the grape growers.
+
+[CAND 199] ID=3151 CHUNK=4
+ID NARRATIVE: 3151
+The MOVING reference member state of this VC (Value Chain) is TURKEY. The reference MOVING Card ID of this VC is VC 04 TR. The most common marketing channels used by apple farmers are brokers, traders, exporters and fruit juice companies. The supermarket retailers are used moderately in product sale
+market outlets and the high input costs. Due to the high number of diseases in apple cultivation, productivity is low. Climate change also has an effect on low productivity. Especially the negative impact of drought on apple production is mentioned. Since apple producers have problems in finding market outlets, the produced apple cannot be sold at high prices. In addition, it is emphasized that the family labour is insufficient in apple producing family farms. Overall the typ…
+
+[CAND 200] ID=3024 CHUNK=3
+ID NARRATIVE: 3024
+The MOVING reference member state of this VC (Value Chain) is SKANDINAVIAN UCO. The reference MOVING Card ID of this VC is VC 18 SCA. There are two types of handicraft, the soft handicrafts and the hard ones. The first one consists of clothes, jewellery and baskets of woven birch branches and are tr
+f regional markets and e-commerce strategies to reach more public.   This VC is highly related to reindeer herding and the nomadic Sami ancient lifestyle. Consequently, they had to craft their own tools and get the materials from nature. Most of them come from reindeer (antlers, skin and bones) and birch wood from local forests. Knowledge on how to make them has been carried through generations and the style and techniques could vary among the ethnic groups.    1) Threat on S…
+

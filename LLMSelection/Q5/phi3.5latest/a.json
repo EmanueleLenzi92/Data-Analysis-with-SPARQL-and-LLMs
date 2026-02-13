@@ -1,0 +1,1697 @@
+[
+    {
+        "id": "2714"
+    },
+    {
+        "id": "2715"
+    },
+    {
+        "id": "2716"
+    },
+    {
+        "id": "2717"
+    },
+    {
+        "id": "2718"
+    },
+    {
+        "id": "2719"
+    },
+    {
+        "id": "2720"
+    },
+    {
+        "id": "2721"
+    },
+    {
+        "id": "2722"
+    },
+    {
+        "id": "2723"
+    },
+    {
+        "id": "2724"
+    },
+    {
+        "id": "2725"
+    },
+    {
+        "id": "2726"
+    },
+    {
+        "id": "2727"
+    },
+    {
+        "id": "2728"
+    },
+    {
+        "id": "2729"
+    },
+    {
+        "id": "2730"
+    },
+    {
+        "id": "2731"
+    },
+    {
+        "id": "2732"
+    },
+    {
+        "id": "2733"
+    },
+    {
+        "id": "2734"
+    },
+    {
+        "id": "2735"
+    },
+    {
+        "id": "2736"
+    },
+    {
+        "id": "2737"
+    },
+    {
+        "id": "2738"
+    },
+    {
+        "id": "2739"
+    },
+    {
+        "id": "2740"
+    },
+    {
+        "id": "2741"
+    },
+    {
+        "id": "2742"
+    },
+    {
+        "id": "2743"
+    },
+    {
+        "id": "2744"
+    },
+    {
+        "id": "2745"
+    },
+    {
+        "id": "2746"
+    },
+    {
+        "id": "2747"
+    },
+    {
+        "id": "2748"
+    },
+    {
+        "id": "2749"
+    },
+    {
+        "id": "2750"
+    },
+    {
+        "id": "2751"
+    },
+    {
+        "id": "2752"
+    },
+    {
+        "id": "2753"
+    },
+    {
+        "id": "2754"
+    },
+    {
+        "id": "2755"
+    },
+    {
+        "id": "2756"
+    },
+    {
+        "id": "2757"
+    },
+    [
+        {
+            "id": "2758"
+        },
+        {
+            "id": "<ID_OF_THE_NARRATIVE>",
+            "farmingMethods": {
+                "organicFarming": true,
+                "perennialGrasslandManagement": true,
+                "directMilkProcessingOnSite": false,
+                "implied": ""
+            },
+            "marketingStrategiesForCheeseProducts": {
+                "artisanalCheesesFromLocalLivestockIncluded": true,
+                "pure": "nd 'natural')",
+                "implied": ""
+            },
+            "subsidySchemes": {
+                "implied": "relatedToDairyProduction"
+            }
+        }
+    ],
+    {
+        "id": "2759"
+    },
+    {
+        "id": "2760"
+    },
+    {
+        "id": "2761"
+    },
+    {
+        "id": "2762"
+    },
+    {
+        "id": "2763"
+    },
+    {
+        "id": "2764"
+    },
+    {
+        "id": "2765"
+    },
+    {
+        "id": "2766"
+    },
+    {
+        "id": "2767"
+    },
+    {
+        "id": "2768"
+    },
+    [
+        {
+            "id": "2769"
+        },
+        {
+            "id": "1234",
+            "sheep_breeds": [
+                "Samtanne"
+            ],
+            "cheeses": [
+                "Feta-like cheese using Samtanne milk"
+            ],
+            "agricultural_methods": [
+                "Traditional pastoralism with rotational grazing practices to maintain land health and animal welfare."
+            ],
+            "culture_economy_impacts": {
+                "local festivals tied to sheep farming": "significant contribution of cheese production to local economy"
+            },
+            "challenges_adaptations": [
+                "Climate change affecting grazing patterns, leading to innovative water conservation techniques in pastoralism"
+            ]
+        },
+        {}
+    ],
+    {
+        "id": "2770"
+    },
+    {
+        "id": "2771"
+    },
+    {
+        "id": "2772"
+    },
+    {
+        "id": "2773"
+    },
+    {
+        "id": "2774"
+    },
+    {
+        "id": "2775"
+    },
+    {
+        "id": "2776"
+    },
+    {
+        "id": "2777"
+    },
+    {
+        "id": "2778"
+    },
+    {
+        "id": "2779"
+    },
+    {
+        "id": "2780"
+    },
+    {
+        "id": "2781"
+    },
+    {
+        "id": "2782"
+    },
+    {
+        "id": "2783"
+    },
+    {
+        "id": "2784"
+    },
+    {
+        "id": "2785"
+    },
+    {
+        "id": "2786"
+    },
+    {
+        "id": "2787"
+    },
+    {
+        "id": "2788"
+    },
+    {
+        "id": "2789"
+    },
+    {
+        "id": "2790"
+    },
+    {
+        "id": "2791"
+    },
+    {
+        "id": "2792"
+    },
+    {
+        "id": "2793"
+    },
+    {
+        "id": "2794"
+    },
+    {
+        "id": "2795"
+    },
+    {
+        "id": "2796"
+    },
+    {
+        "id": "2797"
+    },
+    {
+        "id": "2798"
+    },
+    {
+        "id": "2799"
+    },
+    [
+        {
+            "id": "2800"
+        },
+        {
+            "id": "<ID_OF_THE_NARRATIVE>",
+            "primarySectorGVAProvince": null,
+            "secondarySectorShareEmploymentProvincialLevel1": null,
+            "applicable": "Example of a comprehensive JSON structure for an involved sheep-to-cheese value chain (if specified):\n```json\n{"
+        }
+    ],
+    {
+        "id": "2801"
+    },
+    {
+        "id": "2802"
+    },
+    {
+        "id": "2803"
+    },
+    {
+        "id": "2804"
+    },
+    {
+        "id": "2805"
+    },
+    {
+        "id": "2806"
+    },
+    {
+        "id": "2807"
+    },
+    {
+        "id": "2808"
+    },
+    {
+        "id": "2809"
+    },
+    {
+        "id": "2810"
+    },
+    {
+        "id": "2811"
+    },
+    {
+        "id": "2812"
+    },
+    {
+        "id": "2813"
+    },
+    {
+        "id": "2814"
+    },
+    {
+        "id": "2815"
+    },
+    {
+        "id": "2816"
+    },
+    {
+        "id": "2817"
+    },
+    {
+        "id": "2818"
+    },
+    {
+        "id": "2819"
+    },
+    {
+        "id": "2820"
+    },
+    {
+        "id": "2821"
+    },
+    {
+        "id": "2822"
+    },
+    {
+        "id": "2823"
+    },
+    {
+        "id": "2824"
+    },
+    {
+        "id": "2825"
+    },
+    {
+        "id": "2826"
+    },
+    {
+        "id": "2827"
+    },
+    {
+        "id": "2828"
+    },
+    {
+        "id": "2829"
+    },
+    {
+        "id": "2830"
+    },
+    [
+        {
+            "id": "2831"
+        },
+        {
+            "id": "<ID_OF_THE_NARRATIVE>",
+            "details": {
+                "animal": "goats",
+                "role": "cheese production",
+                "breeding practices": "not specified",
+                "typesOfMilkUsedForCheeseProduction": "Alpine cheeses like Gruyère and Beaufort"
+            }
+        },
+        {}
+    ],
+    {
+        "id": "2832"
+    },
+    {
+        "id": "2833"
+    },
+    {
+        "id": "2834"
+    },
+    {
+        "id": "2835"
+    },
+    {
+        "id": "2836"
+    },
+    {
+        "id": "2837"
+    },
+    {
+        "id": "2838"
+    },
+    {
+        "id": "2839"
+    },
+    {
+        "id": "2840"
+    },
+    {
+        "id": "2841"
+    },
+    {
+        "id": "2842"
+    },
+    {
+        "id": "2843"
+    },
+    [
+        {
+            "id": "2844"
+        },
+        {
+            "id": "<ID_OF_THE_NARRATIVE>"
+        },
+        {
+            "id": "3071"
+        },
+        {
+            "id": {}
+        }
+    ],
+    {
+        "id": "2845"
+    },
+    {
+        "id": "2846"
+    },
+    {
+        "id": "2847"
+    },
+    {
+        "id": "2848"
+    },
+    {
+        "id": "2849"
+    },
+    {
+        "id": "2850"
+    },
+    [
+        {
+            "id": "2851"
+        },
+        {},
+        {
+            "id": "<ID_OF_THE_NARRATIVE>",
+            "sheepFarmingDetails": {
+                "name": "<NAME>",
+                "description": "The narrative describes how the region's geography and climate, characterized by its mountainous terrain with diverse vegetation including pastures suitable for sheep grazing..."
+            },
+            "economicImpact": "<Brief description of economic impact from cheese production>",
+            "certifications": {
+                "organicStandards": "Yes/No",
+                "DOPRecognition": "Specific details if mentioned"
+            },
+            "biodiversityContribution": "Positive/Negative based on narrative",
+            "innovationAndGovernance": {
+                "typeOfInnovation": "<Type> as described in the text, shaping sustainable practices>",
+                "governanceSystems": "Specific systems mentioned"
+            },
+            "classification": {
+                "traditionalOrInnovative": "Traditional/Innovative with reasons from narrative"
+            }
+        },
+        {}
+    ],
+    {
+        "id": "2852"
+    },
+    {
+        "id": "2853"
+    },
+    {
+        "id": "2854"
+    },
+    [
+        {
+            "id": "2855"
+        },
+        {
+            "id": "<ID_OF_THE_NARRATIVE>",
+            "regionalPractices": {
+                "marketTrends": {
+                    "governmentPolicies": {
+                        "integrationWithOtherAgriculture": {
+                            "technologicalAdvancements": {
+                                "culturalHeritagePreservationImpactOnTourism": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ],
+    {
+        "id": "2856"
+    },
+    [
+        {
+            "id": "2857"
+        },
+        {
+            "id": "3021",
+            "CheeseProductionInvolvement": true
+        },
+        {}
+    ],
+    {
+        "id": "2858"
+    },
+    {
+        "id": "2859"
+    },
+    {
+        "id": "2860"
+    },
+    {
+        "id": "2861"
+    },
+    {
+        "id": "2862"
+    },
+    {
+        "id": "2863"
+    },
+    {
+        "id": "2864"
+    },
+    {
+        "id": "2865"
+    },
+    {
+        "id": "2866"
+    },
+    {
+        "id": "2867"
+    },
+    {
+        "id": "2868"
+    },
+    {
+        "id": "2869"
+    },
+    {
+        "id": "2870"
+    },
+    {
+        "id": "2871"
+    },
+    {
+        "id": "2872"
+    },
+    {
+        "id": "2873"
+    },
+    {
+        "id": "2874"
+    },
+    {
+        "id": "2875"
+    },
+    {
+        "id": "2876"
+    },
+    {
+        "id": "2877"
+    },
+    {
+        "id": "2878"
+    },
+    {
+        "id": "2879"
+    },
+    {
+        "id": "2880"
+    },
+    {
+        "id": "2881"
+    },
+    {
+        "id": "2882"
+    },
+    {
+        "id": "2883"
+    },
+    {
+        "id": "2884"
+    },
+    {
+        "id": "2885"
+    },
+    {
+        "id": "2886"
+    },
+    {
+        "id": "2887"
+    },
+    {
+        "id": "2888"
+    },
+    {
+        "id": "2889"
+    },
+    [
+        {
+            "id": "2890"
+        },
+        {
+            "id": "<ID_OF_THE_NARRATIVE>",
+            "details": {
+                "direct involvement": "The narrative describes the process whereby shepherds selectively breed their sheep to enhance milk production, which is then used in local cheesemaking traditions.",
+                "indirect contribution": "Sheep farming practices outlined contribute by providing a steady supply of high-quality wool and meat that are essential for ancillary products like rennet or as feed ingredients within the broader agricultural value chain."
+            }
+        },
+        {}
+    ],
+    [
+        {
+            "id": "2891"
+        },
+        {
+            "id": "<ID_OF_THE_NARRATIVE>",
+            "cheeseProductionIndicators": [
+                "mentionOfDairyFacilities",
+                "specificCheesemakingProcessMentioned"
+            ]
+        },
+        {
+            "id": "<ID_OF_THE_NARRATIVE>"
+        }
+    ],
+    {
+        "id": "2892"
+    },
+    [
+        {
+            "id": "2893"
+        },
+        {
+            "id": "<ID_OF_THE_NARRATIVE>",
+            "areaSizeKm2": "AREA SIZE>",
+            "altitudeRangeMeters": {
+                "minAltitude": "MIN ALTITUDE>",
+                "maxAltitude": "MAX ALTITUDE>"
+            },
+            "populationDensityPerKm2": "POPULATION DENSITY>",
+            "employmentDistributionPrimaryPercentageProvince": "PRIMARY SECTOR PERCENTAGE PROVINCE>, ...}\n\n### Example of JSON (if the narrative does not involve traditional methods using sheep for wool production)\n{"
+        }
+    ],
+    {
+        "id": "2894"
+    },
+    {
+        "id": "2895"
+    },
+    {
+        "id": "2896"
+    },
+    {
+        "id": "2897"
+    },
+    {
+        "id": "2898"
+    },
+    {
+        "id": "2899"
+    },
+    {
+        "id": "2900"
+    },
+    {
+        "id": "2901"
+    },
+    {
+        "id": "2902"
+    },
+    {
+        "id": "2903"
+    },
+    {
+        "id": "2904"
+    },
+    {
+        "id": "2905"
+    },
+    {
+        "id": "2906"
+    },
+    {
+        "id": "2907"
+    },
+    [
+        {
+            "id": "2908"
+        },
+        {}
+    ],
+    [
+        {
+            "id": "2909"
+        },
+        {
+            "id": "<ID_NUMBER>",
+            "usesLocalSheepForCheese": "Yes/No>",
+            "innovationsInTechnology": {
+                "processingMethods": [
+                    "Details>],",
+                    "distributionChannelsCoverage",
+                    [
+                        "Country1",
+                        "Country2"
+                    ]
+                ]
+            },
+            "exportCountries": [],
+            "shepherdingHumanResourcesAsAchallenge": "Yes/No>",
+            "environmentalConcernsImpactOnFarmingAndCheeseProduction": [
+                "Specific Concern>],",
+                "landUseSystemContributionToValueChain",
+                "<Description>"
+            ]
+        }
+    ],
+    {
+        "id": "2910"
+    },
+    {
+        "id": "2911"
+    },
+    {
+        "id": "2912"
+    },
+    {
+        "id": "2913"
+    },
+    {
+        "id": "2914"
+    },
+    {
+        "id": "2915"
+    },
+    {
+        "id": "2916"
+    },
+    {
+        "id": "2917"
+    },
+    {
+        "id": "2918"
+    },
+    {
+        "id": "2919"
+    },
+    {
+        "id": "2920"
+    },
+    {
+        "id": "2921"
+    },
+    {
+        "id": "2922"
+    },
+    {
+        "id": "2923"
+    },
+    {
+        "id": "2924"
+    },
+    {
+        "id": "2925"
+    },
+    {
+        "id": "2926"
+    },
+    {
+        "id": "2927"
+    },
+    {
+        "id": "2928"
+    },
+    {
+        "id": "2929"
+    },
+    {
+        "id": "2930"
+    },
+    {
+        "id": "2931"
+    },
+    {
+        "id": "2932"
+    },
+    {
+        "id": "2933"
+    },
+    {
+        "id": "2934"
+    },
+    {
+        "id": "2935"
+    },
+    {
+        "id": "2936"
+    },
+    {
+        "id": "2937"
+    },
+    {
+        "id": "2938"
+    },
+    {
+        "id": "2939"
+    },
+    {
+        "id": "2940"
+    },
+    {
+        "id": "2941"
+    },
+    {
+        "id": "2942"
+    },
+    [
+        {
+            "id": "2943"
+        },
+        {
+            "id": "<ID_OF_THE_NARRATIVE>",
+            "involvementInCheeseProduction": true,
+            "details": {
+                "regionName": "<NAME OF THE REGION OR COUNTY DESCRIBED IN NARRATIVE>",
+                "specificSheepProductMentioned": "<SPECIFIC CHEESE PRODUCT IF MENTIONED> or 'None'",
+                "useOfCheeseInMarket": true,
+                "narrative": "The agricultural practices in Andalusia are deeply rooted within its rich cultural heritage and diverse landscape that ranges from coastal plains to high mountains. In this region of Spain",
+                "id": "<ID_OF_THE_NARRATIVE>",
+                "involvementInCheeseProduction": true,
+                "details": {
+                    "regionName": "Andalusia",
+                    "specificSheepProductMentioned": "Manchego and Serrano cheeses made from sheep milk.",
+                    "useOfCheeseInMarket": true,
+                    "sold": "For a definitive answer on their presence in markets based solely on your provided text:\n      true // Assuming traditional practices include selling these goods locally. However, without explicit confirmation of sales to consumers (market use), this field may require further information for absolute certainty and should be treated as an educated assumption rather than a factual statement from the narrative alone."
+                },
+                "Response": "json\n{"
+            }
+        }
+    ],
+    {
+        "id": "2944"
+    },
+    [
+        {
+            "id": "2945"
+        },
+        {
+            "id": "<ID_OF_THE_NARRATIVE>",
+            "analysis": "Here the detailed analysis of evidence supporting or refuting this connection"
+        },
+        {}
+    ],
+    {
+        "id": "2946"
+    },
+    {
+        "id": "2947"
+    },
+    {
+        "id": "2948"
+    },
+    {
+        "id": "2949"
+    },
+    {
+        "id": "2950"
+    },
+    {
+        "id": "2951"
+    },
+    {
+        "id": "2952"
+    },
+    {
+        "id": "2953"
+    },
+    {
+        "id": "2954"
+    },
+    {
+        "id": "2955"
+    },
+    {
+        "id": "2956"
+    },
+    {
+        "id": "2957"
+    },
+    {
+        "id": "2958"
+    },
+    {
+        "id": "2959"
+    },
+    {
+        "id": "2960"
+    },
+    {
+        "id": "2961"
+    },
+    {
+        "id": "2962"
+    },
+    {
+        "id": "2963"
+    },
+    {
+        "id": "2964"
+    },
+    {
+        "id": "2965"
+    },
+    {
+        "id": "2966"
+    },
+    {
+        "id": "2967"
+    },
+    {
+        "id": "2968"
+    },
+    {
+        "id": "2969"
+    },
+    {
+        "id": "2970"
+    },
+    {
+        "id": "2971"
+    },
+    {
+        "id": "2972"
+    },
+    {
+        "id": "2973"
+    },
+    {
+        "id": "2974"
+    },
+    {
+        "id": "2975"
+    },
+    {
+        "id": "2976"
+    },
+    {
+        "id": "2977"
+    },
+    {
+        "id": "2978"
+    },
+    {
+        "id": "2979"
+    },
+    {
+        "id": "2980"
+    },
+    {
+        "id": "2981"
+    },
+    {
+        "id": "2982"
+    },
+    {
+        "id": "2983"
+    },
+    {
+        "id": "2984"
+    },
+    {
+        "id": "2985"
+    },
+    {
+        "id": "2986"
+    },
+    {
+        "id": "2987"
+    },
+    {
+        "id": "2988"
+    },
+    {
+        "id": "2989"
+    },
+    {
+        "id": "2990"
+    },
+    {
+        "id": "2991"
+    },
+    {
+        "id": "2992"
+    },
+    {
+        "id": "2993"
+    },
+    {
+        "id": "2994"
+    },
+    {
+        "id": "2995"
+    },
+    {
+        "id": "2996"
+    },
+    {
+        "id": "2997"
+    },
+    {
+        "id": "2998"
+    },
+    {
+        "id": "2999"
+    },
+    {
+        "id": "3000"
+    },
+    {
+        "id": "3001"
+    },
+    {
+        "id": "3002"
+    },
+    {
+        "id": "3003"
+    },
+    {
+        "id": "3004"
+    },
+    {
+        "id": "3005"
+    },
+    {
+        "id": "3006"
+    },
+    {
+        "id": "3007"
+    },
+    {
+        "id": "3008"
+    },
+    {
+        "id": "3009"
+    },
+    {
+        "id": "3010"
+    },
+    {
+        "id": "3011"
+    },
+    {
+        "id": "3012"
+    },
+    {
+        "id": "3013"
+    },
+    {
+        "id": "3014"
+    },
+    {
+        "id": "3015"
+    },
+    {
+        "id": "3016"
+    },
+    {
+        "id": "3017"
+    },
+    {
+        "id": "3018"
+    },
+    {
+        "id": "3019"
+    },
+    {
+        "id": "3020"
+    },
+    {
+        "id": "3021"
+    },
+    {
+        "id": "3022"
+    },
+    {
+        "id": "3023"
+    },
+    {
+        "id": "3024"
+    },
+    {
+        "id": "3025"
+    },
+    {
+        "id": "3026"
+    },
+    {
+        "id": "3027"
+    },
+    {
+        "id": "3028"
+    },
+    {
+        "id": "3029"
+    },
+    {
+        "id": "3030"
+    },
+    {
+        "id": "3031"
+    },
+    {
+        "id": "3032"
+    },
+    {
+        "id": "3033"
+    },
+    {
+        "id": "3034"
+    },
+    {
+        "id": "3035"
+    },
+    {
+        "id": "3036"
+    },
+    {
+        "id": "3037"
+    },
+    {
+        "id": "3038"
+    },
+    {
+        "id": "3039"
+    },
+    {
+        "id": "3040"
+    },
+    {
+        "id": "3041"
+    },
+    {
+        "id": "3042"
+    },
+    {
+        "id": "3043"
+    },
+    {
+        "id": "3044"
+    },
+    {
+        "id": "3045"
+    },
+    {
+        "id": "3046"
+    },
+    [
+        {
+            "id": "3047"
+        },
+        {
+            "id": "",
+            "populationDemographics": {
+                "LAUChangeRate": "<VALUE>",
+                "ProvinceEmploymentPerCapitaIncomeEURYearly": "<VALUE>"
+            },
+            "economicIndicators": {
+                "GVABySectorPercentage": {
+                    "Primary": "<PERCENTAGE_OF_PRIMARY>",
+                    "Secondary": "<PERCENTAGE_OF_SECONDARY>",
+                    "Tertiary": "<PERCENTAGE_OF_TERTIARY>"
+                },
+                "PerCapitaIncomeEURYearly": {
+                    "Province": "<VALUE1,Region>: <VALUE2}"
+                },
+                "challenges": [
+                    "<CHALLENGE>",
+                    "Another Challenge"
+                ]
+            },
+            "indicators": "return an empty JSON object with only {"
+        },
+        {
+            "id": ""
+        },
+        {
+            "id": ""
+        },
+        {
+            "id": ""
+        },
+        {
+            "id": ""
+        },
+        {
+            "id": ""
+        },
+        {
+            "id": ""
+        },
+        {
+            "id": ""
+        },
+        {
+            "id": ""
+        },
+        {
+            "id": ""
+        },
+        {
+            "id": ""
+        },
+        {
+            "id": ""
+        },
+        {
+            "id": ""
+        },
+        {
+            "id": ""
+        },
+        {
+            "id": ""
+        },
+        {
+            "id": ""
+        },
+        {
+            "id": ""
+        },
+        {
+            "id": ""
+        },
+        {
+            "id": ""
+        },
+        {
+            "id": ""
+        },
+        {
+            "id": ""
+        },
+        {
+            "id": ""
+        },
+        {
+            "id": ""
+        },
+        {
+            "id": ""
+        },
+        {
+            "id": ""
+        },
+        {
+            "id": ""
+        },
+        {
+            "id": ""
+        }
+    ],
+    [
+        {
+            "id": "3048"
+        },
+        {
+            "value_chain_involvement": "Yes/No",
+            "sheep_count": "",
+            "cheese_type": "",
+            "location": "",
+            "historical_significance": ""
+        },
+        {
+            "value_chain_involvement": "No",
+            "sheep_count": null,
+            "cheese_type": "Gruyère",
+            "location": "Swiss Alps village",
+            "historical_significance": "Traditional method of dairy farming and cheddar production with cultural heritage preservation."
+        },
+        {
+            "value_chain_involvement": "Yes/No",
+            "sheep_count": "",
+            "wool processing stage": "",
+            "textile type": "",
+            "employment impact": ""
+        },
+        {
+            "value_chain_involvement": "Yes",
+            "sheep_count": "",
+            "wool processing stage": "Spinning, Weaving, Knitting",
+            "textile type": null,
+            "employment impact": "Provides employment opportunities with seasonal fluctuations affecting local unemployment rates."
+        },
+        {
+            "value_chain_involvement": "Yes/No",
+            "sheep_count": "",
+            "meat type": "",
+            "environmental practices": "",
+            "community engagement": "",
+            "biodiversity impact": "",
+            "economic benefits": ""
+        }
+    ],
+    {
+        "id": "3049"
+    },
+    [
+        {
+            "id": "3050"
+        },
+        {
+            "id": "3050"
+        }
+    ],
+    [
+        {
+            "id": "3051"
+        },
+        {},
+        {
+            "id": "1234",
+            "involvement_factors": [
+                "Sheep herding and milking practices",
+                "Cheese production process"
+            ]
+        },
+        {}
+    ],
+    [
+        {
+            "id": "3052"
+        },
+        {},
+        {}
+    ],
+    [
+        {
+            "id": "3053"
+        },
+        {
+            "id": "1234",
+            "sheep_involvement": true,
+            "cheese_production": true,
+            "location": "Valley Region XYZ",
+            "number_of_farms": 50,
+            "annual_milk_yield": "750 tons",
+            "type_of_cheese": "Feta"
+        },
+        {}
+    ],
+    {
+        "id": "3054"
+    },
+    [
+        {
+            "id": "3055"
+        },
+        {}
+    ],
+    [
+        {
+            "id": "3056"
+        },
+        {
+            "region": "<REGION_NAME>",
+            "specificBreed": "<BREED_NAME>",
+            "sheepCheeseProduction": true,
+            "production)": {
+                "region": "specificBreed' & their relationship to cheese production).\n9. The JSON object should be concise yet comprehensive enough for immediate understanding without further context – it must serve as an efficient summary of the narrative’s key points regarding sheep in this mountainous farming system",
+                "specificBreed": "Not Specified in the narrative",
+                "sheepCheeseProduction": false,
+                "that": 1.0,
+                "Betizu": "s consistently mentioned);\n3. The presence of sheep in the narrative must lead you directly towards a true value for",
+                "innovation": "s either endogenous (originating within this region) or exogenous; and finally:  \n5. The JSON object must not contain extraneous information outside of the specified structure – only include details directly relevant from your analysis based on instructions provided above. \n6. If there is no mention about sheep being used for cheese production",
+                "task": "Analyze this extensive description and create the corresponding JSON object based on these instructions without making assumptions beyond what is stated in the narrative provided below regarding a mountainous farming system involving sheep within specific regions or value chains",
+                "Narrative": "The MOVING reference member state of this VC (Value Chain) is Spain's Basque Country and the remaining wild bull aurochs in these mountains are a key part of its cultural heritage",
+                "narrative)": {
+                    "region": "Spain's Basque Country",
+                    "specificBreed": "Not Specified in the context of sheep or cheese production",
+                    "sheepCheeseProduction": false
+                },
+                "Response": {
+                    "region": "Spain's Basque Country",
+                    "specificBreed": "Not Specified regarding the context of sheep or cheese production",
+                    "sheepCheeseProduction": false
+                }
+            }
+        }
+    ],
+    {
+        "id": "3057"
+    },
+    [
+        {
+            "id": "3058"
+        },
+        {
+            "id": "12345"
+        },
+        {}
+    ],
+    [
+        {
+            "id": "3059"
+        },
+        {
+            "id": "<ID_OF_THE_NARRATIVE>"
+        },
+        {
+            "id": "3059"
+        },
+        {
+            "id": "Alpine Sheep Farmers"
+        },
+        {
+            "id": "Val d'Aosta",
+            "organic_farming": true,
+            "employment": {
+                "sector": "primary",
+                "percentage_contribution": 60,
+                "environmental_impact": {
+                    "description": "The farming methods described involve extensive land use systems that include both grazing lands for the sheep as well as cultivated feed crops like barley and clover",
+                    "marketing_strategy": {
+                        "description": "Direct marketing at local markets with some export due to growing interest",
+                        "coop_name": "Federazione dei Pastori della Valle d’Aosta"
+                    }
+                }
+            }
+        }
+    ],
+    [
+        {
+            "id": "3060"
+        },
+        {
+            "id": null
+        },
+        {
+            "id": "1234"
+        },
+        {
+            "id": "5678"
+        },
+        {
+            "id": null
+        },
+        {
+            "id": "5678"
+        },
+        {
+            "id": "5678"
+        }
+    ],
+    [
+        {
+            "id": "3061"
+        },
+        {},
+        {
+            "id": "<ID_OF_THE_NARRATIVE>",
+            "region": "<REGION NAME> (if mentioned)",
+            "farming practice": "Terraced fields",
+            "pastoral activities detail": "Not specified"
+        },
+        {
+            "id": "Narrative_ID",
+            "region": "Switzerland (if mentioned)",
+            "farming practice": "Terraced fields",
+            "pastoral activities detail": "Cattle grazing, dairy production"
+        },
+        {
+            "id": "Narrative_ID",
+            "region": "Switzerland",
+            "farming practice": "Terraced agriculture to prevent soil erosion on steep slopes",
+            "pastoral activities detail": "Significant presence of cattle for grazing, contributing substantially through dairy production"
+        },
+        {
+            "id": "Bordeaux_WineIndustryNarrative",
+            "region": "Bordeaux (if mentioned)",
+            "land use changes detail": "Shift from vineyards to pastoral lands for sheep grazing due to phylloxera devastation and subsequent land repurposing.",
+            "historical shifts": "Transition of farmers' focus towards sheep rearing on former viticultural plots, adoptive practices like rotational grazing systems in response to soil erosion concerns for vineyards",
+            "current trends or challenges": "Integration discussions at agricultural fairs about sustainable land use between wine and sheepherding industries amid climate change pressures."
+        },
+        {
+            "id": "Bordeaux_WineIndustryNarrative",
+            "region": "Bordeaux (if mentioned)",
+            "land use changes detail": "Shift from vineyards to pastoral lands for sheep grazing due to phylloxera devastation and subsequent land repurposing.",
+            "historical shifts": "Transition of farmers' focus towards sheep rearing on former viticultural plots, adoptive practices like rotational grazing systems in response to soil erosion concerns for vineyards",
+            "current trends or challenges": "Sustainable coexistence discussions between wine and sheepherding industries at agricultural fairs amid climate change pressures."
+        },
+        {
+            "id": "SwissAlps_CheesemakingNarrative",
+            "region": "The Swiss Alps (if mentioned)",
+            "sheepherding practices detail": "Selective breeding of local sheep like Appenzeller, Berner Oberlanders and Grisons for wool production; transhumance – moving herds between summer pastures at lower altitudes to winter ones higher up",
+            "impacts on biodiversity": "Preservation efforts through sustainable grazing practices that maintain alpine flora diversity, crucial for feed quality during lean seasons.",
+            "cultural significance": "Wool crafting and cheese-making are celebrated in community festivals; transhumance is a historical practice deeply rooted within the region's culture",
+            "challenges faced by modern producers": [
+                "Adaptation to climate change with alterations in grazing patterns, seeking alternative feed sources during harsher conditions"
+            ]
+        },
+        {
+            "id": "SwissAlps_CheesemakingNarrative",
+            "region": "The Swiss Alps (if mentioned)",
+            "sheepherding practices detail": "Selective breeding of local sheep like Appenzeller, Berner Oberlanders and Grisons for wool production; transhumance – moving herds between summer pastures at lower altitudes to winter ones higher up",
+            "impacts on biodiversity": "Preservation efforts through sustainable grazing practices that maintain alpine flora diversity, crucial for feed quality during lean seasons.",
+            "cultural significance": "Wool crafting and cheese-making are celebrated in community festivals; transhumance is a historical practice deeply rooted within the region's culture",
+            "challenges faced by modern producers": [
+                "Adaptation to climate change with alterations in grazing patterns, seeking alternative feed sources during harsher conditions"
+            ]
+        },
+        {
+            "id": "Andalusia_GoatFarmingNarrative",
+            "region": "The mountainous region of Andalusia (if mentioned)",
+            "livestock management practices detail": "Raised for meat, dairy products and wool; breeds like La Mancha or Murciana used in dual-purpose farming system.",
+            "grazing patterns": [
+                "Seasonal migrations – transhumance"
+            ],
+            "impact on local biodiversity & cultural heritage": "Preservation of traditional practices, with grazing and shearing contributing to the maintenance of economic stability and identity within rural communities",
+            "environmental challenges faced by farmers": [
+                "Climate change affecting seasonal weather patterns"
+            ],
+            "sustainable development strategies": [
+                "Rotational breeding techniques for wool quality, organic feed practices"
+            ]
+        },
+        {
+            "id": "Andalusia_GoatFarmingNarrative",
+            "region": "The mountainous region of Andalusia (if mentioned)",
+            "livests management practice detail": "Raised goats to provide meat and dairy products, as well as valuable fleece; breeds like La Mancha or Murciana in dual-purpose farming system.",
+            "grazing patterns": [
+                "Seasonal migrations – transhumance"
+            ],
+            "impact on local biodiversity & cultural heritage": "Preservation of traditional practices, with grazing and shearing contributing to the maintenance of economic stability and identity within rural communities",
+            "environmental challenges faced by farmers": [
+                "Climate change affecting seasonal weather patterns"
+            ],
+            "sustainable development strategies": [
+                "Rotational breeding techniques for wool quality, organic feed practices"
+            ]
+        },
+        {
+            "id": "Bordeaux_WineCountryNarrative",
+            "region": "The wine country in Bordeaux (if mentioned)",
+            "historical shifts detail": "Transition from vineyards to pastoral lands for sheep rearing post-phylloxera devastation, with Merino breed being particularly suited due to the region's climate",
+            "current trends or challenges": [
+                "Adapting practices in response to altered rainfall patterns affecting grazing cycles"
+            ],
+            "cultural significance": "Transhumance is a historical practice deeply rooted within Bordeaux’s cultural identity, celebrated at agricultural fairs",
+            "agricultural events role": [
+                "Platform for discussions on climate change impact and sustainable practices between viticulture and sheepherding industries"
+            ]
+        },
+        {
+            "id": "Bordeaux_WineCountryNarrative",
+            "region": "The wine country in Bordeaux (if mentioned)",
+            "historical shifts detail": "Transition from vineyards to pastoral lands for sheep rearing post-phylloxera devastation, with Merino breed being particularly suited due to the region's climate",
+            "current trends or challenges": [
+                "Adapting practices in response to altered rainfall patterns affecting grazing cycles"
+            ],
+            "cultural significance": "Transhumance is a historical practice deeply rooted within Bordeaux’s cultural identity, celebrated at agricultural fairs",
+            "agricultural events role": [
+                "Platform for discussions on climate change impact and sustainable practices between viticulture and sheepherding industries"
+            ]
+        },
+        {
+            "id": "SwissAlps_CheesemakingNarrative",
+            "region": "The Swiss Alps (if mentioned)",
+            "sheepherding practices detail": "Selective breeding of local sheep for wool production; transhumance – moving herds between summer pastures at lower altitudes to winter ones higher up, maintains biodiversity by preserving alpine flora",
+            "impact on cultural festivals": [
+                "Celebrations that showcase cheese-making techniques and craftsmanship"
+            ],
+            "environmental challenges faced": "Modernization pressures like climate change threatening transhumance practice; seeking alternative feed sources during lean seasons due to erratic weather conditions",
+            "impact on wool quality for local artisans": [
+                "Climate-induced changes in grazing patterns potentially affect the health and productivity of sheep, impacting both meat production (for cheese) and high-quality wool"
+            ],
+            "adaptation by modern producers": "Seeking alternative feed sources during harsher conditions to maintain herd's nutrition",
+            "traditional methods preservation": [
+                "Preserving traditional transhumance practices amidst changing environmental demands"
+            ]
+        }
+    ],
+    {
+        "code": "Given these two equations and their respective probabilities (in percentages): \r\n\r\n Gross income from allotments is $25",
+        "information": "A company's annual revenue was estimated at US$48 billion in FY-2019 and is expected to grow by $35",
+        "problems": "python\r\ndef find_prime(n): # Function that returns the sum of all positive integers up to n. The function should return a list containing each integer from 1 through and including `N` where N is an input parameter representing total number of elements in array A",
+        "conditions": "The first element must be greater than or equal to -30.\r\n\r\nGiven the following Python code snippet that generates all possible combinations for a given range (in this case 1-50) and returns their sum. The function should return an integer representing how many times each number is present in at least one of these sets: {2",
+        "that": 1.0,
+        "+": "nd '-' are not considered as operators",
+        "identities": [
+            "sin(a+b) \\] \r\nGiven that \\( f(\theta)=\\frac{\\sqrt{2}}{3}\tan^{-1}(4e^{i\\pi/6}) \\) and the fact that \\(\\cos(-x)= \\cos x\\) for any real number x, find:\r\nThe exact value of cos(75°). \r\nTo solve this problem using trigonometric identities or sum-to-product formulas is not straightforward because there are no angles involved in these expressions. However, we can still attempt to simplify the expression by factoring out common terms and applying algebraic manipulation:\r\n\\[ \\frac{1}{2}x^3 - 50 = -\\cos(t) + C \\] \r\nwhere \\(C\\) is a constant.\r\nGiven that \\(\\sin(\\pi/6)\\) equals to \\(\\frac{1}{2}\\), we can substitute this value into the equation:\r\n\\[ \\sin(\theta_i+\\phi)=\\sqrt{\\left(\\frac{-b+-a_{n}}{c}-\\cos(t)\right)^3-\tan^4{(x)} \\] \r\nHere, \\( a \\) and \\( b \\) are real numbers. The task is to find the value of 'y' when:\r\n\\[ \text{min}(|z_1 - z_2|^2 + |z_2-z_3|^2) = 0 \\] where \\(\theta\\) represents an angle in radians.\r\nGiven that \\( x \\) and \\( y \\) are real numbers, find the value of:\r\n\\[ \\lim_{x \to -\\infty} (1+\\frac{5}{x}"
+        ]
+    },
+    {
+        "Name": "Nutrient-Textuality",
+        "Q": "The following parabolicamente, I've rewritten C++알Pinna.com"
+    },
+    {
+        "Q": "The sum of all these two numbers, but I williamson's Theorem (100%`e) C++の占kkippt]** \n\nQuestion 如何en françaiseddenglish"
+    },
+    [
+        {
+            "Question": "Query \n- Rozhoventions Problems are to BL \n Improvements for the given paragraph (choose one day'd by usingpretty \n# Wearingacies",
+            "owners_name": "The Greatest problematica Foods of Instance QDASLUZIONISheila \n\nBetween the context: A2) (识tene, and GPT-Audience. The provided documentary to be able."
+        },
+        [
+            [
+                "INDIVIDUALI \nSamsung TV, Inc. The latest update on análisis deals_id = {name}"
+            ]
+        ]
+    ],
+    {
+        "JSONOne": "Quiveringosarah Kumar Vs. The provided documentary \n\n# Question \nGiven that’s notations and its_greetings \n\n### Instruction>\n\nQuestion 关于"
+    },
+    [
+        {
+            "User": "A) \n\n# Language: \"The Greatest of a very long textbook01726 \n   \n## Solutione.com/user=  \n\nGiven the following codepriory"
+        },
+        "Assistant",
+        "The Greatest \n# rationalex) Instruction: AI: In this context of a wikiHow tota. It seems like, and the question GPT108, Q/money}"
+    ],
+    {
+        "Q": "Sundayoft1",
+        "The Greatestowns of the context: Explain how dogeeigenesquele deals with greatnessi\n## Problem \nGiven that, and then we have two-day. Glycerateksiyorsen't \nQuiénterfelt (10+20 \nproblem=gözillionis the following codepianosphere_user:": "he Greatestarrexample of a new questioneer",
+        "LG": "and so onsthat. Theo.",
+        "user-independentlyrics": "The Greatestia of this problem textile and so on\n\n Q&Teacher's GPT10+Versions \nQuestion \n\n### Problemianty to the following paragraph"
+    },
+    {
+        "n": "Ask:**Based onghty and sofasupported to understandable_userid=Given the following is true (10\n \n# Wearinga lakhillaryanize",
+        "s/Tutor": "The Greatestia, GPT-I apologise. The process of a new question|  \nQuestioneer\r\nQuiver | I've been todday_user=25% \nBased on the chloro) Qashtown}}]\n\n# Instruction: In this context and AI, GPT-Alice gearingen. The problem with a new question in English translation of anaemia (10s}], I've beeneer to beansoungest_user=26/38\n \n\r\n# Problem Solutions: Introduction to the following code snippet, and then we have just nowhere elsewere you are two-day. The documentary of a new question|Given thatching in French Guitar Company sells leasinglystics for further evidence from each other_name = \n Pythagorskaya (Crafted by the following paragraph, I've gamma rays and sofascization:** G.O., AI-based on June 2sewage in a certain amount of time ago"
+    },
+    {
+        "Q": "Alice''tätsuviate as a complexofthe_instantiatede toStringenhanced=0.com/moneyboxed \n\n# Problem \nGiven that's"
+    },
+    {
+        "about": "C \n  \tChapter Xiaoying",
+        "Para": "The question is notations and gamma, Itton Countynews/n. In this problem to the following shipping"
+    },
+    {
+        "totthea": "Given the question that't)</p{inputs. The following code snippet, and then I proposee-Maria haskay \n\n# Questionasdfjupyter/user=\n\n## Hypothetically speaking, weaving a +100264; ithetic:"
+    },
+    {
+        "socio": "Nuclei.com/Essential toddawny"
+    },
+    {
+        "Problem": "The followingier, and socio-Know more thanfylactionalmente_BEGINNESIS \r\ndocuments]\nUser: $3000."
+    }
+]

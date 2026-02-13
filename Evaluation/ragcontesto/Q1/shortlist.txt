@@ -1,0 +1,1000 @@
+[CAND 1] ID=3014 CHUNK=2
+ID NARRATIVE: 3014
+The MOVING reference member state of this VC (Value Chain) is SKANDINAVIAN UCO. The reference MOVING Card ID of this VC is VC 08 SCA. Pultost is a sour milk cheese made from cow's milk without the use of rennet. Instead, a self-produced culture of old strains of lactic bacteria is added to start the
+h as Etnedal (0541).
+
+[CAND 2] ID=2849 CHUNK=1
+ID NARRATIVE: 2849
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 01 IT. Parmigiano Reggiano DOP is an hard cheese of ancient tradition, handcrafted with raw cow's milk, partially skimmed by surfacing, without adding additives or pres
+population over 100000 (km) is 55. In this region protected areas are not present.   The primary sector share of total employment/year [Province] is 2.78%. The secondary sector share of total employment/year [Province] is 30.59%. The tertiary sector share of total employment/year [Province] is 66.63%. The primary sector share of total employment/year [Region] is 3.06%. The secondary sector share of total employment/year [Region] is 28.03%. The tertiary sector share of total e…
+
+[CAND 3] ID=2848 CHUNK=1
+ID NARRATIVE: 2848
+The MOVING reference member state of this VC (Value Chain) is HUNGARY. The reference MOVING Card ID of this VC is VC 23 HU. Three different cheese producers in Nivegy-valley micro-region. They produce high quality artisan cheese and milk products. They keep animals (goat/cow) and their products are 
+gion] is 4.78%. The secondary sector share of total GVA/year [Region] is 38.97%. The tertiary sector share of total GVA/year [Region] is 56.24%.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 0. The regional (Region) share of total BPs/year is 10.03%. The number of agricultural holdings in the LAU is 74. The nearest settlement with population over 100000 (km) is 26. In this region protected areas are present.   …
+
+[CAND 4] ID=3131 CHUNK=1
+ID NARRATIVE: 3131
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 2. The reference MOVING Card ID of this VC is VC 08 CH2. The VC has 237 dairy farms, 9 cheese dairies and 2 ripeners. It is labelled with the protected designation of origin (pdo) and can therefore only be produced in a limite
+ the last 10 years (%) is unspecified.   The average per capita income (EUR/year) [Province] is 24718.16. The total Gross Value Added (GVA) (EUR million/year) [Province] is 79468.40. The primary sector share of total GVA/year [Province] is 0.79%. The secondary sector share of total GVA/year [Province] is 32.83%. The tertiary sector share of total GVA/year [Province] is 66.38%. The per capita income (EUR/year) [Region] is 24391.03. The total Gross Value Added (GVA) (EUR millio…
+
+[CAND 5] ID=3052 CHUNK=3
+ID NARRATIVE: 3052
+The MOVING reference member state of this VC (Value Chain) is SPAIN ADEGUA. The reference MOVING Card ID of this VC is VC 13 ES. The organic production of olive oil in mountain areas represents a small group of producers and a niche market that can guarantee their survival as long as a specific mark
+practices with the conservation of mountain ecosystems and landscapes.
+
+[CAND 6] ID=2951 CHUNK=3
+ID NARRATIVE: 2951
+The MOVING reference member state of this VC (Value Chain) is ROMANIA. The reference MOVING Card ID of this VC is VC 10 RO. 'Telemea' cheese is made by adding rennet to milk to curdle it. The resulting curd is removed into cheesecloth, drained and pressed overnight, then cut into square pieces. This
+s://produse.produsmontan.ro/). Processing and approval of requests to use the OQT and associated 'Mountain products' logo is undertaken locally by 30 Mountain Development Offices located in mountain communes. The National Consumers Protection Authority is responsible for regulating the market in 'Mountain Products' and checks if producers have been granted the authorisation to use the OQT and if the labelling is in compliance with the national regulation.
+
+[CAND 7] ID=2777 CHUNK=1
+ID NARRATIVE: 2777
+The MOVING reference member state of this VC (Value Chain) is FRANCE CCVD. The reference MOVING Card ID of this VC is VC 02 FR1. Extensive sheep farming and pastoralism are characteristic of Drôme valley mountain and mid-mountain areas. Local slaughtering and direct sales either directly to the cons
+last 10 years (%) has been 0.6%.   The average per capita income (EUR/year) [Province] is 21100. The total Gross Value Added (GVA) (EUR million/year) [Province] is 14532.49. The primary sector share of total GVA/year [Province] is 1.70%. The secondary sector share of total GVA/year [Province] is 20.30%. The tertiary sector share of total GVA/year [Province] is 77.80%. The per capita income (EUR/year) [Region] is 32799. The total Gross Value Added (GVA) (EUR million/year) [Reg…
+
+[CAND 8] ID=2880 CHUNK=1
+ID NARRATIVE: 2880
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 48 IT. The 'Latte del Parco' farm is strongly linked to the natural and cultural context of the mountains (i.e. the SES) for its natural resources (e.g. mountain pastur
+[Region] is 146253.3. The primary sector share of total GVA/year [Region] is 2.18%. The secondary sector share of total GVA/year [Region] is 31.86%. The tertiary sector share of total GVA/year [Region] is 65.96%.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 1245. The regional (Region) share of total BPs/year is 0.15%. The number of agricultural holdings in the LAU is 89. The nearest settlement with population …
+
+[CAND 9] ID=3008 CHUNK=1
+ID NARRATIVE: 3008
+The MOVING reference member state of this VC (Value Chain) is SKANDINAVIAN UCO. The reference MOVING Card ID of this VC is VC 02 SCA. This cider is 100% made with local apples. The most common varieties of apples are Discovery, Aroma, Gravenstein and Summerred. The labelling PGI Hardanger cider guar
+on/year) [Province] is 5240.53. The primary sector share of total GVA/year [Province] is 7.22%. The secondary sector share of total GVA/year [Province] is 35.46%. The tertiary sector share of total GVA/year [Province] is 57.32%. The per capita income (EUR/year) [Region] is 36281.69. The total Gross Value Added (GVA) (EUR million/year) [Region] is 44203.49. The primary sector share of total GVA/year [Region] is 4.16%. The secondary sector share of total GVA/year [Region] is 26…
+
+[CAND 10] ID=2863 CHUNK=1
+ID NARRATIVE: 2863
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 17 IT. The VC does not depend on other SESs, and the main actors are farmers and the municipality of Amatrice. The VC has a positive impact on the SES (e.g. preserving 
+ar [Region] is 13.50%. The tertiary sector share of total GVA/year [Region] is 85.44%.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 6. The regional (Region) share of total BPs/year is 0.00%. The number of agricultural holdings in the LAU is 181. The nearest settlement with population over 100000 (km) is 85. In this region protected areas are present.   The primary sector share of total employment/year [Provinc…
+
+[CAND 11] ID=2877 CHUNK=1
+ID NARRATIVE: 2877
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 44 IT. The farm raises about 120 Duroc pigs on open air and process the meat into cured meats which sells at local markets. The quality of production have caused a surp
+nal (Region) share of total BPs/year is 0.01%. The number of agricultural holdings in the LAU is 71. The nearest settlement with population over 100000 (km) is 88. In this region protected areas are not present.   The primary sector share of total employment/year [Province] is 7.71%. The secondary sector share of total employment/year [Province] is 30.91%. The tertiary sector share of total employment/year [Province] is 61.38%. The primary sector share of total employment/yea…
+
+[CAND 12] ID=3010 CHUNK=2
+ID NARRATIVE: 3010
+The MOVING reference member state of this VC (Value Chain) is SKANDINAVIAN UCO. The reference MOVING Card ID of this VC is VC 04 SCA. The meat comes mostly and preferably from the same region. The company produces the cured meat in a farm in the mountains, using the dry wind from the mountains for t
+land use systems involved are Cropland, Grassland and Mountain wind. The local assets include Natural, social and cultural.
+
+[CAND 13] ID=2996 CHUNK=2
+ID NARRATIVE: 2996
+The MOVING reference member state of this VC (Value Chain) is SERBIA. The reference MOVING Card ID of this VC is VC 03 SER. Livestock husbandry is the main agricultural activity in the area of Zlatar Mountain. Cattle breeding is at the basis of the VC, the biggest number of the farmer households is 
+ total BPs/year is unspecified. The number of agricultural holdings in the LAU is 3453. The nearest settlement with population over 100000 (km) is 178.16. In this region protected areas are present.   The primary sector share of total employment/year [Province] is 4.70%. The secondary sector share of total employment/year [Province] is 40.70%. The tertiary sector share of total employment/year [Province] is 54.60%. The primary sector share of total employment/year [Region] is…
+
+[CAND 14] ID=2986 CHUNK=1
+ID NARRATIVE: 2986
+The MOVING reference member state of this VC (Value Chain) is SCOTLAND HUTTON. The reference MOVING Card ID of this VC is VC 28 UK. Breakfast puddings including haggis and Stornoway black pudding are an important Scottish food and export commodity. Haggis has an export value of £8.8 million over the
+ The tertiary sector share of total GVA/year [Region] is 68.77%.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 2407. The regional (Region) share of total BPs/year is 4.01%. The number of agricultural holdings in the LAU is 6293. The nearest settlement with population over 100000 (km) is 342. In this region protected areas are present.   The primary sector share of total employment/year [Province] is 21.43%. The…
+
+[CAND 15] ID=2951 CHUNK=2
+ID NARRATIVE: 2951
+The MOVING reference member state of this VC (Value Chain) is ROMANIA. The reference MOVING Card ID of this VC is VC 10 RO. 'Telemea' cheese is made by adding rennet to milk to curdle it. The resulting curd is removed into cheesecloth, drained and pressed overnight, then cut into square pieces. This
+ucer in Vaideeni commune (174021) in Vâlcea County (RO415). It is registered as a 'Mountain Product' (https://produse.produsmontan.ro/produs/branza-telemea-din-lapte-de-vaca/).   The natural asset used for producing 'Telemea' in the mountain areas of Vâlcea County (RO415) is mainly semi-natural grasslands (private meadows for hay-making and common pastures for communal grazing).    Value chains for artisanal products such as the 'Telemea' produced in the Vaideeni commune are …
+
+[CAND 16] ID=3130 CHUNK=2
+ID NARRATIVE: 3130
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 2. The reference MOVING Card ID of this VC is VC 06 CH2. The VC includes a family farm that produces, processes and sells yogurt directly on the farm. Sales are also made to local cheese dairies. The products is labbeled 'IP S
+sified as Traditional and Innovative.   The type of innovation of this VC (Value Chain) is unspecified. Traditional, family-based and diversified agriculture farm who produces and tranforms and sells the goat's milk into yogurt on the farm. The innovation is related to New products. The land use systems involved are Grassland. The local assets include Natural and cultural.
+
+[CAND 17] ID=3131 CHUNK=2
+ID NARRATIVE: 3131
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 2. The reference MOVING Card ID of this VC is VC 08 CH2. The VC has 237 dairy farms, 9 cheese dairies and 2 ripeners. It is labelled with the protected designation of origin (pdo) and can therefore only be produced in a limite
+nal knowledge dating back to the 17th century. The current pdo organization demonstrates furthermore social ressources, such as interactions among farmers and cheese producers, to maintain a sufficient milk price.    The natural resources on which the milk used for cheese production is based are threatened by increasing droughts due to climate change (loss of fodder, death of spruce trees in wooded pastures changing the landscape and shade). There are uncertainties about the …
+
+[CAND 18] ID=3014 CHUNK=1
+ID NARRATIVE: 3014
+The MOVING reference member state of this VC (Value Chain) is SKANDINAVIAN UCO. The reference MOVING Card ID of this VC is VC 08 SCA. Pultost is a sour milk cheese made from cow's milk without the use of rennet. Instead, a self-produced culture of old strains of lactic bacteria is added to start the
+tor share of total GVA/year [Province] is 72.88%. The per capita income (EUR/year) [Region] is 46253.25. The total Gross Value Added (GVA) (EUR million/year) [Region] is 15265.23. The primary sector share of total GVA/year [Region] is 3.65%. The secondary sector share of total GVA/year [Region] is 23.37%. The tertiary sector share of total GVA/year [Region] is 72.98%.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) …
+
+[CAND 19] ID=3087 CHUNK=1
+ID NARRATIVE: 3087
+The MOVING reference member state of this VC (Value Chain) is SPAIN UCO. The reference MOVING Card ID of this VC is VC 27 ES. To be labelled as PDO Los Pedroches, the pigs must be at least 75% Iberian breed and must graze extensively in the dehesa within the area of Los Pedroches with a maximum dens
+hare of total GVA/year [Region] is unspecified.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 181. The regional (Region) share of total BPs/year is unspecified. The number of agricultural holdings in the LAU is unspecified. The nearest settlement with population over 100000 (km) is 70.6. In this region protected areas are present.   The primary sector share of total employment/year [Province] is 13.80%. The sec…
+
+[CAND 20] ID=2782 CHUNK=2
+ID NARRATIVE: 2782
+The MOVING reference member state of this VC (Value Chain) is FRANCE CCVD. The reference MOVING Card ID of this VC is VC 07 FR1. Picodon AOP is a goat-milk cheese from the Drome, very representative of middle mountain agriculture.The quality label AOP provides strict requirements in terms of product
+ributing to Drome territorial identity. Picodon AOP VC is well organized by producers associations and trade unions and can be either marketed in long distribution channel or local market. Within this VC, one can find organic and farmer Picodon or convention dairy picodon production. Products: Some Picodon producers are working of goat meat valorisation (cabri, chevreau) Processes: Farmer Picodon producers are developping practices that provide ecosystemic services ecopasture…
+
+[CAND 21] ID=2996 CHUNK=3
+ID NARRATIVE: 2996
+The MOVING reference member state of this VC (Value Chain) is SERBIA. The reference MOVING Card ID of this VC is VC 03 SER. Livestock husbandry is the main agricultural activity in the area of Zlatar Mountain. Cattle breeding is at the basis of the VC, the biggest number of the farmer households is 
+ere are initial actions for organising farmers in associations for certification of the cheese and PDO management and marketing. Zlatar Mountain is still not very urbanised and used for mass-tourism. Natural value of the area is very big - special nature area, endangered species, three lakes and a river. Pollution and climate change are also threatening the area (waste management, river pollution, etc. The area is on the border with Bosnia and Herzegovina and Montenegro.   Ke…
+
+[CAND 22] ID=2989 CHUNK=1
+ID NARRATIVE: 2989
+The MOVING reference member state of this VC (Value Chain) is SERBIA. The reference MOVING Card ID of this VC is VC 10 SER. The VC is dominated by the production of single dairy, Secondary dairy school in Pirot that is the guardian of the tradition and know how. There are around 13000 sheep produced
+per capita income (EUR/year) [Region] is 529.61. The total Gross Value Added (GVA) (EUR million/year) [Region] is 5202.34. The primary sector share of total GVA/year [Region] is 7.56%. The secondary sector share of total GVA/year [Region] is 41.13%. The tertiary sector share of total GVA/year [Region] is 51.31%.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 78618. The regional (Region) share of total BPs/year i…
+
+[CAND 23] ID=2908 CHUNK=2
+ID NARRATIVE: 2908
+The MOVING reference member state of this VC (Value Chain) is NMK. The reference MOVING Card ID of this VC is VC 11 NMK. Mainly the state owne company (Makedonski Shumi) deals with the forestry and wood in the region of Maleshevija.   The reference mountain chain of this VC is Mountain Meleshevija. 
+esent in other Member States as well.
+
+[CAND 24] ID=3047 CHUNK=1
+ID NARRATIVE: 3047
+The MOVING reference member state of this VC (Value Chain) is SPAIN VINIDEA. The reference MOVING Card ID of this VC is VC 12 ES. This area falls under the protection of the PDO Ribeira Sacra, wich proctects and promotes the wines produced in this area using tradicional means and practices. The ches
+or share of total GVA/year [Region] is 25.6. The tertiary sector share of total GVA/year [Region] is 69.1.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 393. The regional (Region) share of total BPs/year is 2.40%. The number of agricultural holdings in the LAU is 12821. The nearest settlement with population over 100000 (km) is 72.6.   The primary sector share of total employment/year [Province] is 4.70%. The s…
+
+[CAND 25] ID=2877 CHUNK=2
+ID NARRATIVE: 2877
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 44 IT. The farm raises about 120 Duroc pigs on open air and process the meat into cured meats which sells at local markets. The quality of production have caused a surp
+e whole VC. The land use systems involved are Forestry. The local assets include Natural.
+
+[CAND 26] ID=2970 CHUNK=1
+ID NARRATIVE: 2970
+The MOVING reference member state of this VC (Value Chain) is SCOTLAND HUTTON. The reference MOVING Card ID of this VC is VC 11 UK. Scotch beef is a PGI marked product i.e. it will be awarded PGI status if it is produced in Scotland from cattle reared, slaughtered and dressed in Scotland. Scotch bee
+ overall regional population density (Inhabitants/km2) is 11.44. The regional population change rate in the last 10 years (%) has been 1.52%.   The average per capita income (EUR/year) [Province] is 21200.32. The total Gross Value Added (GVA) (EUR million/year) [Province] is 2790.74. The primary sector share of total GVA/year [Province] is 5.43%. The secondary sector share of total GVA/year [Province] is 22.07%. The tertiary sector share of total GVA/year [Province] is 72.50%…
+
+[CAND 27] ID=2981 CHUNK=3
+ID NARRATIVE: 2981
+The MOVING reference member state of this VC (Value Chain) is SCOTLAND HUTTON. The reference MOVING Card ID of this VC is VC 22 UK. As the most southerly 'Munro', Ben Lomond presents an accesible entry point to cultural challenge of 'Munro Bagging' (named after the mountaineer who first surveyed and
+onal Park and faces similar challenges to Ben Lomond in terms of safeguarding the natural environment in the context of access pressures.
+
+[CAND 28] ID=3141 CHUNK=2
+ID NARRATIVE: 3141
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 2. The reference MOVING Card ID of this VC is VC 41 CH2. Familiar farm of 2 hectares of land. The plants are planted, weeded and harvested by hand, then gently dried in a specially designed dryer. Each plant requires a specifi
+t producers in the Swiss mountain regions.
+
+[CAND 29] ID=2849 CHUNK=2
+ID NARRATIVE: 2849
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 01 IT. Parmigiano Reggiano DOP is an hard cheese of ancient tradition, handcrafted with raw cow's milk, partially skimmed by surfacing, without adding additives or pres
+igiano Reggiano that must be subject to additional rules concerning not only the geographical origin, but also the diet, the breeding of the cows and the aging of the cheese. The innovation is related to the whole VC. The land use systems involved are Cropland, Grassland and Natural land. The local assets include Natural and cultural.   The production area includes the provinces of Parma, Reggio Emilia, Modena, Bologna to the left of the Reno river and Mantua to the south of …
+
+[CAND 30] ID=2886 CHUNK=1
+ID NARRATIVE: 2886
+The MOVING reference member state of this VC (Value Chain) is France VINIDEA. The reference MOVING Card ID of this VC is VC 01 FR. Wine growing is the 2nd largest agricultural activity of Savoyard agriculture, after milk production. In Jongieux are located 6 commercial wine producers, making wine un
+ector share of total GVA/year [Region] is 1.00%. The secondary sector share of total GVA/year [Region] is 24.50%. The tertiary sector share of total GVA/year [Region] is 74.40%.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 194386. The regional (Region) share of total BPs/year is 7.70%. The number of agricultural holdings in the LAU is 20. The nearest settlement with population over 100000 (km) is 83. In this r…
+
+[CAND 31] ID=2798 CHUNK=1
+ID NARRATIVE: 2798
+The MOVING reference member state of this VC (Value Chain) is FRANCE INRAE. The reference MOVING Card ID of this VC is VC 12 FR. Milk Kid is seasonnaly produced, mostly for Christmas, by approximatively 200 farmers. An association of farmers intervene for slaughtering the animals and corresponding l
+Local Administrative Unit) is unspecified. The regional (Region) share of total BPs/year is unspecified. The number of agricultural holdings in the LAU is 2626. The nearest settlement with population over 100000 (km) is 333. In this region protected areas are present.   The primary sector share of total employment/year [Province] is unspecified. The secondary sector share of total employment/year [Province] is unspecified. The tertiary sector share of total employment/year [P…
+
+[CAND 32] ID=2876 CHUNK=1
+ID NARRATIVE: 2876
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 43 IT. The VC depends only on the local SES. The main actors are the breeders and farmers who collaborate in the cooperative company to produce milk and cheeses. Qualit
+l Administrative Unit) is 806. The regional (Region) share of total BPs/year is 0.51%. The number of agricultural holdings in the LAU is 42. The nearest settlement with population over 100000 (km) is 82. In this region protected areas are present.   The primary sector share of total employment/year [Province] is 3.31%. The secondary sector share of total employment/year [Province] is 26.54%. The tertiary sector share of total employment/year [Province] is 70.15%. The primary …
+
+[CAND 33] ID=2792 CHUNK=1
+ID NARRATIVE: 2792
+The MOVING reference member state of this VC (Value Chain) is FRANCE INRAE. The reference MOVING Card ID of this VC is VC 06 FR. A not very active union gathers the firms. Due to a demanding market and the absence of production and trade rules, the activity is governed by the summer and export marke
+ve Unit) is unspecified. The regional (Region) share of total BPs/year is unspecified. The number of agricultural holdings in the LAU is 2626. The nearest settlement with population over 100000 (km) is 333. In this region protected areas are present.   The primary sector share of total employment/year [Province] is unspecified. The secondary sector share of total employment/year [Province] is unspecified. The tertiary sector share of total employment/year [Province] is unspec…
+
+[CAND 34] ID=2858 CHUNK=2
+ID NARRATIVE: 2858
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 12 IT. The VC is not dependent on other SES for its production process. The relevant actor is the farmer who produces and processes peppers. The products are labelled '
+ The land use systems involved are Cropland and Natural land. The local assets include Cultural.   In its land is present a ZAC (dog training area) specifically for hunting dogs.
+
+[CAND 35] ID=2798 CHUNK=2
+ID NARRATIVE: 2798
+The MOVING reference member state of this VC (Value Chain) is FRANCE INRAE. The reference MOVING Card ID of this VC is VC 12 FR. Milk Kid is seasonnaly produced, mostly for Christmas, by approximatively 200 farmers. An association of farmers intervene for slaughtering the animals and corresponding l
+he local assets include Natural and cultural.   The VC is rare in the current list. It is also present in other mountains of France (Alps, CCVD) where similar issues have been rising. Comparaison with production of Kid that is dedicated to meat (Portugal) might also been interesting regarding the use of resources linked with specialization.
+
+[CAND 36] ID=2856 CHUNK=2
+ID NARRATIVE: 2856
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 08 IT. The VC is not dependent on other SES for its production process, but it is strongly oriented towards the foreign market (90% of production). Relevant actors are 
+ppreciates traditional forms of milk production (mainly if made in a sustainable way) and peculiar local cheese. The innovation is related to the whole VC. The land use systems involved are Cropland and Grassland. The local assets include Natural, social and cultural.
+
+[CAND 37] ID=2764 CHUNK=1
+ID NARRATIVE: 2764
+The MOVING reference member state of this VC (Value Chain) is CZECH REPUBLIC. The reference MOVING Card ID of this VC is VC 09 CZ. VC uses now EU PGI label. Behind this label there is specific symbol of the region. Albeit located close to heavy industrialised and polluted region of Ostrava, Vallachi
+ctor share of total GVA/year [Region] is 51.60%.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 29759. The regional (Region) share of total BPs/year is 0.51%. The number of agricultural holdings in the LAU is 3815. The nearest settlement with population over 100000 (km) is 45. In this region protected areas are present.   The primary sector share of total employment/year [Province] is 2.10%. The secondary sector…
+
+[CAND 38] ID=2765 CHUNK=1
+ID NARRATIVE: 2765
+The MOVING reference member state of this VC (Value Chain) is CZECH REPUBLIC. The reference MOVING Card ID of this VC is VC 10 CZ. Herb liquers are not a mainstream product. The producers operate on a niche market. The producers do not have to be located in the region, but mostly they are. The herb 
+UR million/year) [Region] is 23148.69. The primary sector share of total GVA/year [Region] is 3.29%. The secondary sector share of total GVA/year [Region] is 46.85%. The tertiary sector share of total GVA/year [Region] is 49.90%.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 55419. The regional (Region) share of total BPs/year is 0.45%. The number of agricultural holdings in the LAU is 1759. The nearest settlem…
+
+[CAND 39] ID=3132 CHUNK=1
+ID NARRATIVE: 3132
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 2. The reference MOVING Card ID of this VC is VC 09 CH2. Alpine Gruyère is produced seasonally from April to October in 53 alpine chalets. Gruyère production is organised by the Gruyère Interprofession created in 1997 who brin
+rongly between summer and winter and the annual rainfall are abundant ( 1000 mm). Clock-making by farmers in the form of peasant clockmakers has been practiced since the Middle Ages and offers a cultural heritage to the region.   The size of the area (km2) is 213.62. The minimum altimetry of the LAU (Local Administrative Unit) is 383. The maximum altimetry of the LAU is 1650. The total population (in thousand) is 233.02. The population density (Inhabitants/km2) in the LAU is …
+
+[CAND 40] ID=2999 CHUNK=0
+ID NARRATIVE: 2999
+The MOVING reference member state of this VC (Value Chain) is SERBIA. The reference MOVING Card ID of this VC is VC 07 SER. Mountain trount value chain is nationally fragmented and dominated by small actors, with capacity of up to 1000m2. Out of this number many are not even registered. Their produc
+The MOVING reference member state of this VC (Value Chain) is SERBIA. The reference MOVING Card ID of this VC is VC 07 SER. Mountain trount value chain is nationally fragmented and dominated by small actors, with capacity of up to 1000m2. Out of this number many are not even registered. Their production ranges from very extnensive to semi intensive, and intensive, from lack of any mechanisation and treatment to fully organised fishpond productions. Fresh fish is sold usually …
+
+[CAND 41] ID=2906 CHUNK=1
+ID NARRATIVE: 2906
+The MOVING reference member state of this VC (Value Chain) is NMK. The reference MOVING Card ID of this VC is VC 09 NMK. Key actors dealing with cheese in Maleshevija and the kew brands: a) Maleshevo milk Berovo b) Mlekara Malesh c) Mlekara Natasha d) Farma Pacarski . There are meny individual famil
+ion over 100000 (km) is unspecified. In this region protected areas are present.   The primary sector share of total employment/year [Province] is unspecified. The secondary sector share of total employment/year [Province] is unspecified. The tertiary sector share of total employment/year [Province] is unspecified. The primary sector share of total employment/year [Region] is 16.20%. The secondary sector share of total employment/year [Region] is 30.50%. The tertiary sector s…
+
+[CAND 42] ID=3015 CHUNK=1
+ID NARRATIVE: 3015
+The MOVING reference member state of this VC (Value Chain) is SKANDINAVIAN UCO. The reference MOVING Card ID of this VC is VC 09 SCA. The cheese is made from April to October and has always been made with milk from the local goats. There are three families belonging to the Undredal Stølsysteri SA. A
+ional population density (Inhabitants/km2) is 23.99. The regional population change rate in the last 10 years (%) has been 9.70%.   The average per capita income (EUR/year) [Province] is 53441.89. The total Gross Value Added (GVA) (EUR million/year) [Province] is 5240.53. The primary sector share of total GVA/year [Province] is 7.22%. The secondary sector share of total GVA/year [Province] is 35.46%. The tertiary sector share of total GVA/year [Province] is 57.32%. The per ca…
+
+[CAND 43] ID=3030 CHUNK=2
+ID NARRATIVE: 3030
+The MOVING reference member state of this VC (Value Chain) is SLOVAKIA. The reference MOVING Card ID of this VC is VC 04 SK. Key activities: sheep breeding,wool selling, wool processing, marketing. Key actors: sheep breeders, sheep wool processors, consumers. Positive impact on local and regional SE
+involved are Grassland. The local assets include Natural, social and cultural.
+
+[CAND 44] ID=2893 CHUNK=1
+ID NARRATIVE: 2893
+The MOVING reference member state of this VC (Value Chain) is ITALY VINIDEA. The reference MOVING Card ID of this VC is VC 34 IT. Individual winegrowers and small cooperatives are producing high quality red wines of two typologies: classic red wines under the denominations Valtellina Superiore DOCG 
+hare of total GVA/year [Province] is 70.90%. The per capita income (EUR/year) [Region] is 17332. The total Gross Value Added (GVA) (EUR million/year) [Region] is 352980.4. The primary sector share of total GVA/year [Region] is 1.10%. The secondary sector share of total GVA/year [Region] is 26.70%. The tertiary sector share of total GVA/year [Region] is 72.20%.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 6. Th…
+
+[CAND 45] ID=2760 CHUNK=1
+ID NARRATIVE: 2760
+The MOVING reference member state of this VC (Value Chain) is CZECH REPUBLIC. The reference MOVING Card ID of this VC is VC 05 CZ. Farms - sheep breeding, sheep husbandry, grazing, perennial grassland management. Farms often implement organic farming methods. Vast majority of farms process their own
+ar [Province] is 4.50%. The secondary sector share of total GVA/year [Province] is 40.50%. The tertiary sector share of total GVA/year [Province] is 55.10%. The per capita income (EUR/year) [Region] is 9762.62. The total Gross Value Added (GVA) (EUR million/year) [Region] is 23148.69. The primary sector share of total GVA/year [Region] is 3.29%. The secondary sector share of total GVA/year [Region] is 46.85%. The tertiary sector share of total GVA/year [Region] is 49.90%.   T…
+
+[CAND 46] ID=2838 CHUNK=1
+ID NARRATIVE: 2838
+The MOVING reference member state of this VC (Value Chain) is HUNGARY. The reference MOVING Card ID of this VC is VC 13 HU. Eplény ski arena is creating huge tourism during the winter and also during the summer with downhill cycling. It is the most developed ski resort in Hungary, with artificial sn
+is 14578. The total Gross Value Added (GVA) (EUR million/year) [Region] is 12355. The primary sector share of total GVA/year [Region] is 4.78%. The secondary sector share of total GVA/year [Region] is 38.97%. The tertiary sector share of total GVA/year [Region] is 56.24%.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 21.59. The regional (Region) share of total BPs/year is 10.03%. The number of agricultural hold…
+
+[CAND 47] ID=2853 CHUNK=1
+ID NARRATIVE: 2853
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 05 IT. The Di Nucci family organised VCs involving local economic actors (e.g., breeders) in high-quality traditional dairy productions. The 'Di Nucci' dairy incorporat
+40%.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 233. The regional (Region) share of total BPs/year is 2.10%. The number of agricultural holdings in the LAU is 415. The nearest settlement with population over 100000 (km) is 109. In this region protected areas are present.   The primary sector share of total employment/year [Province] is 5.40%. The secondary sector share of total employment/year [Province] is …
+
+[CAND 48] ID=2972 CHUNK=1
+ID NARRATIVE: 2972
+The MOVING reference member state of this VC (Value Chain) is SCOTLAND HUTTON. The reference MOVING Card ID of this VC is VC 13 UK. Although most forestry in Scotland is maintained/ managed for large-scale commercial or recreation use, there is a growing interest in artisinal/ bespoke wood products 
+r) [Province] is 2345.4. The primary sector share of total GVA/year [Province] is 4.10%. The secondary sector share of total GVA/year [Province] is 22.60%. The tertiary sector share of total GVA/year [Province] is 73.30%. The per capita income (EUR/year) [Region] is 21856.90. The total Gross Value Added (GVA) (EUR million/year) [Region] is 13770.61. The primary sector share of total GVA/year [Region] is 4.03%. The secondary sector share of total GVA/year [Region] is 27.20%. T…
+
+[CAND 49] ID=3070 CHUNK=1
+ID NARRATIVE: 3070
+The MOVING reference member state of this VC (Value Chain) is SPAIN ADEGUA. The reference MOVING Card ID of this VC is VC 44 ES. Rute's mantecados and polvorones enjoy prestige in the region, articulate a relevant local production cluster and generate several hundred seasonal jobs each year. The bra
+iary sector share of total GVA/year [Region] is 73.46%.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 407. The regional (Region) share of total BPs/year is 0,07%. The number of agricultural holdings in the LAU is 983. The nearest settlement with population over 100000 (km) is 0. In this region protected areas are present.   The primary sector share of total employment/year [Province] is 12.90%. The secondary se…
+
+[CAND 50] ID=3143 CHUNK=2
+ID NARRATIVE: 3143
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 2. The reference MOVING Card ID of this VC is VC 45 CH2. The VC is very short and includes farmers and potentially resellers in local markets as raw milk cannot be stored for a long time and is mainly sold directly.   The refe
+etter price per litre for the farmer, prevalence of landuse systems through pasture (cattle grazing) in the swiss mountains. Raw milk is not a new product because it has always been consumed in this way in rural areas, but it can represent a new strategy for selling milk, more natural and above all sold directly (the consumer's desire to consume locally and not processed).   Dairy production is based on pastures (natural asset), which represent the typical swiss cultural land…
+
+[CAND 51] ID=3142 CHUNK=2
+ID NARRATIVE: 3142
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 2. The reference MOVING Card ID of this VC is VC 43 CH2. The VC is made up of 11 manufacturers and ripeners as well as milk producers from the Jura mountain areas. The milk is processed and sold locally, in large Swiss superma
+is 15.85%. The tertiary sector share of total employment/year [Region] is 81.36%.   Successfull registration of a quality scheme and territorial identitiy with a PDO, high quality product; maintenance of a high milk price for the dairy producers in the VC (in the face of competition and the opening up of markets with EU), thus maintaining the pasture and the landscape, maintenance of extensive grazing in wooden pastures. Being products with rare values.   Dairy production is …
+
+[CAND 52] ID=2850 CHUNK=2
+ID NARRATIVE: 2850
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 02 IT. Key activities and key actors, labelling, quality schemes in place, dependencies of VC on local SES and impacts (positive and negative ) of VC on regional SES.  
+nd use systems involved are Forestry. The local assets include Cultural.
+
+[CAND 53] ID=2720 CHUNK=1
+ID NARRATIVE: 2720
+The MOVING reference member state of this VC (Value Chain) is AUSTRIA. The reference MOVING Card ID of this VC is VC 15 AT. The main actor of this VC is the cooperative called Weizer Schafbauern - Die Schaferei . This cooperative owns the brand Määh to distribute its products. Another important acto
+gion] is 64.04%.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 4310. The regional (Region) share of total BPs/year is 2.77%. The number of agricultural holdings in the LAU is 4555. The nearest settlement with population over 100000 (km) is 30. In this region protected areas are present.   The primary sector share of total employment/year [Province] is 11.55%. The secondary sector share of total employment/year …
+
+[CAND 54] ID=2748 CHUNK=1
+ID NARRATIVE: 2748
+The MOVING reference member state of this VC (Value Chain) is BULGARIA. The reference MOVING Card ID of this VC is VC 13 BG. The gorge is about 50 km north of the city of Sofia and day trips for short hikes, photography etc. are very popular - especially with international visitors to the city who t
+) [Province] is 1598. The primary sector share of total GVA/year [Province] is 4.60%. The secondary sector share of total GVA/year [Province] is 55.40%. The tertiary sector share of total GVA/year [Province] is 40.00%. The per capita income (EUR/year) [Region] is 12900. The total Gross Value Added (GVA) (EUR million/year) [Region] is 23579. The primary sector share of total GVA/year [Region] is 1.20%. The secondary sector share of total GVA/year [Region] is 16.10%. The tertia…
+
+[CAND 55] ID=2890 CHUNK=1
+ID NARRATIVE: 2890
+The MOVING reference member state of this VC (Value Chain) is ITALY VINIDEA. The reference MOVING Card ID of this VC is VC 29 IT. The viticultural activity on the island is performed by a small number of individual wine producers mostly concentrated on the production of sweet wine. As this type of w
+ar [Region] is 4.10%. The secondary sector share of total GVA/year [Region] is 12.50%. The tertiary sector share of total GVA/year [Region] is 83.40%.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 6203. The regional (Region) share of total BPs/year is 4.10%. The number of agricultural holdings in the LAU is 6129. The nearest settlement with population over 100000 (km) is 84. In this region protected areas are p…
+
+[CAND 56] ID=2790 CHUNK=1
+ID NARRATIVE: 2790
+The MOVING reference member state of this VC (Value Chain) is FRANCE INRAE. The reference MOVING Card ID of this VC is VC 04 FR. There are 20 dairies collecting milk of about 300 dairy farmers (mostly dairy-Ewe farmers, but also dairy-Goat farmers). Some of those farmers make their own chese two ('m
+/year) [Province] is 25400. The total Gross Value Added (GVA) (EUR million/year) [Province] is 8034.12. The per capita income (EUR/year) [Region] is 25400. The total Gross Value Added (GVA) (EUR million/year) [Region] is 8034.12.   The number of agricultural holdings in the LAU (Local Administrative Unit) is 2626. The nearest settlement with population over 100000 (km) is 333. In this region protected areas are present.   The primary sector share of total employment/year [Reg…
+
+[CAND 57] ID=3053 CHUNK=1
+ID NARRATIVE: 3053
+The MOVING reference member state of this VC (Value Chain) is SPAIN ADEGUA. The reference MOVING Card ID of this VC is VC 16 ES. The springs of Lanjarón were discovered at the end of the 18th century. In 1818, six springs in the town of Lanjarón were declared mineral-medicinal water, including the S
+s 6.53%. The secondary sector share of total GVA/year [Region] is 20.01%. The tertiary sector share of total GVA/year [Region] is 73.46%.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 1470. The regional (Region) share of total BPs/year is 0,27%. The number of agricultural holdings in the LAU is 183. The nearest settlement with population over 100000 (km) is 45.5. In this region protected areas are present.   Th…
+
+[CAND 58] ID=3132 CHUNK=2
+ID NARRATIVE: 3132
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 2. The reference MOVING Card ID of this VC is VC 09 CH2. Alpine Gruyère is produced seasonally from April to October in 53 alpine chalets. Gruyère production is organised by the Gruyère Interprofession created in 1997 who brin
+e, high quality product with a international high reputation, successful registration of a quality scheme with a PDO, connected to cattle farming which is the main farming system in Switzerland (representative of swiss agriculture).   Dairy production is based on pastures (natural asset), which represent the typical swiss cultural landscape. Grazing therefore depends on these landscapes and these landscapes depends in return on cattle, otherwise they would return to the state…
+
+[CAND 59] ID=2963 CHUNK=2
+ID NARRATIVE: 2963
+The MOVING reference member state of this VC (Value Chain) is SCOTLAND HUTTON. The reference MOVING Card ID of this VC is VC 02 UK. Traditional Welsh artisinal Caerphilly cheese is protected with Euopean Protected Georgaphical Indication (PGI) stuatus. PGI status is for English and Welsh spellings. 
+.    Relies partly on tourism to areas, so difficult during COVID. Lots of the cheese is now made in England so threat to territorial identity if the local Caerphilly producers cannot compete/ continue. Pre-war techniques of local Cerphilly producers more expensive that mass production methods. Overall the type of challenge faced by this VC is Current and predicted. This VC is classified as Traditional and Innovative.   The type of innovation of this VC (Value Chain) is Endog…
+
+[CAND 60] ID=2886 CHUNK=2
+ID NARRATIVE: 2886
+The MOVING reference member state of this VC (Value Chain) is France VINIDEA. The reference MOVING Card ID of this VC is VC 01 FR. Wine growing is the 2nd largest agricultural activity of Savoyard agriculture, after milk production. In Jongieux are located 6 commercial wine producers, making wine un
+d and vineyards. The local assets include Natural and cultural.
+
+[CAND 61] ID=2932 CHUNK=1
+ID NARRATIVE: 2932
+The MOVING reference member state of this VC (Value Chain) is PORTUGAL ESTRELA. The reference MOVING Card ID of this VC is VC 11 PT2. In the Dão Demarcated Region the geographical conditions are excellent for the production of wines. At Serra da Estrela, there are several hectares of vineyards of di
+ist accommodations/year in the LAU (Local Administrative Unit) is 1245. The regional (Region) share of total BPs/year is 1.96%. The number of agricultural holdings in the LAU is 1728. The nearest settlement with population over 100000 (km) is 64.2. In this region protected areas are present.   The primary sector share of total employment/year [Province] is 20.11%. The secondary sector share of total employment/year [Province] is 34.59%. The tertiary sector share of total empl…
+
+[CAND 62] ID=2954 CHUNK=3
+ID NARRATIVE: 2954
+The MOVING reference member state of this VC (Value Chain) is ROMANIA. The reference MOVING Card ID of this VC is VC 13 RO. 'Brănză Horezu' was first produced in the town of Horezu in the mountainous region of northern Vâlcea County (RO415) in 2001. All milk used for cheese production is collected d
+ve been granted the authorisation to use the OQT and if the labelling is in compliance with the national regulation.
+
+[CAND 63] ID=3140 CHUNK=2
+ID NARRATIVE: 3140
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 2. The reference MOVING Card ID of this VC is VC 38 CH2. The value chain consists of a beekeeper who produces and markets his honey locally, in small local shops and sells it online. The honeys also go through a certification 
+ Grassland, Forestry and Natural land. The local assets include Natural.
+
+[CAND 64] ID=2932 CHUNK=2
+ID NARRATIVE: 2932
+The MOVING reference member state of this VC (Value Chain) is PORTUGAL ESTRELA. The reference MOVING Card ID of this VC is VC 11 PT2. In the Dão Demarcated Region the geographical conditions are excellent for the production of wines. At Serra da Estrela, there are several hectares of vineyards of di
+   Dão Wine DOP - Serra da Estrela subregion can be produced at some parishes of the municipalities of Seia and Gouveia.
+
+[CAND 65] ID=3141 CHUNK=1
+ID NARRATIVE: 3141
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 2. The reference MOVING Card ID of this VC is VC 41 CH2. Familiar farm of 2 hectares of land. The plants are planted, weeded and harvested by hand, then gently dried in a specially designed dryer. Each plant requires a specifi
+r) [Region] is 23346.60. The total Gross Value Added (GVA) (EUR million/year) [Region] is 120370.80. The primary sector share of total GVA/year [Region] is 0.80%. The secondary sector share of total GVA/year [Region] is 28.02%. The tertiary sector share of total GVA/year [Region] is 71.17%.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 9. The regional (Region) share of total BPs/year is 0.01%. The number of agr…
+
+[CAND 66] ID=2773 CHUNK=1
+ID NARRATIVE: 2773
+The MOVING reference member state of this VC (Value Chain) is CZECH REPUBLIC. The reference MOVING Card ID of this VC is VC 18 CZ. Producers are not necessarily located in the mountains. However this business is mostly associated with livestock farms that strive for diversification and valorization 
+ear [Province] is 4.70%. The secondary sector share of total GVA/year [Province] is 39.00%. The tertiary sector share of total GVA/year [Province] is 56.30%. The per capita income (EUR/year) [Region] is 9836.73. The total Gross Value Added (GVA) (EUR million/year) [Region] is 19458.96. The primary sector share of total GVA/year [Region] is 4.00%. The secondary sector share of total GVA/year [Region] is 43.60%. The tertiary sector share of total GVA/year [Region] is 52.40%.   …
+
+[CAND 67] ID=2892 CHUNK=3
+ID NARRATIVE: 2892
+The MOVING reference member state of this VC (Value Chain) is ITALY VINIDEA. The reference MOVING Card ID of this VC is VC 33 IT. The wine produced in the area has 2 appellations: PDO 5terre (a white wine from local varieties Bosco, Albarola, Vermentino), and PDO 5terre schiacchetra (a dessert wine 
+ vineyard plots; recostitution of traditional cement-free stone walls, with landscape significance. The innovation is related to New processes. The land use systems involved are Natural land. The local assets include Natural and social.
+
+[CAND 68] ID=2823 CHUNK=1
+ID NARRATIVE: 2823
+The MOVING reference member state of this VC (Value Chain) is GREECE. The reference MOVING Card ID of this VC is VC 19 GR. The actors in Ammotopos include: Small animal husbandry farmers where milk production is the main source of income. The company EPIRUS SA that operates in the region is one of t
+alue Added (GVA) (EUR million/year) [Province] is 1229.49. The primary sector share of total GVA/year [Province] is 13.34%. The secondary sector share of total GVA/year [Province] is 14.50%. The tertiary sector share of total GVA/year [Province] is 72.16%. The per capita income (EUR/year) [Region] is 11800. The total Gross Value Added (GVA) (EUR million/year) [Region] is 3409.2. The primary sector share of total GVA/year [Region] is 9.37%. The secondary sector share of total …
+
+[CAND 69] ID=3051 CHUNK=1
+ID NARRATIVE: 3051
+The MOVING reference member state of this VC (Value Chain) is SPAIN ADEGUA. The reference MOVING Card ID of this VC is VC 11 ES. The Huesca small vineyards and cellars are all located in the higher part of the mountain and were progressively loosing economic relevance, with several cases of abandonm
+total GVA/year [Province] is 16.81%. The tertiary sector share of total GVA/year [Province] is 74.00%. The per capita income (EUR/year) [Region] is 15800. The total Gross Value Added (GVA) (EUR million/year) [Region] is 146000. The primary sector share of total GVA/year [Region] is 0.0653. The secondary sector share of total GVA/year [Region] is 0.2001. The tertiary sector share of total GVA/year [Region] is 0.7346.   The total number of bed places (BPs) in tourist accommodat…
+
+[CAND 70] ID=3072 CHUNK=1
+ID NARRATIVE: 3072
+The MOVING reference member state of this VC (Value Chain) is SPAIN ADEGUA. The reference MOVING Card ID of this VC is VC 48 ES. Traditional charcoal making is the craft of making charcoal from firewood. This has been an essential source of heat, used for cooking or heating houses. The charcoal make
+year) [Region] is 41468.7. The primary sector share of total GVA/year [Region] is 0.74%. The secondary sector share of total GVA/year [Region] is 11.28%. The tertiary sector share of total GVA/year [Region] is 87.98%.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 451. The regional (Region) share of total BPs/year is 0,10 %. The number of agricultural holdings in the LAU is 65. The nearest settlement with popula…
+
+[CAND 71] ID=3021 CHUNK=2
+ID NARRATIVE: 3021
+The MOVING reference member state of this VC (Value Chain) is SKANDINAVIAN UCO. The reference MOVING Card ID of this VC is VC 15 SCA. This VC is based on a family farm with few employees besides the two owners. They produce herbs and flowers to sell them fresh and dry. They also own a dehumidifier t
+cial.   More cases of organic herb farms are located in Roros (NO1640) and Gloppen (NO1445).
+
+[CAND 72] ID=2914 CHUNK=2
+ID NARRATIVE: 2914
+The MOVING reference member state of this VC (Value Chain) is NMK. The reference MOVING Card ID of this VC is VC 17 NMK. The process goes from tobacco seeds, planting seedlings, harvesting, selling the row material, processing, and selling the final tobacco product to the end users. During the growi
+lude Natural, social and cultural.
+
+[CAND 73] ID=3136 CHUNK=2
+ID NARRATIVE: 3136
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 2. The reference MOVING Card ID of this VC is VC 15 CH2. The VC is composed of several actors such as public and private forest owners, their forestry departments and other processing and sales companies. There is therefore of
+alue Added (GVA) (EUR million/year) [Region] is 127943.40. The primary sector share of total GVA/year [Region] is 0.86%. The secondary sector share of total GVA/year [Region] is 38.65%. The tertiary sector share of total GVA/year [Region] is 60.49%.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 5665. The regional (Region) share of total BPs/year is 6.08%. The number of agricultural holdings in the LAU is 3051. …
+
+[CAND 74] ID=2874 CHUNK=2
+ID NARRATIVE: 2874
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 36 IT. The cheese is produced only with milk from the 'Podolica' cow which is a local breed. The processing relies on tranditional activities which are mostly performed
+ market trait of rurality which is affected by ageing population and depopulation. The remoteness of the area make it difficult for the active part of the population to share formal and informal knowledges and experiences that can promote the valorisation of local natural (busheses, woods, and natural grass land) and human (traditional know-how) resources . Additionaly, intensive agriculture production drastically reduced the areas dedicated to natural land, natural grassland…
+
+[CAND 75] ID=2882 CHUNK=1
+ID NARRATIVE: 2882
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 52 IT. The farm is active on promoting the territory and the mountain products are: meat from 15-month-old veal and 18-month-old heifer, and also an 'ottofile' corn flo
+ this region protected areas are not present.   The primary sector share of total employment/year [Province] is 2.93%. The secondary sector share of total employment/year [Province] is 24.89%. The tertiary sector share of total employment/year [Province] is 72.18%. The primary sector share of total employment/year [Region] is 1.27%. The secondary sector share of total employment/year [Region] is 26.24%. The tertiary sector share of total employment/year [Region] is 72.49%.   …
+
+[CAND 76] ID=3011 CHUNK=1
+ID NARRATIVE: 3011
+The MOVING reference member state of this VC (Value Chain) is SKANDINAVIAN UCO. The reference MOVING Card ID of this VC is VC 05 SCA. The cattle grazes in open pastures during the summer time, as the rest of the year they are covered by snow. For this reason, another important element is the cutivat
+R/year) [Region] is 46253.25. The total Gross Value Added (GVA) (EUR million/year) [Region] is 15265.23. The primary sector share of total GVA/year [Region] is 3.65%. The secondary sector share of total GVA/year [Region] is 23.37%. The tertiary sector share of total GVA/year [Region] is 72.98%.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 3704. The regional (Region) share of total BPs/year is 14.53%. The numbe…
+
+[CAND 77] ID=3161 CHUNK=2
+ID NARRATIVE: 3161
+The MOVING reference member state of this VC (Value Chain) is TURKEY. The reference MOVING Card ID of this VC is VC 14 TR. Dairy cattle enterprises are small scale. Cows graze in the highlands. Livestock provides the main livelihood for households. Kars Gruyere and Kashar are the most-produced chees
+r States such as Czech Republic, France, Hungary, Serbia, Switzerland, Spain, and Austria.
+
+[CAND 78] ID=2770 CHUNK=1
+ID NARRATIVE: 2770
+The MOVING reference member state of this VC (Value Chain) is CZECH REPUBLIC. The reference MOVING Card ID of this VC is VC 15 CZ. Syrup producers are not necessarily located in mountain areas. They collect ingredients from the mountain region and process the ingredients in nearby regions. Crucial p
+Region] is 9762.62. The total Gross Value Added (GVA) (EUR million/year) [Region] is 23148.69. The primary sector share of total GVA/year [Region] is 3.29%. The secondary sector share of total GVA/year [Region] is 46.85%. The tertiary sector share of total GVA/year [Region] is 49.90%.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 55419. The regional (Region) share of total BPs/year is 0.45%. The number of agric…
+
+[CAND 79] ID=3130 CHUNK=1
+ID NARRATIVE: 3130
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 2. The reference MOVING Card ID of this VC is VC 06 CH2. The VC includes a family farm that produces, processes and sells yogurt directly on the farm. Sales are also made to local cheese dairies. The products is labbeled 'IP S
+it) is 0. The regional (Region) share of total BPs/year is 0.00%. The number of agricultural holdings in the LAU is 21. The nearest settlement with population over 100000 (km) is 75. In this region protected areas are present.   The primary sector share of total employment/year [Province] is 20.59%. The secondary sector share of total employment/year [Province] is 20.22%. The tertiary sector share of total employment/year [Province] is 59.19%. The primary sector share of tota…
+
+[CAND 80] ID=2823 CHUNK=3
+ID NARRATIVE: 2823
+The MOVING reference member state of this VC (Value Chain) is GREECE. The reference MOVING Card ID of this VC is VC 19 GR. The actors in Ammotopos include: Small animal husbandry farmers where milk production is the main source of income. The company EPIRUS SA that operates in the region is one of t
+ocal assets include Social and cultural. This PDO cheese is produced only in Epirus. Nevertheless, feta in general is produced all over Greece and in other European countries.
+
+[CAND 81] ID=2961 CHUNK=1
+ID NARRATIVE: 2961
+The MOVING reference member state of this VC (Value Chain) is ROMANIA. The reference MOVING Card ID of this VC is VC 20 RO. The 'Păstrăvăria Bușteni' began selling fresh (eviscerated) Rainbow Trout in 2018 and has since diversified into the processing and sale of a broad range of additional products
+] is 10900. The total Gross Value Added (GVA) (EUR million/year) [Province] is 7119. The primary sector share of total GVA/year [Province] is 2.30%. The secondary sector share of total GVA/year [Province] is 51.80%. The tertiary sector share of total GVA/year [Province] is 45.90%. The per capita income (EUR/year) [Region] is 8200. The total Gross Value Added (GVA) (EUR million/year) [Region] is 21787. The primary sector share of total GVA/year [Region] is 7.40%. The secondary…
+
+[CAND 82] ID=2852 CHUNK=1
+ID NARRATIVE: 2852
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 04 IT. 'Melise' has involved the local administration, 50 local farmers and an extra-regional entrepreneur. Lands and clime 'collaborated' to innovate local agricultura
+on] is 5.30%. The secondary sector share of total GVA/year [Region] is 20.30%. The tertiary sector share of total GVA/year [Region] is 74.40%.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 30. The regional (Region) share of total BPs/year is 0.30%. The number of agricultural holdings in the LAU is 5. The nearest settlement with population over 100000 (km) is 104. In this region protected areas are present.   Th…
+
+[CAND 83] ID=2789 CHUNK=2
+ID NARRATIVE: 2789
+The MOVING reference member state of this VC (Value Chain) is FRANCE INRAE. The reference MOVING Card ID of this VC is VC 03 FR. In Corsica, on-farm cheese making is defended by an association of farmers (of dairy goats and dairy ewes), Casgiu Casanu, which has existed since 1998 and has been locall
+ impacts territories. The requalification of husbandry embarks both products and ecosystems.We consider husbandry as a lever to regulate socioecological systems, rather than a predatory activity.   to (re)assemble resources that have been built and transmitted in the territory (breeds, feeding species.. ) and to be able to address the issues raisen by the agroecological transition. Overall the type of challenge faced by this VC is Current and Predicted. This VC is classified …
+
+[CAND 84] ID=2844 CHUNK=2
+ID NARRATIVE: 2844
+The MOVING reference member state of this VC (Value Chain) is HUNGARY. The reference MOVING Card ID of this VC is VC 19 HU. The monastery of the Cistercian Sisters in Kismaros processes their own fruit, and they make processed products from purchased raw materials. They produca jams and syrups. They
+o New marketing strategies. The land use systems involved are N/A. The local assets include N/A.
+
+[CAND 85] ID=3082 CHUNK=2
+ID NARRATIVE: 3082
+The MOVING reference member state of this VC (Value Chain) is SPAIN UCO. The reference MOVING Card ID of this VC is VC 15 ES. There are 6 main different kind of cheeses in the area, shared by three provinces (NUTS2). The blue cheeses from this region stand out nationwide and even competing in intern
+050), Cabezón de Liébana (39013), Camaleño (39015), Cillórigo de Liébana (39022), Peñarrubia (39049), Pesaguero (39050), Potes (39055), Tresviso (39088), Vega de Liébana (39096), Posada de Valdeón (24116), Oseja de Sajambre (24106).
+
+[CAND 86] ID=2978 CHUNK=1
+ID NARRATIVE: 2978
+The MOVING reference member state of this VC (Value Chain) is SCOTLAND HUTTON. The reference MOVING Card ID of this VC is VC 19 UK. There are over 130 distilleries producing whisky across Scotland. Scotch Whisky is a PDO, in which 'Scotch' has to be distilled and matured in Scotland. There are many 
+year [Province] is 63.63%. The per capita income (EUR/year) [Region] is 21856.90. The total Gross Value Added (GVA) (EUR million/year) [Region] is 13770.61. The primary sector share of total GVA/year [Region] is 4.03%. The secondary sector share of total GVA/year [Region] is 27.20%. The tertiary sector share of total GVA/year [Region] is 68.77%.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 15574. The regional …
+
+[CAND 87] ID=3134 CHUNK=1
+ID NARRATIVE: 3134
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 2. The reference MOVING Card ID of this VC is VC 12 CH2. The VC is composed of small scale farming with the farmers that produce and transform the sheep's milk and sell the cheese directly on the farm. The milk is processed in
+The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 286. The regional (Region) share of total BPs/year is 0.17%. The number of agricultural holdings in the LAU is 93. The nearest settlement with population over 100000 (km) is 59. In this region protected areas are present.   The primary sector share of total employment/year [Province] is 3.97%. The secondary sector share of total employment/year [Province] is 61.57%. T…
+
+[CAND 88] ID=2836 CHUNK=2
+ID NARRATIVE: 2836
+The MOVING reference member state of this VC (Value Chain) is HUNGARY. The reference MOVING Card ID of this VC is VC 11 HU. Logging for firewood, sawmill and nearby thermal power plant. Replantation and maintenance of the forest. Typical and traditional mountain activity, complemented with building 
+wood to a nearby thermal power plant is innovative. The land use systems involved are Forestry. The local assets include Natural and cultural.
+
+[CAND 89] ID=2790 CHUNK=2
+ID NARRATIVE: 2790
+The MOVING reference member state of this VC (Value Chain) is FRANCE INRAE. The reference MOVING Card ID of this VC is VC 04 FR. There are 20 dairies collecting milk of about 300 dairy farmers (mostly dairy-Ewe farmers, but also dairy-Goat farmers). Some of those farmers make their own chese two ('m
+ction are also a common features of those areas. Dairies might not be located within the mountainous areas, but they can collect milk there and so have an influence on the matching SES.
+
+[CAND 90] ID=2955 CHUNK=1
+ID NARRATIVE: 2955
+The MOVING reference member state of this VC (Value Chain) is ROMANIA. The reference MOVING Card ID of this VC is VC 14 RO. 'Pastrama de Oaie' is produced from boneless mutton (sheepmeat), preserved and smoked according to a special recipe with very characteristic aroma and taste. It is commonly sol
+loyment/year [Province] is 29.00%. The secondary sector share of total employment/year [Province] is 36.40%. The tertiary sector share of total employment/year [Province] is 34.60%. The primary sector share of total employment/year [Region] is 38.70%. The secondary sector share of total employment/year [Region] is 26.80%. The tertiary sector share of total employment/year [Region] is 34.50%.   'Pastrama de Oaie' is a very traditional and widespread mountain product. This exam…
+
+[CAND 91] ID=2848 CHUNK=2
+ID NARRATIVE: 2848
+The MOVING reference member state of this VC (Value Chain) is HUNGARY. The reference MOVING Card ID of this VC is VC 23 HU. Three different cheese producers in Nivegy-valley micro-region. They produce high quality artisan cheese and milk products. They keep animals (goat/cow) and their products are 
+is classified as Traditional and Innovative.   The type of innovation of this VC (Value Chain) is Endogenous and Exogenous. Animal husbandry are traditional in this area, however, cheese-making, especially high quality, beautiful packaging and short supply chains, sales via the internet are innovative. All the three cheese-makers started from no experience with cheese, however two od them are from traditional peasent families. The third is from a city with no agricultural pas…
+
+[CAND 92] ID=2761 CHUNK=1
+ID NARRATIVE: 2761
+The MOVING reference member state of this VC (Value Chain) is CZECH REPUBLIC. The reference MOVING Card ID of this VC is VC 06 CZ. Chicken husbandry is present on many farm located in the mountain region. There are a few farms that directly specialize on chicken meat production. These farms keep chi
+ per capita income (EUR/year) [Province] is 16563.69. The total Gross Value Added (GVA) (EUR million/year) [Province] is 9675.69. The primary sector share of total GVA/year [Province] is 4.70%. The secondary sector share of total GVA/year [Province] is 39.00%. The tertiary sector share of total GVA/year [Province] is 56.30%. The per capita income (EUR/year) [Region] is 10193. The total Gross Value Added (GVA) (EUR million/year) [Region] is 19458.96. The primary sector share o…
+
+[CAND 93] ID=3136 CHUNK=3
+ID NARRATIVE: 3136
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 2. The reference MOVING Card ID of this VC is VC 15 CH2. The VC is composed of several actors such as public and private forest owners, their forestry departments and other processing and sales companies. There is therefore of
+ Natural and Political norms.   Timber exploitation is offered to the whole of Switzerland. In our case the MLR stops at the canton of Jura, but in reality, the chain is wider, with different forest compositions.
+
+[CAND 94] ID=2857 CHUNK=2
+ID NARRATIVE: 2857
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 11 IT. The VC is not dependent on other SES for its production process. Relevant actor is the family farmer who produce white garlic and herbs in mountain area. They us
+ive packaging). The innovation is related to the whole VC. The land use systems involved are Cropland. The local assets include Natural and social.
+
+[CAND 95] ID=2881 CHUNK=1
+ID NARRATIVE: 2881
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 50 IT. The farm has 35 cows in production, of the Grigio Alpina breed and the Original Brouw breed; the main products are 'Formai de Ceresegn 'cheese, aged from one to 
+The primary sector share of total employment/year [Province] is 2.54%. The secondary sector share of total employment/year [Province] is 34.79%. The tertiary sector share of total employment/year [Province] is 62.67%. The primary sector share of total employment/year [Region] is 1.27%. The secondary sector share of total employment/year [Region] is 26.24%. The tertiary sector share of total employment/year [Region] is 72.49%.   Cheese is an excellent product, from a gustatory…
+
+[CAND 96] ID=3019 CHUNK=1
+ID NARRATIVE: 3019
+The MOVING reference member state of this VC (Value Chain) is SKANDINAVIAN UCO. The reference MOVING Card ID of this VC is VC 13 SCA. An example is the Veiseth, a raspberry farm where you can rather pick up your own raspberries, buy a box of fresh or frozen raspberries and buy raspberry juice. The s
+ome (EUR/year) [Region] is 54460.72. The total Gross Value Added (GVA) (EUR million/year) [Region] is 22400.21. The primary sector share of total GVA/year [Region] is 5.35%. The secondary sector share of total GVA/year [Region] is 16.31%. The tertiary sector share of total GVA/year [Region] is 78.34%.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 15554. The regional (Region) share of total BPs/year is 38.29%. T…
+
+[CAND 97] ID=2762 CHUNK=1
+ID NARRATIVE: 2762
+The MOVING reference member state of this VC (Value Chain) is CZECH REPUBLIC. The reference MOVING Card ID of this VC is VC 07 CZ. Healing herbs collection considered as the project of social inclusion (done by social enterprise) is done in local medows. Processing of the herbs is done by another fa
+e (EUR/year) [Region] is 9335.88. The total Gross Value Added (GVA) (EUR million/year) [Region] is 18439.35. The primary sector share of total GVA/year [Region] is 2.97%. The secondary sector share of total GVA/year [Region] is 45.43%. The tertiary sector share of total GVA/year [Region] is 51.60%.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 28371. The regional (Region) share of total BPs/year is 0.49%. The n…
+
+[CAND 98] ID=2982 CHUNK=1
+ID NARRATIVE: 2982
+The MOVING reference member state of this VC (Value Chain) is SCOTLAND HUTTON. The reference MOVING Card ID of this VC is VC 23 UK. Winters sports, in this instance Lecht ski resort depend on maintenance of the land in the area (i.e., ensuring it is releatively undisturbed in summer) so that it can 
+otal Gross Value Added (GVA) (EUR million/year) [Province] is 20611.27. The primary sector share of total GVA/year [Province] is 2.46%. The secondary sector share of total GVA/year [Province] is 28.09%. The tertiary sector share of total GVA/year [Province] is 69.45%. The per capita income (EUR/year) [Region] is 24463.99. The total Gross Value Added (GVA) (EUR million/year) [Region] is 20611.27. The primary sector share of total GVA/year [Region] is 2.46%. The secondary secto…
+
+[CAND 99] ID=2730 CHUNK=1
+ID NARRATIVE: 2730
+The MOVING reference member state of this VC (Value Chain) is AUSTRIA. The reference MOVING Card ID of this VC is VC 06 AT. The farms use their own or wild fruits and market their products (mainly) individually either through own on farm shops, via internet, the local gastronomy and regional shops. 
+on over 100000 (km) is 30. In this region protected areas are present.   The primary sector share of total employment/year [Province] is 11.55%. The secondary sector share of total employment/year [Province] is 29.94%. The tertiary sector share of total employment/year [Province] is 58.50%. The primary sector share of total employment/year [Region] is 5.55%. The secondary sector share of total employment/year [Region] is 26.47%. The tertiary sector share of total employment/y…
+
+[CAND 100] ID=3066 CHUNK=1
+ID NARRATIVE: 3066
+The MOVING reference member state of this VC (Value Chain) is SPAIN ADEGUA. The reference MOVING Card ID of this VC is VC 37 ES. In the pre-Hispanic period, gofio was made manually. With the modernization of technology, the process moved from hydraulic mills to diesel-powered mills to finally produc
+s 11.28%. The tertiary sector share of total GVA/year [Region] is 87.98%.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 1752. The regional (Region) share of total BPs/year is 0,41%. The number of agricultural holdings in the LAU is 282. The nearest settlement with population over 100000 (km) is 21. In this region protected areas are present.   The primary sector share of total employment/year [Province] is 2.70…
+
+[CAND 101] ID=2863 CHUNK=2
+ID NARRATIVE: 2863
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 17 IT. The VC does not depend on other SESs, and the main actors are farmers and the municipality of Amatrice. The VC has a positive impact on the SES (e.g. preserving 
+the municipality of Amatrice. The intent is to allow greater competitiveness of local mountain farms by preserving and promoting a historical local food (the honey) to attract consumers interested in the local cultural tradition on wine and food productions. The innovation is related to the whole VC. The land use systems involved are Cropland and Natural land. The local assets include Natural and cultural.
+
+[CAND 102] ID=2841 CHUNK=1
+ID NARRATIVE: 2841
+The MOVING reference member state of this VC (Value Chain) is HUNGARY. The reference MOVING Card ID of this VC is VC 16 HU. The backbone of the business, launched in 2010, is a chemical engineer couple, who farm with the help of their children and their parents. They produce and sell wine (Chardonna
+GVA/year [Region] is 62.38%.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 0. The regional (Region) share of total BPs/year is 8.64%. The number of agricultural holdings in the LAU is 7. The nearest settlement with population over 100000 (km) is 29. In this region protected areas are present.   The primary sector share of total employment/year [Province] is 3.89%. The secondary sector share of total employment/…
+
+[CAND 103] ID=3018 CHUNK=1
+ID NARRATIVE: 3018
+The MOVING reference member state of this VC (Value Chain) is SKANDINAVIAN UCO. The reference MOVING Card ID of this VC is VC 12 SCA. The fishing season goes from May to September and attracts many recreational anglers to its diverse fishing spots. The Hemsedal Fishing Association holds a joint fish
+y sector share of total GVA/year [Region] is 69.72%.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 10283. The regional (Region) share of total BPs/year is 27.54%. The number of agricultural holdings in the LAU is 2111. The nearest settlement with population over 100000 (km) is 202. In this region protected areas are present.   The primary sector share of total employment/year [Province] is 1.02%. The secondary …
+
+[CAND 104] ID=3033 CHUNK=1
+ID NARRATIVE: 3033
+The MOVING reference member state of this VC (Value Chain) is SLOVAKIA. The reference MOVING Card ID of this VC is VC 07 SK. Activities: herbs production, collection of wild herbs and forest fruits. Key actors: managers, workers, consumers . Positive impact on local and regional SES is a contributio
+or share of total employment/year [Province] is 3.00%. The secondary sector share of total employment/year [Province] is 34.00%. The tertiary sector share of total employment/year [Province] is 63.00%. The primary sector share of total employment/year [Region] is 3.00%. The secondary sector share of total employment/year [Region] is 34.00%. The tertiary sector share of total employment/year [Region] is 63.00%.   Quality certificates about ecological production, organic farmin…
+
+[CAND 105] ID=2952 CHUNK=3
+ID NARRATIVE: 2952
+The MOVING reference member state of this VC (Value Chain) is ROMANIA. The reference MOVING Card ID of this VC is VC 11 RO. All of the cheeses, including the 'Brânză de Burduf', that are marketed under the 'Stâna de Vaideeni' brand are produced in a licenced processing unit in the village. Cattle an
+registration of 'Mountain Products' - thereby strictly requiring that products originate from within a designated mountain area (reducing the distance to 0km). The National Mountain Area Agency (part of the Ministry of Agriculture and Rural Development) has overall responsibility for co-ordination of the OQT, including maintenance of the National Registry of Mountain Products (https://produse.produsmontan.ro/). Processing and approval of requests to use the OQT and associated…
+
+[CAND 106] ID=2873 CHUNK=2
+ID NARRATIVE: 2873
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 35 IT. The Di Iorio family is at the heart of the VC that connects several SESs to supply raw materials traditionally used in traditional desserts. The company has seve
+ such as honey, are used for production, but historically other products come from other SESs. Thus the VC connects several SES. However, strong connections with local agricultural production are not stressed.    In the high-quality traditional confectionery sector, innovation and the origin of raw materials are competitive factors. In the case of 'Di Iorio', innovation crosses local (i.e., nougat) and national (panettone, Easter eggs, dove bread, etc.) gastronomic culture. H…
+
+[CAND 107] ID=3027 CHUNK=1
+ID NARRATIVE: 3027
+The MOVING reference member state of this VC (Value Chain) is SLOVAKIA. The reference MOVING Card ID of this VC is VC 01 SK. Key activities: sheep breeding, cow milk production, cheese production, marketing. Key actors: shepherds, cheese producers, actors in marketing. Labelling: PGI. VC is dependen
+) is 1168. The regional (Region) share of total BPs/year is 0.64%. The number of agricultural holdings in the LAU is 4122. The nearest settlement with population over 100000 (km) is 103. In this region protected areas are present.   The primary sector share of total employment/year [Province] is 4.00%. The secondary sector share of total employment/year [Province] is 37.00%. The tertiary sector share of total employment/year [Province] is 59.00%. The primary sector share of t…
+
+[CAND 108] ID=2777 CHUNK=2
+ID NARRATIVE: 2777
+The MOVING reference member state of this VC (Value Chain) is FRANCE CCVD. The reference MOVING Card ID of this VC is VC 02 FR1. Extensive sheep farming and pastoralism are characteristic of Drôme valley mountain and mid-mountain areas. Local slaughtering and direct sales either directly to the cons
+viding ecosystem services in the mountain: sylvopastoralism, ecopasturing. economic asset: Creation of local added value, local employment, answer to territorial food demand cultural asset: contribution of local food heritage, conservation of traditional jobs and know how.    Extensive sheep farming and pastoralism are characteristic of Drôme valley mountain and mid-mountain areas.However, this value chain is very dependent on financial support from the EU. The VC suffers fro…
+
+[CAND 109] ID=3015 CHUNK=2
+ID NARRATIVE: 3015
+The MOVING reference member state of this VC (Value Chain) is SKANDINAVIAN UCO. The reference MOVING Card ID of this VC is VC 09 SCA. The cheese is made from April to October and has always been made with milk from the local goats. There are three families belonging to the Undredal Stølsysteri SA. A
+he inhabitants. It was not untill 1986 that they had road comunication with other urban settlements, so they used to be completelly dependent on their local dairy production. They celebrate an annual cheese market that hosts many visitors. Besides, this VC is part of Norsk Gardsost, an association of traditional dairies in Norway, as well as being endorsed by a Slowfood Presidium where various actors of the locality are involved.    To compete with industrial dairies that now…
+
+[CAND 110] ID=2994 CHUNK=2
+ID NARRATIVE: 2994
+The MOVING reference member state of this VC (Value Chain) is SERBIA. The reference MOVING Card ID of this VC is VC 01 SER. Livestock husbandry is the main agricultural activity in the area of Pester plateau. Lamb meat (Sjenica lamb) production is at the basis of the VC, having sheep farms solely fo
+commodations/year in the LAU (Local Administrative Unit) is 78618. The regional (Region) share of total BPs/year is unspecified. The number of agricultural holdings in the LAU is 5225. The nearest settlement with population over 100000 (km) is 175.91. In this region protected areas are present.   The primary sector share of total employment/year [Province] is 4.70%. The secondary sector share of total employment/year [Province] is 40.70%. The tertiary sector share of total em…
+
+[CAND 111] ID=3027 CHUNK=2
+ID NARRATIVE: 3027
+The MOVING reference member state of this VC (Value Chain) is SLOVAKIA. The reference MOVING Card ID of this VC is VC 01 SK. Key activities: sheep breeding, cow milk production, cheese production, marketing. Key actors: shepherds, cheese producers, actors in marketing. Labelling: PGI. VC is dependen
+y this VC is Current and Predicted. This VC is classified as Traditional.   The type of innovation of this VC (Value Chain) is unspecified. The innovation is related to the whole VC. The land use systems involved are Grassland. The local assets include Natural and cultural.   Sheep farming is the oldest branch of animal production in Slovakia. It is practically present in all mountain NUTS3 in Slovakia: SK 022, SK 031, SK 032, SK 041, SK 042.
+
+[CAND 112] ID=2724 CHUNK=2
+ID NARRATIVE: 2724
+The MOVING reference member state of this VC (Value Chain) is AUSTRIA. The reference MOVING Card ID of this VC is VC 19 AT. The cooperative provides an income basis for the mountain farmers which is also of importance regarding the multifunctionality of the mountain landscape, which has value for to
+ve having a better income and improved marketing options. On the other side the landscape and the small size of mountain farms is an important asset for BioAlpin to promote regional, organic products in Tyrol. The cooperation among farmers as well as the cooperation with M-Preis at eye-level allows knowledge transfer and innovation. Traditional knowledge as well as innovation plays a crucial role for BioAlpin.    Mountain farmers struggle having enough income for their produc…
+
+[CAND 113] ID=3146 CHUNK=1
+ID NARRATIVE: 3146
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 2. The reference MOVING Card ID of this VC is VC 51 CH2. The VC includes mainly farmers which produce, local retailers in addition to consumers, as the product is processed directly on the farm by the farmers themselves. Adito
+otal GVA/year [Region] is 28.02%. The tertiary sector share of total GVA/year [Region] is 71.17%.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 26. The regional (Region) share of total BPs/year is 0.02%. The number of agricultural holdings in the LAU is 27. The nearest settlement with population over 100000 (km) is 32. In this region protected areas are present.   The primary sector share of total employment/ye…
+
+[CAND 114] ID=2976 CHUNK=1
+ID NARRATIVE: 2976
+The MOVING reference member state of this VC (Value Chain) is SCOTLAND HUTTON. The reference MOVING Card ID of this VC is VC 17 UK. Dinorwig power station (or Electric Mountain) is a pumped-storage hydroelectric scheme in Snowdonia National Park (Gwynedd LAU1). Water is stored in an upland lake/rese
+otal Gross Value Added (GVA) (EUR million/year) [Region] is 40269.69. The primary sector share of total GVA/year [Region] is 1.25%. The secondary sector share of total GVA/year [Region] is 27.14%. The tertiary sector share of total GVA/year [Region] is 71.61%.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 125126. The regional (Region) share of total BPs/year is 32.01%. The number of agricultural holdings in the…
+
+[CAND 115] ID=2785 CHUNK=1
+ID NARRATIVE: 2785
+The MOVING reference member state of this VC (Value Chain) is FRANCE CCVD. The reference MOVING Card ID of this VC is VC 10 FR1. Organic still wine production is an innovative VC in the Drôme. It was developped in response to Clairette de Die (famous local sparkling wine) crisis. In fact, Drome viti
+rate of the LAU in the last 10 years (%) has been 1%. The overall regional population density (Inhabitants/km2) is unspecified. The regional population change rate in the last 10 years (%) has been 0.6%.   The average per capita income (EUR/year) [Province] is 21100. The total Gross Value Added (GVA) (EUR million/year) [Province] is 14532.49. The primary sector share of total GVA/year [Province] is 1.70%. The secondary sector share of total GVA/year [Province] is 20.30%. The …
+
+[CAND 116] ID=2782 CHUNK=1
+ID NARRATIVE: 2782
+The MOVING reference member state of this VC (Value Chain) is FRANCE CCVD. The reference MOVING Card ID of this VC is VC 07 FR1. Picodon AOP is a goat-milk cheese from the Drome, very representative of middle mountain agriculture.The quality label AOP provides strict requirements in terms of product
+ôme River, from Pre Alps to large plains of the downvalley.   The size of the area (km2) is 2200. The minimum altimetry of the LAU (Local Administrative Unit) is 50. The maximum altimetry of the LAU is 2453. The total population (in thousand) is 58.56. The population density (Inhabitants/km2) in the LAU is 42.3. The population change rate of the LAU in the last 10 years (%) has been 1%. The overall regional population density (Inhabitants/km2) is unspecified. The regional pop…
+
+[CAND 117] ID=3138 CHUNK=3
+ID NARRATIVE: 3138
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 2. The reference MOVING Card ID of this VC is VC 17 CH2. The VC is composed of about 60 sheep farmers, members of the association and consumers. The association collects the wool and then processes and adds value to it. The wo
+population change rate of the LAU in the last 10 years (%) has been 5.36%. The overall regional population density (Inhabitants/km2) is 193.02. The regional population change rate in the last 10 years (%) is unspecified.   The average per capita income (EUR/year) [Province] is 29849.05. The total Gross Value Added (GVA) (EUR million/year) [Province] is 79468.40. The primary sector share of total GVA/year [Province] is 0.79%. The secondary sector share of total GVA/year [Provi…
+
+[CAND 118] ID=2733 CHUNK=3
+ID NARRATIVE: 2733
+The MOVING reference member state of this VC (Value Chain) is AUSTRIA. The reference MOVING Card ID of this VC is VC 09 AT. The hay milk is produced by organic farmers, who supply to the regional diary. The dairy processes it to a very big range of dairy products, which are then exclusively sold und
+marketing and sales strategy. The innovation is related to New products, New processes, New marketing strategies and New governance systems. The land use systems involved are Grassland and pasture farming. The local assets include Natural and cultural.   There are other hay milk related VCs in Austria, but this is unique due to its specific labelling scheme.
+
+[CAND 119] ID=3147 CHUNK=0
+ID NARRATIVE: 3147
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 2. The reference MOVING Card ID of this VC is VC 54 CH2. This VC is broad and includes all producers, slaughterhouses, retailers (department stores, local butchers and direct sales depending on the farms). Farmers must comply 
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 2. The reference MOVING Card ID of this VC is VC 54 CH2. This VC is broad and includes all producers, slaughterhouses, retailers (department stores, local butchers and direct sales depending on the farms). Farmers must comply with strict specifications (those of the Swiss Mother Cow Association and of Swiss organic production). It is a large, highly organised and supervised VC.   The reference mountain …
+
+[CAND 120] ID=2738 CHUNK=2
+ID NARRATIVE: 2738
+The MOVING reference member state of this VC (Value Chain) is BULGARIA. The reference MOVING Card ID of this VC is VC 03 BG. Extensive network of collectors working in the mountain ranges closest to Sofia. Commercial collection of wild berries is allowed in National Parks with a special permit issue
+ the whole VC. The land use systems involved are Forestry. The local assets include Natural.   Bulgaria has adopted conditions and procedures for use of the optional quality term (OQT) 'Mountain Product' and a national logo has been approved. However uptake of the OQT is currently very low.
+
+[CAND 121] ID=2851 CHUNK=2
+ID NARRATIVE: 2851
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 03 IT. In this centre they have more than 1000 families of bees and hive products from BIO agriculture and become a specialized pole able to provide complex services to
+ral and cultural.
+
+[CAND 122] ID=2842 CHUNK=2
+ID NARRATIVE: 2842
+The MOVING reference member state of this VC (Value Chain) is HUNGARY. The reference MOVING Card ID of this VC is VC 17 HU. Homemade pasta free of additives and artificial substances. The pasta is from only two ingredients: flour and eggs. They produce the raw materials needed for production almost 
+als and to gain some money). They are able to produce relatively large quantities of pasta, which they sell in nearby and local grocery stores. The product is nicely packaged and high quality. Their products are also preservative-free and healthy. The innovation is related to New governance systems. The land use systems involved are Cropland and hen house. The local assets include Natural and social.
+
+[CAND 123] ID=2888 CHUNK=1
+ID NARRATIVE: 2888
+The MOVING reference member state of this VC (Value Chain) is ITALY VINIDEA. The reference MOVING Card ID of this VC is VC 23 IT. the value chain pertains organic production of champenois wines by the Ferrari company. The company, historically based in Trento processes the grapes of their own farms,
+ar [Province] is 72.70%. The per capita income (EUR/year) [Region] is 18788. The total Gross Value Added (GVA) (EUR million/year) [Region] is 18788.1. The primary sector share of total GVA/year [Region] is 4.34%. The secondary sector share of total GVA/year [Region] is 22.80%. The tertiary sector share of total GVA/year [Region] is 72.70%.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 3661. The regional (Region…
+
+[CAND 124] ID=2961 CHUNK=2
+ID NARRATIVE: 2961
+The MOVING reference member state of this VC (Value Chain) is ROMANIA. The reference MOVING Card ID of this VC is VC 20 RO. The 'Păstrăvăria Bușteni' began selling fresh (eviscerated) Rainbow Trout in 2018 and has since diversified into the processing and sale of a broad range of additional products
+ local mountain stream draining a forested catchment area.    Value chains for mountains products such as the trout and trout products produced in the Busteni commune are vulnerable since they command a premium price and there are many lower quality products on the market that undermine their sales. Registration as a 'Mountain Product' helps greatly to promote the product and ensure consumer confidence, but such products still rely heavily upon direct sales which can be inter…
+
+[CAND 125] ID=2737 CHUNK=1
+ID NARRATIVE: 2737
+The MOVING reference member state of this VC (Value Chain) is BULGARIA. The reference MOVING Card ID of this VC is VC 02 BG. Extensive network of collectors working in the mountain ranges closest to Sofia. Commercial collection of mushrooms is allowed in National Parks with a special permit issued b
+gion] is 1.20%. The secondary sector share of total GVA/year [Region] is 16.10%. The tertiary sector share of total GVA/year [Region] is 82.60%.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 12548. The regional (Region) share of total BPs/year is 34.00%. The number of agricultural holdings in the LAU is 4690. The nearest settlement with population over 100000 (km) is unspecified. In this region protected areas …
+
+[CAND 126] ID=2862 CHUNK=1
+ID NARRATIVE: 2862
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 16 IT. In the VC, the Zappalà company is the main actor. Zappalà embeds the cultural elements linked to the tradition of cheese making and the milk produced from the SE
+Administrative Unit) is 698. The regional (Region) share of total BPs/year is 0.33%. The number of agricultural holdings in the LAU is 219. The nearest settlement with population over 100000 (km) is 33. In this region protected areas are present.   The primary sector share of total employment/year [Province] is 5.43%. The secondary sector share of total employment/year [Province] is 14.85%. The tertiary sector share of total employment/year [Province] is 79.71%. The primary s…
+
+[CAND 127] ID=2788 CHUNK=2
+ID NARRATIVE: 2788
+The MOVING reference member state of this VC (Value Chain) is FRANCE INRAE. The reference MOVING Card ID of this VC is VC 02 FR. Brocciu is a whey cheese from ewes and goats milk, obtained after making cheese. It depends on other VCS, dairy cheese production and on-farm cheese production. In its cod
+rent stakeholders with divergent stategies and interests. to adress issues of common heritage (food, local culture). Overall the type of challenge faced by this VC is Current and Predicted. This VC is classified as Traditional.   The type of innovation of this VC (Value Chain) is unspecified. There are no noticeable innovation in this VC. Brocciu Corse is recongnized as a PDO since 1998. Since then, production and cheese processing is regulated by a code of practice.It has be…
+
+[CAND 128] ID=3001 CHUNK=4
+ID NARRATIVE: 3001
+The MOVING reference member state of this VC (Value Chain) is SERBIA. The reference MOVING Card ID of this VC is VC 11 SER. Pirot white cheese in brine produced in Pirot/Old Mountain area can be made of sheep, cow and mixed milk. Sheep and mixed cheeses are with higher reputation amongst customers. 
+eese in brine and Pirot hard cheese. This school is good tradition keeper, but in the same time, trying to introduce new ways of cheese marketing and promotion. Online marketing and selling in delicatessen stores are new ways of farmers access to customers, and they need improvement in this sense - packaging, labelling, creating promotional campaigns, etc. Different organisations and CSOs from the area are trying to raise the awareness of the market, in the same time supporti…
+
+[CAND 129] ID=3060 CHUNK=2
+ID NARRATIVE: 3060
+The MOVING reference member state of this VC (Value Chain) is SPAIN ADEGUA. The reference MOVING Card ID of this VC is VC 28 ES. The companies associated with the PGI Botillo del Bierzo are meat companies that manufacture, in addition to botillo, a wide range of products including chorizo, salchichó
+ng and certifying the production process following the rules established by the corresponding Regulations and Quality Manual. It is forbidden to use names, brands, terms, expressions, and signs that, due to their similarity, phonetic or graphic, with the protected ones, could lead to confusion. Overall the type of challenge faced by this VC is Current. This VC is classified as Traditional and Innovative.   The type of innovation of this VC (Value Chain) is Exogenous. This is …
+
+[CAND 130] ID=2788 CHUNK=1
+ID NARRATIVE: 2788
+The MOVING reference member state of this VC (Value Chain) is FRANCE INRAE. The reference MOVING Card ID of this VC is VC 02 FR. Brocciu is a whey cheese from ewes and goats milk, obtained after making cheese. It depends on other VCS, dairy cheese production and on-farm cheese production. In its cod
+) [Region] is 8034.12. The primary sector share of total GVA/year [Region] is unspecified. The secondary sector share of total GVA/year [Region] is unspecified. The tertiary sector share of total GVA/year [Region] is unspecified.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is unspecified. The regional (Region) share of total BPs/year is unspecified. The number of agricultural holdings in the LAU is 2626. The nea…
+
+[CAND 131] ID=2738 CHUNK=1
+ID NARRATIVE: 2738
+The MOVING reference member state of this VC (Value Chain) is BULGARIA. The reference MOVING Card ID of this VC is VC 03 BG. Extensive network of collectors working in the mountain ranges closest to Sofia. Commercial collection of wild berries is allowed in National Parks with a special permit issue
+[Region] is 1.20%. The secondary sector share of total GVA/year [Region] is 16.10%. The tertiary sector share of total GVA/year [Region] is 82.60%.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 12548. The regional (Region) share of total BPs/year is 34.00%. The number of agricultural holdings in the LAU is 4690. The nearest settlement with population over 100000 (km) is unspecified. In this region protected are…
+
+[CAND 132] ID=2793 CHUNK=1
+ID NARRATIVE: 2793
+The MOVING reference member state of this VC (Value Chain) is FRANCE INRAE. The reference MOVING Card ID of this VC is VC 07 FR. The beekeeping activity is guided by the body responsible for managing the PDO. But other organizations bring together other professional and non-professional beekeepers o
+. The secondary sector share of total GVA/year [Region] is unspecified. The tertiary sector share of total GVA/year [Region] is unspecified.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is unspecified. The regional (Region) share of total BPs/year is unspecified. The number of agricultural holdings in the LAU is 2626. The nearest settlement with population over 100000 (km) is 333. In this region protected areas a…
+
+[CAND 133] ID=2829 CHUNK=1
+ID NARRATIVE: 2829
+The MOVING reference member state of this VC (Value Chain) is HUNGARY. The reference MOVING Card ID of this VC is VC 04 HU. Within a social employment programme, initiated by the local government, members of the local community (poor, unemployed, Roma) produce pumpkin seeds and process it into diffe
+e of total BPs/year is 8.64%. The number of agricultural holdings in the LAU is 79. The nearest settlement with population over 100000 (km) is 15. In this region protected areas are not present.   The primary sector share of total employment/year [Province] is 3.89%. The secondary sector share of total employment/year [Province] is 40.14%. The tertiary sector share of total employment/year [Province] is 55.97%. The primary sector share of total employment/year [Region] is 3.8…
+
+[CAND 134] ID=2889 CHUNK=1
+ID NARRATIVE: 2889
+The MOVING reference member state of this VC (Value Chain) is ITALY VINIDEA. The reference MOVING Card ID of this VC is VC 26 IT. Key activities of the VC are vine growing and wine production. The vineyard of Aosta Valley consists of just under 23,5 ha of which more than 18 ha belong to the members 
+try of the LAU is 3326. The total population (in thousand) is 4. The population density (Inhabitants/km2) in the LAU is 31.4. The population change rate of the LAU in the last 10 years (%) has been 3.00%. The overall regional population density (Inhabitants/km2) is 38.5. The regional population change rate in the last 10 years (%) has been 0.18%.   The average per capita income (EUR/year) [Province] is 16857.5. The total Gross Value Added (GVA) (EUR million/year) [Province] i…
+
+[CAND 135] ID=3074 CHUNK=1
+ID NARRATIVE: 3074
+The MOVING reference member state of this VC (Value Chain) is SPAIN UCO. The reference MOVING Card ID of this VC is VC 01 ES. This VC applies a holistic approach, where nature and culture are intertwined. It aims for a responsible tourism with high commitment to the territory. There are multiple act
+ary sector share of total GVA/year [Province] is 64.21%. The per capita income (EUR/year) [Region] is unspecified. The total Gross Value Added (GVA) (EUR million/year) [Region] is unspecified. The primary sector share of total GVA/year [Region] is unspecified. The secondary sector share of total GVA/year [Region] is unspecified. The tertiary sector share of total GVA/year [Region] is unspecified.   The total number of bed places (BPs) in tourist accommodations/year in the LAU…
+
+[CAND 136] ID=2868 CHUNK=1
+ID NARRATIVE: 2868
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 25 IT. Key activities and key actors, labelling, quality schemes in place, dependencies of VC on local SES and impacts (positive and negative ) of VC on regional SES.  
+r [Province] is 17.72%. The tertiary sector share of total employment/year [Province] is 78.55%. The primary sector share of total employment/year [Region] is 3.73%. The secondary sector share of total employment/year [Region] is 17.72%. The tertiary sector share of total employment/year [Region] is 78.55%.   The farm took the opportunity offered by Reg.(UE) n.1151/2012 and Reg.(UE) n.665/2014 to use the label ' Mountain Product'. The innovation start to spread also in this v…
+
+[CAND 137] ID=3081 CHUNK=1
+ID NARRATIVE: 3081
+The MOVING reference member state of this VC (Value Chain) is SPAIN UCO. The reference MOVING Card ID of this VC is VC 14 ES. The place where the goats sleep and graze is the same as the cheese production, all happens in the same farm. The goats are milked every day and the milk is sent to a lab for
+ with population over 100000 (km) is 77.7. In this region protected areas are present.   The primary sector share of total employment/year [Province] is 5.90%. The secondary sector share of total employment/year [Province] is 17.40%. The tertiary sector share of total employment/year [Province] is 76.70%. The primary sector share of total employment/year [Region] is unspecified. The secondary sector share of total employment/year [Region] is unspecified. The tertiary sector s…
+
+[CAND 138] ID=2965 CHUNK=3
+ID NARRATIVE: 2965
+The MOVING reference member state of this VC (Value Chain) is SCOTLAND HUTTON. The reference MOVING Card ID of this VC is VC 04 UK. Deer hunting (stalking) are popular tourist activities within the Highlands and Islands of Scotland. The land is which the stalking takes place is wild land, however it
+ting is another VC also undertaken in this region but also North east and North West England (NUTS3 regions).
+
+[CAND 139] ID=2867 CHUNK=0
+ID NARRATIVE: 2867
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 24 IT. In the Piacenza province has an average yearly production of 24 million bottles of wine, with an average selling price slightly above 4 €/bottle. The foothill pr
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 24 IT. In the Piacenza province has an average yearly production of 24 million bottles of wine, with an average selling price slightly above 4 €/bottle. The foothill production of Colli Piacentini PDO is able to obtain higher prices, but often barely enough to compensate the greater production costs and the lower yield that are chracteristic of h…
+
+[CAND 140] ID=2893 CHUNK=2
+ID NARRATIVE: 2893
+The MOVING reference member state of this VC (Value Chain) is ITALY VINIDEA. The reference MOVING Card ID of this VC is VC 34 IT. Individual winegrowers and small cooperatives are producing high quality red wines of two typologies: classic red wines under the denominations Valtellina Superiore DOCG 
+ Overall the type of challenge faced by this VC is unspecified. This VC is classified as Traditional.   The type of innovation of this VC (Value Chain) is unspecified. The innovation is related to the whole VC. The land use systems involved are Cropland. The local assets include Natural and Social.
+
+[CAND 141] ID=2792 CHUNK=2
+ID NARRATIVE: 2792
+The MOVING reference member state of this VC (Value Chain) is FRANCE INRAE. The reference MOVING Card ID of this VC is VC 06 FR. A not very active union gathers the firms. Due to a demanding market and the absence of production and trade rules, the activity is governed by the summer and export marke
+Traditional and Innovative.   The type of innovation of this VC (Value Chain) is Endogenous and Exogenous. This is a socio-technical innovation absent from Corsica: - new ways of raising animals (' suino pesante type') to provide meat suitable for dry sausages. - search for a form of organization and management to extend the sharing of the value resulting from the reputation of mountain productions to other players in the region.learning experiences and knowledge capital stoc…
+
+[CAND 142] ID=2832 CHUNK=1
+ID NARRATIVE: 2832
+The MOVING reference member state of this VC (Value Chain) is HUNGARY. The reference MOVING Card ID of this VC is VC 07 HU. It is part of an exceptionally well designed high value added local products' cluster, run by a monastery, mixing thousand year tradition with modern design and marketing tools
+st accommodations/year in the LAU (Local Administrative Unit) is 125.1. The regional (Region) share of total BPs/year is 10.03%. The number of agricultural holdings in the LAU is 115. The nearest settlement with population over 100000 (km) is 22. In this region protected areas are present.   The primary sector share of total employment/year [Province] is 4.47%. The secondary sector share of total employment/year [Province] is 42.86%. The tertiary sector share of total employm…
+
+[CAND 143] ID=2717 CHUNK=3
+ID NARRATIVE: 2717
+The MOVING reference member state of this VC (Value Chain) is AUSTRIA. The reference MOVING Card ID of this VC is VC 12 AT. The 'Lungauer Saatzucht- und Saatbauverein' markets two thirds of the edibles via food retailers and Salzburg Lagerhaus (a cooperative of RWA Raiffeisen Ware Austria AG that se
+rbodner Erdäpfel (see other VC AT11).
+
+[CAND 144] ID=3009 CHUNK=3
+ID NARRATIVE: 3009
+The MOVING reference member state of this VC (Value Chain) is SKANDINAVIAN UCO. The reference MOVING Card ID of this VC is VC 03 SCA. In Scandinavia, about 6500 Sami are engaged in reindeer herding. Overall, in Norway and Sweden only Sami people with ancestors linked to reindeer herding have the rig
+% of the country's surface.
+
+[CAND 145] ID=2979 CHUNK=1
+ID NARRATIVE: 2979
+The MOVING reference member state of this VC (Value Chain) is SCOTLAND HUTTON. The reference MOVING Card ID of this VC is VC 20 UK. South Lakeland includes much of the Lake District National Park (and UNESCO World Heritage Site), including all of the land higher than 3,000ft in England, the country'
+gional population change rate in the last 10 years (%) has been 0.04%.   The average per capita income (EUR/year) [Province] is 24595.08. The total Gross Value Added (GVA) (EUR million/year) [Province] is 7703.09. The primary sector share of total GVA/year [Province] is 2.88%. The secondary sector share of total GVA/year [Province] is 22.63%. The tertiary sector share of total GVA/year [Province] is 74.50%. The per capita income (EUR/year) [Region] is 23071.73. The total Gros…
+
+[CAND 146] ID=3047 CHUNK=2
+ID NARRATIVE: 3047
+The MOVING reference member state of this VC (Value Chain) is SPAIN VINIDEA. The reference MOVING Card ID of this VC is VC 12 ES. This area falls under the protection of the PDO Ribeira Sacra, wich proctects and promotes the wines produced in this area using tradicional means and practices. The ches
+e type of innovation of this VC (Value Chain) is unspecified. The innovation is related to the whole VC. The land use systems involved are N/A. The local assets include N/A.   This value chain is also present in most of the mountain areas of the spanish north and north-west. Similar VC can be found in other states such as Italy or France.
+
+[CAND 147] ID=2989 CHUNK=2
+ID NARRATIVE: 2989
+The MOVING reference member state of this VC (Value Chain) is SERBIA. The reference MOVING Card ID of this VC is VC 10 SER. The VC is dominated by the production of single dairy, Secondary dairy school in Pirot that is the guardian of the tradition and know how. There are around 13000 sheep produced
+h are often invisible. The pastoral lifestyle is becoming rare.   The natural properties of Stara planina natural park and its slopes and vicinity are initial condition for high quality product. Grazing areas, biodiversity and traditional know how are the strongest pillars for production of Pirot cheese. Social and cultural aspects are also strong, with particular equipemtn (weaving basket) used for cheese production. That made the whole cheese making skill part of the Serbia…
+
+[CAND 148] ID=3069 CHUNK=2
+ID NARRATIVE: 3069
+The MOVING reference member state of this VC (Value Chain) is SPAIN ADEGUA. The reference MOVING Card ID of this VC is VC 42 ES. It is a short-channel value chain where production and consumption work together for a collective interest, the Common Good. The entity is certified within this framework 
+) is Endogenous. It is a social innovation that has progressively implemented innovative solutions in the production, processing, storage, distribution, marketing, and consumption phases. The innovation is related to New products, New processes, New marketing strategies and New governance systems. The land use systems involved are Cropland and Grassland. The local assets include Natural, social and cultural.   This Value Chain scheme is flourishing in many areas of Europe but…
+
+[CAND 149] ID=3013 CHUNK=2
+ID NARRATIVE: 3013
+The MOVING reference member state of this VC (Value Chain) is SKANDINAVIAN UCO. The reference MOVING Card ID of this VC is VC 07 SCA. Barley is the cereal that needs a shorter time to grow, which makes it suitable for mountain areas with extreme climate conditions like Roros. Nontheless, it takes 4 
+n of this VC (Value Chain) is Exogenous. The innovation is associated with the Rorosmat brand as it promotes and sells the regional products. Apart from the e-commerce of Rorosmat, the mill also has its own website where everyone can make an order. The innovation is related to New marketing strategies. The land use systems involved are Cropland. The local assets include Natural, social and cultural.   (max 300 characters).
+
+[CAND 150] ID=3084 CHUNK=1
+ID NARRATIVE: 3084
+The MOVING reference member state of this VC (Value Chain) is SPAIN UCO. The reference MOVING Card ID of this VC is VC 22 ES. The goats produce various values. On one side, the milky goats are sold for cooking traditional dishes. In addition, it serves as touristic asset as the activity is also prom
+UR million/year) [Region] is unspecified. The primary sector share of total GVA/year [Region] is unspecified. The secondary sector share of total GVA/year [Region] is unspecified. The tertiary sector share of total GVA/year [Region] is unspecified.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 101. The regional (Region) share of total BPs/year is unspecified. The number of agricultural holdings in the LAU is un…
+
+[CAND 151] ID=2937 CHUNK=1
+ID NARRATIVE: 2937
+The MOVING reference member state of this VC (Value Chain) is PORTUGAL ESTRELA. The reference MOVING Card ID of this VC is VC 16 PT2. Wool comes from Bordaleira Serra da Estrela autochthonous sheep breed. The sheep are shorn in spring and only the best quality wool is used for textile purposes. The 
+l GVA/year [Region] is 3.44%. The secondary sector share of total GVA/year [Region] is 30.35%. The tertiary sector share of total GVA/year [Region] is 67.00%.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 403. The regional (Region) share of total BPs/year is 0.63%. The number of agricultural holdings in the LAU is 111. The nearest settlement with population over 100000 (km) is 77.2. In this region protected are…
+
+[CAND 152] ID=3165 CHUNK=2
+ID NARRATIVE: 3165
+The MOVING reference member state of this VC (Value Chain) is TURKEY. The reference MOVING Card ID of this VC is VC 18 TR. The feeding and milking activity of sheep and goat are caried out by small family farms. Cheese is ripened originally in dried goat or sheep skin. This is very unique and tradit
+ization process is not to be seen possible. Overall the type of challenge faced by this VC is Current and Predicted. This VC is classified as Traditional.   The type of innovation of this VC (Value Chain) is unspecified. Organic honey production. The innovation is related to the whole VC. The land use systems involved are Grassland and Natural land. The local assets include Natural and cultural.   Cheese which is made from goat and sheep milk is included in other MRLs in the …
+
+[CAND 153] ID=2952 CHUNK=2
+ID NARRATIVE: 2952
+The MOVING reference member state of this VC (Value Chain) is ROMANIA. The reference MOVING Card ID of this VC is VC 11 RO. All of the cheeses, including the 'Brânză de Burduf', that are marketed under the 'Stâna de Vaideeni' brand are produced in a licenced processing unit in the village. Cattle an
+ith 13 members and trades under the brand name of 'Stâna de Vaideeni' ('Vaideeni Sheepfold') - see here: https://www.revista-ferma.ro/articole/afaceri-agricole/oameni-si-branduri-stana-de-vaideeni. The family produces around 10 different types of cheese from sheep and cows' milk, plus liquid milk and butter. All of the cheeses produced are registered as a 'Mountain Product', including the 'Brânză de Burduf' (https://produse.produsmontan.ro/produs/branza-de-burduf-stana-de-vai…
+
+[CAND 154] ID=2825 CHUNK=2
+ID NARRATIVE: 2825
+The MOVING reference member state of this VC (Value Chain) is GREECE. The reference MOVING Card ID of this VC is VC 21 GR. Traditionally, the female members of the family are involved in the processing of the milk and the preparation of the wheat in order to produce xinochontros (ksinochondros). Sti
+cant degree through the local networking and the reputation of the product all over Crete. New marketing strategies involve the promotion of the product through gastronomic events and TV shows. The land use for animal breeding (sheep and goats) is predominant in an area with close proximity to the forest of Rouvas. The SES of the area depends on a series of activites based on livestock, which interconect with the production of xinochondros, an integral part of the diet of the…
+
+[CAND 155] ID=3054 CHUNK=1
+ID NARRATIVE: 3054
+The MOVING reference member state of this VC (Value Chain) is SPAIN ADEGUA. The reference MOVING Card ID of this VC is VC 18 ES. The breeding of equines has been traditional in the Cabra and Zuheros mountain ranges for centuries, first as work and transport animals, both horses and mules and donkeys
+/year [Province] is 71.89%. The per capita income (EUR/year) [Region] is 16409.45. The total Gross Value Added (GVA) (EUR million/year) [Region] is 150440. The primary sector share of total GVA/year [Region] is 6.53%. The secondary sector share of total GVA/year [Region] is 20.01%. The tertiary sector share of total GVA/year [Region] is 73.46%.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 523. The regional (Re…
+
+[CAND 156] ID=3068 CHUNK=1
+ID NARRATIVE: 3068
+The MOVING reference member state of this VC (Value Chain) is SPAIN ADEGUA. The reference MOVING Card ID of this VC is VC 39 ES. The textile craftsmanship had in Grazalema a complete articulation in the different phases of the production process. Successive crises, started in the mid-nineteenth cent
+ry sector share of total GVA/year [Province] is 3.22%. The secondary sector share of total GVA/year [Province] is 22.64%. The tertiary sector share of total GVA/year [Province] is 74.14%. The per capita income (EUR/year) [Region] is 17546.13. The total Gross Value Added (GVA) (EUR million/year) [Region] is 150440. The primary sector share of total GVA/year [Region] is 6.53%. The secondary sector share of total GVA/year [Region] is 20.01%. The tertiary sector share of total GV…
+
+[CAND 157] ID=2878 CHUNK=1
+ID NARRATIVE: 2878
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 46 IT. A large family of 2,300 mountain farmers and 470 employees it s our mission to uphold the South Tyrolean dairy industry and produce high-quality products. A coop
+ total BPs/year is 1.74%. The number of agricultural holdings in the LAU is 480. The nearest settlement with population over 100000 (km) is 0. In this region protected areas are not present.   The primary sector share of total employment/year [Province] is 6.72%. The secondary sector share of total employment/year [Province] is 20.33%. The tertiary sector share of total employment/year [Province] is 72.95%. The primary sector share of total employment/year [Region] is 6.72%. …
+
+[CAND 158] ID=2871 CHUNK=1
+ID NARRATIVE: 2871
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 31 IT. The enhancement of the Montese potato was carried out through the redefinition of the organization of the production chain and the definition of a targeted promo
+nistrative Unit) is 523. The regional (Region) share of total BPs/year is 0.11%. The number of agricultural holdings in the LAU is 305. The nearest settlement with population over 100000 (km) is 60. In this region protected areas are not present.   The primary sector share of total employment/year [Province] is 2.58%. The secondary sector share of total employment/year [Province] is 34.75%. The tertiary sector share of total employment/year [Province] is 62.67%. The primary s…
+
+[CAND 159] ID=3145 CHUNK=0
+ID NARRATIVE: 3145
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 2. The reference MOVING Card ID of this VC is VC 50 CH2. The key actors are the farmers themselves, as it is a farmer-driven and motivated action. There is no particular organisation within this value chain. Each farmer manage
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 2. The reference MOVING Card ID of this VC is VC 50 CH2. The key actors are the farmers themselves, as it is a farmer-driven and motivated action. There is no particular organisation within this value chain. Each farmer manages and promotes his activity independently. They are all in direct competition.   The reference mountain chain of this VC is Jura. The reference mountain landscape of this VC is Cor…
+
+[CAND 160] ID=2726 CHUNK=2
+ID NARRATIVE: 2726
+The MOVING reference member state of this VC (Value Chain) is AUSTRIA. The reference MOVING Card ID of this VC is VC 20 AT. Styria beef is a premium beef product of organic farmers from Styria. Their homepage states that 'Styria beef' is only available on-farm, small food shops, high class gastronom
+given. However, Styria beef can be seen as a community since there is exchange among the farmers from the different regions. Further, the 'natural landscapes' are a key asset in the marketing of Styria beef. The feeding is used as argument for the special taste of the beef.    Mountain farmers struggle having enough income for their produce Styria Beef provides in this regard a niche by producing and selling a premium product. Climate change is a challenge for pasture farms m…
+
+[CAND 161] ID=2725 CHUNK=2
+ID NARRATIVE: 2725
+The MOVING reference member state of this VC (Value Chain) is AUSTRIA. The reference MOVING Card ID of this VC is VC 02 AT. The Almenland small local diary produces various types of cheese (cow, sheep, goat all milk from the region: pasture farming and hay), which then is further processed by the Al
+ly to have effects on the feedbase for this pasture based meat production as the vegetation might change, and the cultivation of feed for the winter time might change as well. An increasing wastage of alpine pasture areas might demand in future for adjusting the pasture intensity and to significantly improve the quality of the forage plant growth. Another challenge refers to upscaling: the quantity of production is limited, while at the same time the demand is increasing also…
+
+[CAND 162] ID=2980 CHUNK=2
+ID NARRATIVE: 2980
+The MOVING reference member state of this VC (Value Chain) is SCOTLAND HUTTON. The reference MOVING Card ID of this VC is VC 21 UK. The distinctive and dramatic North-West Highland landscape is based on the contrast and vicinity of the mountains to the coast. Wildlife tourism in the area also benefi
+th IT, social media, destination marketing, and profile-raising of habitats, species and their importance in the context of climate and biodiversity crises.   Flora and fauna species in the north-west Highlands, including red deer, ptarmigan, mountain hare, golden eagle, peregrine, mosses, lichens, liverworts, alpine bearberry, juniper, crowberry, cowberry, mountain sedges. The dramatic landscape and geology represent high scenic value for visitors. Environmental and cultural…
+
+[CAND 163] ID=3067 CHUNK=1
+ID NARRATIVE: 3067
+The MOVING reference member state of this VC (Value Chain) is SPAIN ADEGUA. The reference MOVING Card ID of this VC is VC 38 ES. Cultivation has been developed basically in the last 50 years, in family farms. As a result, the harvest can reach 2.5 million kg. Marketing is done both through cooperati
+r capita income (EUR/year) [Region] is 16409.45. The total Gross Value Added (GVA) (EUR million/year) [Region] is 150440. The primary sector share of total GVA/year [Region] is 6.53%. The secondary sector share of total GVA/year [Region] is 20.01%. The tertiary sector share of total GVA/year [Region] is 73.46%.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 148. The regional (Region) share of total BPs/year is 0…
+
+[CAND 164] ID=2795 CHUNK=2
+ID NARRATIVE: 2795
+The MOVING reference member state of this VC (Value Chain) is FRANCE INRAE. The reference MOVING Card ID of this VC is VC 09 FR. The activity is organized mainly around the Defense and Management Organization of the PDO. The diseases of orchards and the local uses of flour (pulenta) leads that farme
+lue Chain) is Endogenous and Exogenous. The innovation lies in the control of the sanitary state of the trees associated with the constitution of the chestnut grove as a common resource of the villages of Corsica. The innovation is related to New products, New marketing strategies and New governance systems. The land use systems involved are Forestry (The chestnut grove constitutes a domestic forest with an economic and landscape value.). The local assets include Social and c…
+
+[CAND 165] ID=3144 CHUNK=1
+ID NARRATIVE: 3144
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 2. The reference MOVING Card ID of this VC is VC 49 CH2. The VC is managed by the 'Association interprofessionnelle de l'absinthe' - which groups together all the legal distillers and growers of absinthe in the district, creat
+f total GVA/year [Region] is 38.65%. The tertiary sector share of total GVA/year [Region] is 60.49%.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 74. The regional (Region) share of total BPs/year is 0.08%. The number of agricultural holdings in the LAU is 107. The nearest settlement with population over 100000 (km) is 69. In this region protected areas are not present.   The primary sector share of total emplo…
+
+[CAND 166] ID=2770 CHUNK=2
+ID NARRATIVE: 2770
+The MOVING reference member state of this VC (Value Chain) is CZECH REPUBLIC. The reference MOVING Card ID of this VC is VC 15 CZ. Syrup producers are not necessarily located in mountain areas. They collect ingredients from the mountain region and process the ingredients in nearby regions. Crucial p
+t. This VC is classified as Traditional.   The type of innovation of this VC (Value Chain) is unspecified. The innovation is related to the whole VC. The land use systems involved are Natural land. The local assets include Natural and cultural.   The VC is not so important in terms of the use of natural (tangible) resources, but it is a typical example of the VC that is embedded in mountain region, but uses the intangible resources of the region.
+
+[CAND 167] ID=2897 CHUNK=1
+ID NARRATIVE: 2897
+The MOVING reference member state of this VC (Value Chain) is ITALY VINIDEA. The reference MOVING Card ID of this VC is VC 45 IT. the most important production is organic beef, produced totally on pasture, processed locally and sold at regional level. Organic dairy production and sheep breeding are 
+ector share of total GVA/year [Region] is 80.20%.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 70. The regional (Region) share of total BPs/year is 12.04%. The number of agricultural holdings in the LAU is 5962. The nearest settlement with population over 100000 (km) is 60. In this region protected areas are present.   The primary sector share of total employment/year [Province] is 1.30%. The secondary sector …
+
+[CAND 168] ID=2880 CHUNK=2
+ID NARRATIVE: 2880
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 48 IT. The 'Latte del Parco' farm is strongly linked to the natural and cultural context of the mountains (i.e. the SES) for its natural resources (e.g. mountain pastur
+e VC less competitive because milk and cheese are not certified as organic. More over, the production's territorial and historical identification is reported in a limited way. 'Latte del Parco' does not use all the potentialities of e-commerce. No links with other breeders are reported. Overall the type of challenge faced by this VC is Current and Predicted. This VC is classified as Traditional.   The type of innovation of this VC (Value Chain) is unspecified. The VC includes…
+
+[CAND 169] ID=2921 CHUNK=3
+ID NARRATIVE: 2921
+The MOVING reference member state of this VC (Value Chain) is PORTUGAL ESTRELA. The reference MOVING Card ID of this VC is VC 01 PT. Among the main activities in the municipality of Vila Nova de Foz Côa, we highlight the production of wine, olive oil, almonds and tourism related to archeology, lands
+ond and olive trees) is decisive, in an association of smallholdings with significant extensions of vineyards, where this is assumed as the predominant culture. Road accessibility has improved a lot in recent years, but it is still 'difficult' to get there. The impact of climate change in the Vila Nova de Foz Côa region have been similar to the environmental changes occurred in the rest of the Douro region. High temperatures Summers, heat waves, prolonged and intense droughts…
+
+[CAND 170] ID=2987 CHUNK=3
+ID NARRATIVE: 2987
+The MOVING reference member state of this VC (Value Chain) is SERBIA. The reference MOVING Card ID of this VC is VC 06 SER. Local wild berries picked by local people in order to supplement their incomes. Pure natural product dependent on the state of the natural system. Local knowledge of the terrai
+ets include Natural, social and cultural.
+
+[CAND 171] ID=3059 CHUNK=2
+ID NARRATIVE: 3059
+The MOVING reference member state of this VC (Value Chain) is SPAIN ADEGUA. The reference MOVING Card ID of this VC is VC 26 ES. Siete Valles de Montaña is the first cooperative of organic livestock farmers in Cantabria. United for four reasons: for animal welfare, for the consumer's health, to prot
+tives of proximity trade, environmentally and socially committed, as it is the case of 'El Super de Los Pastores,' the dream of 150 small local producers.   Thanks to grazing, the forests are kept free of fires, and the fields thrive. Animal welfare is fundamental in organic livestock farming, so it is extensive in order calves to be raised in semi-freedom, where they fatten up thanks to their mother's milk, pasture and organic cereals fodder.    The main challenge is to cons…
+
+[CAND 172] ID=2845 CHUNK=1
+ID NARRATIVE: 2845
+The MOVING reference member state of this VC (Value Chain) is HUNGARY. The reference MOVING Card ID of this VC is VC 20 HU. The key activities of this VC are collecting truffles, making special processed products and organising truffle collecting tours. They use forest areas on an environmentally fr
+e total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 0. The regional (Region) share of total BPs/year is 10.03%. The number of agricultural holdings in the LAU is 7. The nearest settlement with population over 100000 (km) is 14. In this region protected areas are present.   The primary sector share of total employment/year [Province] is 4.47%. The secondary sector share of total employment/year [Province] is 42.86%. The t…
+
+[CAND 173] ID=2808 CHUNK=3
+ID NARRATIVE: 2808
+The MOVING reference member state of this VC (Value Chain) is GREECE. The reference MOVING Card ID of this VC is VC 03 GR. Meat production affects the pastures of the wider area of Anogeia and their families. The prospects of the product bring together pastures, cultural associations, local authorit
+abled each mountainous area of the island of Crete to have its own sheep breeds. In Anogeia there is the Anogeia tribe, in Sfakia there is the Sfakia tribe etc.
+
+[CAND 174] ID=2894 CHUNK=2
+ID NARRATIVE: 2894
+The MOVING reference member state of this VC (Value Chain) is ITALY VINIDEA. The reference MOVING Card ID of this VC is VC 37 IT.   The reference mountain chain of this VC is 0. The reference mountain landscape of this VC is OFENA. In the Ofena basin and the sorrounding areas (350-550 m altitude), s
+estments in visitor reception (wine shop at the winery open every day) and in initiative to increase interest and liability of clients (special events, dinners restricted to best clients ecc.) were able to increase sales at cellar gate to almost 30% for the winery Cataldi Madonna. The innovation is related to New processes and New marketing strategies. The land use systems involved are Grassland Natural land. The local assets include Natural.
+
+[CAND 175] ID=2933 CHUNK=1
+ID NARRATIVE: 2933
+The MOVING reference member state of this VC (Value Chain) is PORTUGAL ESTRELA. The reference MOVING Card ID of this VC is VC 12 PT2. Wild Zimbro from Serra da Estrela is harvested by shepherds. It is then fermented and distillated in traditional alembics. Zimbro Brandy is sold at national and inter
+ regional (Region) share of total BPs/year is 3.40%. The number of agricultural holdings in the LAU is 1686. The nearest settlement with population over 100000 (km) is 77.6. In this region protected areas are present.   The primary sector share of total employment/year [Province] is 20.11%. The secondary sector share of total employment/year [Province] is 34.59%. The tertiary sector share of total employment/year [Province] is 45.30%. The primary sector share of total employm…
+
+[CAND 176] ID=3064 CHUNK=1
+ID NARRATIVE: 3064
+The MOVING reference member state of this VC (Value Chain) is SPAIN ADEGUA. The reference MOVING Card ID of this VC is VC 34 ES. This highly feminised value chain combines public, private and social resources in a mixed governance system that incorporates the monetised and the non-monetised, and whi
+e secondary sector share of total GVA/year [Province] is 17.61%. The tertiary sector share of total GVA/year [Province] is 71.89%. The per capita income (EUR/year) [Region] is 16409.45. The total Gross Value Added (GVA) (EUR million/year) [Region] is 150440. The primary sector share of total GVA/year [Region] is 6.53%. The secondary sector share of total GVA/year [Region] is 20.01%. The tertiary sector share of total GVA/year [Region] is 73.46%.   The total number of bed plac…
+
+[CAND 177] ID=2837 CHUNK=2
+ID NARRATIVE: 2837
+The MOVING reference member state of this VC (Value Chain) is HUNGARY. The reference MOVING Card ID of this VC is VC 12 HU. Active tourism, cycling, walking, climbing, via ferrata routes, adventure parks (new tourist attraction) combined with catering, accommodation, equipment rental and selling loc
+ selling local products is also novel. The innovation is related to New products. The land use systems involved are Forestry. The local assets include Natural.
+
+[CAND 178] ID=2961 CHUNK=3
+ID NARRATIVE: 2961
+The MOVING reference member state of this VC (Value Chain) is ROMANIA. The reference MOVING Card ID of this VC is VC 20 RO. The 'Păstrăvăria Bușteni' began selling fresh (eviscerated) Rainbow Trout in 2018 and has since diversified into the processing and sale of a broad range of additional products
+nal regulation.
+
+[CAND 179] ID=3009 CHUNK=1
+ID NARRATIVE: 3009
+The MOVING reference member state of this VC (Value Chain) is SKANDINAVIAN UCO. The reference MOVING Card ID of this VC is VC 03 SCA. In Scandinavia, about 6500 Sami are engaged in reindeer herding. Overall, in Norway and Sweden only Sami people with ancestors linked to reindeer herding have the rig
+ion density (Inhabitants/km2) in the LAU is 0.29. The population change rate of the LAU in the last 10 years (%) has been -1.32%. The overall regional population density (Inhabitants/km2) is 4.29. The regional population change rate in the last 10 years (%) has been 4.06%.   The average per capita income (EUR/year) [Province] is 53239.46. The total Gross Value Added (GVA) (EUR million/year) [Province] is 3607.4. The primary sector share of total GVA/year [Province] is 13.63%.…
+
+[CAND 180] ID=2772 CHUNK=2
+ID NARRATIVE: 2772
+The MOVING reference member state of this VC (Value Chain) is CZECH REPUBLIC. The reference MOVING Card ID of this VC is VC 17 CZ. Animals are hunted by members of the hunters organization. The game meat was not available for mainstream consumers. The VC has recently opened to public by developing n
+ countries (Poland, Germany, Austria).
+
+[CAND 181] ID=2742 CHUNK=2
+ID NARRATIVE: 2742
+The MOVING reference member state of this VC (Value Chain) is BULGARIA. The reference MOVING Card ID of this VC is VC 07 BG. Linbul Farm (https://petrohan.wordpress.com/) is an innovative farm enterprise in the Petrohan area of in the Berkovitsa Municipality (MON02) in Montana Province (BG312). Aver
+ents were introduced, the pattern of use of these natural assets has changed. When allocating use of the common grasslands to local farmers, municipalities now frequently give priority access to the best grasslands to those livestock farmers eligible to receive CAP payments and who can therefore pay a higher rent. The pastures in worse conditions in terms of scrub / tree encroachment are designated for common use by subsistence farmers in the villages that do not apply for CA…
+
+[CAND 182] ID=3076 CHUNK=2
+ID NARRATIVE: 3076
+The MOVING reference member state of this VC (Value Chain) is SPAIN UCO. The reference MOVING Card ID of this VC is VC 03 ES. In Cazalla de la Sierra there used to be around 15 destileries, but only two remain today. Its quality was once certified by a Comitee of Cazalla producers, which dissapeared
+ion is related to New products and New marketing strategies. The land use systems involved are Cropland. The local assets include Natural and cultural.
+
+[CAND 183] ID=3019 CHUNK=2
+ID NARRATIVE: 3019
+The MOVING reference member state of this VC (Value Chain) is SKANDINAVIAN UCO. The reference MOVING Card ID of this VC is VC 13 SCA. An example is the Veiseth, a raspberry farm where you can rather pick up your own raspberries, buy a box of fresh or frozen raspberries and buy raspberry juice. The s
+by this VC is Current and Predicted. This VC is classified as Traditional and Innovative.   The type of innovation of this VC (Value Chain) is Endogenous and Exogenous. Firstly, the farm offers the possibility of picking up the fruits yourself. This adds a recreative and learning experience to the purchase while strenghtening the link between producers and consumers. Secondly, the farm offers a wide diversity of products such as frozen berries and juices to survive during the…
+
+[CAND 184] ID=3058 CHUNK=1
+ID NARRATIVE: 3058
+The MOVING reference member state of this VC (Value Chain) is SPAIN ADEGUA. The reference MOVING Card ID of this VC is VC 25 ES. According to data from the Ministry of Agriculture, in 2019, the production of beef cattle in Spain accounted for 6.3% of everything produced by the countryside, being the
+, and the Natural Area of Las Tuerces.   The size of the area (km2) is 325. The minimum altimetry of the LAU (Local Administrative Unit) is 950. The maximum altimetry of the LAU is 2500. The total population (in thousand) is 2.277. The population density (Inhabitants/km2) in the LAU is 7. The population change rate of the LAU in the last 10 years (%) has been -0.12%. The overall regional population density (Inhabitants/km2) is 25.42. The regional population change rate in the…
+
+[CAND 185] ID=2853 CHUNK=2
+ID NARRATIVE: 2853
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 05 IT. The Di Nucci family organised VCs involving local economic actors (e.g., breeders) in high-quality traditional dairy productions. The 'Di Nucci' dairy incorporat
+lopment of the tourism dimension also depends on local institutions and collaboration among local actors. Overall the type of challenge faced by this VC is Current. This VC is classified as Traditional and Innovative.   The type of innovation of this VC (Value Chain) is Endogenous. An artisanal product (Caciocavallo cheese) is transformed into a high quality good, and it is firmly cultural defined. The relations between the milk producers and the cheese factory are not only e…
+
+[CAND 186] ID=3129 CHUNK=1
+ID NARRATIVE: 3129
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 2. The reference MOVING Card ID of this VC is VC 05 CH2. The VC is composed of farmers, breeding horses in the wild, slaughterhouses and processors (in sausage, terrine or fresh meat), local butcher's shop for the sale. The me
+.98%. The overall regional population density (Inhabitants/km2) is 193.02. The regional population change rate in the last 10 years (%) is unspecified.   The average per capita income (EUR/year) [Province] is 25416.54. The total Gross Value Added (GVA) (EUR million/year) [Province] is 79468.40. The primary sector share of total GVA/year [Province] is 1.43%. The secondary sector share of total GVA/year [Province] is 56.92%. The tertiary sector share of total GVA/year [Province…
+
+[CAND 187] ID=3095 CHUNK=2
+ID NARRATIVE: 3095
+The MOVING reference member state of this VC (Value Chain) is SPAIN UCO. The reference MOVING Card ID of this VC is VC 47 ES. It is characterised by small producers and artisans. In the region there are leather tanneries and craftspeople who transform the tanned leather into goods. In the region of 
+ Viso (14074), Peñarroya- Pueblonuevo (14052), Cortelazor (21026), La Carolina (23024).
+
+[CAND 188] ID=3017 CHUNK=1
+ID NARRATIVE: 3017
+The MOVING reference member state of this VC (Value Chain) is SKANDINAVIAN UCO. The reference MOVING Card ID of this VC is VC 11 SCA. Rakfish is fermented trout, and is one of the most extended traditional products in Norway. Fish is taken from the water and right after put into buckets with specifi
+rs (%) has been 2.86%.   The average per capita income (EUR/year) [Province] is 44096.75. The total Gross Value Added (GVA) (EUR million/year) [Province] is 7448.29. The primary sector share of total GVA/year [Province] is 7.42%. The secondary sector share of total GVA/year [Province] is 19.70%. The tertiary sector share of total GVA/year [Province] is 72.88%. The per capita income (EUR/year) [Region] is 46253.25. The total Gross Value Added (GVA) (EUR million/year) [Region] …
+
+[CAND 189] ID=2860 CHUNK=1
+ID NARRATIVE: 2860
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 14 IT. The VC is not dependent on other SES for its production process, but marketing strategies involve other VCs and even other neighbour SESs. The relevant actor is 
+A/year [Region] is 30.26%. The tertiary sector share of total GVA/year [Region] is 67.87%.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 1590. The regional (Region) share of total BPs/year is 0.79%. The number of agricultural holdings in the LAU is 572. The nearest settlement with population over 100000 (km) is 60. In this region protected areas are present.   The primary sector share of total employment/year […
+
+[CAND 190] ID=3147 CHUNK=2
+ID NARRATIVE: 3147
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 2. The reference MOVING Card ID of this VC is VC 54 CH2. This VC is broad and includes all producers, slaughterhouses, retailers (department stores, local butchers and direct sales depending on the farms). Farmers must comply 
+he tertiary sector share of total employment/year [Region] is 71.57%.   This product is of high quality, respecting strict specifications for a label guaranteeing an organic and ethical production closer to consummer's demand, ensuring that the calf grows with its mother, connected to cattle farming which is the main farming system in Switzerland (representative of swiss agriculture).   The main asset is natural as it includes the pastures on which the cattle feed and the cro…
+
+[CAND 191] ID=2833 CHUNK=1
+ID NARRATIVE: 2833
+The MOVING reference member state of this VC (Value Chain) is HUNGARY. The reference MOVING Card ID of this VC is VC 08 HU. It is part of an exceptionally well designed high value added local products' cluster, run by a monastery, mixing thousand year tradition with modern design and marketing tools
+st accommodations/year in the LAU (Local Administrative Unit) is 125.1. The regional (Region) share of total BPs/year is 10.03%. The number of agricultural holdings in the LAU is 115. The nearest settlement with population over 100000 (km) is 22. In this region protected areas are present.   The primary sector share of total employment/year [Province] is 4.47%. The secondary sector share of total employment/year [Province] is 42.86%. The tertiary sector share of total employm…
+
+[CAND 192] ID=2742 CHUNK=1
+ID NARRATIVE: 2742
+The MOVING reference member state of this VC (Value Chain) is BULGARIA. The reference MOVING Card ID of this VC is VC 07 BG. Linbul Farm (https://petrohan.wordpress.com/) is an innovative farm enterprise in the Petrohan area of in the Berkovitsa Municipality (MON02) in Montana Province (BG312). Aver
+Inhabitants/km2) is 39.00. The regional population change rate in the last 10 years (%) has been -0.19%.   The average per capita income (EUR/year) [Province] is 4600. The total Gross Value Added (GVA) (EUR million/year) [Province] is 524. The primary sector share of total GVA/year [Province] is 13.40%. The secondary sector share of total GVA/year [Province] is 30.00%. The tertiary sector share of total GVA/year [Province] is 56.60%. The per capita income (EUR/year) [Region] …
+
+[CAND 193] ID=2869 CHUNK=2
+ID NARRATIVE: 2869
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 27 IT. In the case of 'Docendo Discitur', the VC does not depend on other SES. Its product innovation is specific for apple production, and no link with other pome frui
+eatures with product and marketing innovations.    Climate change can be a significant challenge for apple's biological cycles and drought, affecting the VC negatively. The cider market is a niche one, and to be competitive, product innovation and marketing strategy can be pivotal for success. For these reasons, scientific knowledge and traditional know-how need to be combined to develop intriguing novelties for the customers and market. Overall the type of challenge faced by…
+
+[CAND 194] ID=2862 CHUNK=2
+ID NARRATIVE: 2862
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 16 IT. In the VC, the Zappalà company is the main actor. Zappalà embeds the cultural elements linked to the tradition of cheese making and the milk produced from the SE
+oposal of new products and to enlarge the selling market. For these reasons, some doubt were arisen on the non-transparency on milk's origin, specifically for traditional cheese production, like the Provola cheese of Nabrodi. It shows a difficult connection between the large-scale retail trade, dairy industrial production and traditional local high quality food request by the market. Overall the type of challenge faced by this VC is Current and Predicted. This VC is classifie…
+
+[CAND 195] ID=2874 CHUNK=1
+ID NARRATIVE: 2874
+The MOVING reference member state of this VC (Value Chain) is ITALY UNIMOL and UNIPI. The reference MOVING Card ID of this VC is VC 36 IT. The cheese is produced only with milk from the 'Podolica' cow which is a local breed. The processing relies on tranditional activities which are mostly performed
+. The primary sector share of total GVA/year [Region] is 4.06%. The secondary sector share of total GVA/year [Region] is 18.58%. The tertiary sector share of total GVA/year [Region] is 76.15%.   The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 26. The regional (Region) share of total BPs/year is 0.01%. The number of agricultural holdings in the LAU is 201. The nearest settlement with population over 100000 (km) is 5…
+
+[CAND 196] ID=3125 CHUNK=1
+ID NARRATIVE: 3125
+The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 1. The reference MOVING Card ID of this VC is VC 28 CH1. This is an example of an innovative small local producer of dried meat products, working closely with local farmers, using old cows and other local products like 'AlpenP
+unspecified. The tertiary sector share of total employment/year [Province] is unspecified. The primary sector share of total employment/year [Region] is unspecified. The secondary sector share of total employment/year [Region] is unspecified. The tertiary sector share of total employment/year [Region] is unspecified.   innovative way of marketing traditional goods (e-commerce). successfull example of 'sprucing up' a traditional VC.   very meat based, might not be according to…
+
+[CAND 197] ID=3048 CHUNK=1
+ID NARRATIVE: 3048
+The MOVING reference member state of this VC (Value Chain) is SPAIN ADEGUA. The reference MOVING Card ID of this VC is VC 05 ES. Around 400,000 bottles come out each season from the five current distilleries, especially of the most typical products such as sweet and dry anise, rosoli, or pacharán. A
+in the LAU (Local Administrative Unit) is 407. The regional (Region) share of total BPs/year is 0,07%. The number of agricultural holdings in the LAU is 983. The nearest settlement with population over 100000 (km) is 82.6. In this region protected areas are present.   The primary sector share of total employment/year [Province] is 12.90%. The secondary sector share of total employment/year [Province] is 20.62%. The tertiary sector share of total employment/year [Province] is …
+
+[CAND 198] ID=2891 CHUNK=1
+ID NARRATIVE: 2891
+The MOVING reference member state of this VC (Value Chain) is ITALY VINIDEA. The reference MOVING Card ID of this VC is VC 30 IT. Local producers were able to add value to their products, selling most of their wines to tourists at cellar gate, and consituting a basket of products of the territory th
+ce] is unspecified. The tertiary sector share of total employment/year [Province] is unspecified. The primary sector share of total employment/year [Region] is 11.03%. The secondary sector share of total employment/year [Region] is 16.99%. The tertiary sector share of total employment/year [Region] is 71.98%.   very successful development of mountain viticulture (400-800 m.s.l.), value creation on traditional grape varieties (nerello Mascarese), strong appellation identity (V…
+
+[CAND 199] ID=2952 CHUNK=1
+ID NARRATIVE: 2952
+The MOVING reference member state of this VC (Value Chain) is ROMANIA. The reference MOVING Card ID of this VC is VC 11 RO. All of the cheeses, including the 'Brânză de Burduf', that are marketed under the 'Stâna de Vaideeni' brand are produced in a licenced processing unit in the village. Cattle an
+ (in thousand) is 3.93. The population density (Inhabitants/km2) in the LAU is 24.69. The population change rate of the LAU in the last 10 years (%) is unspecified. The overall regional population density (Inhabitants/km2) is 66.9. The regional population change rate in the last 10 years (%) has been -0.17%.   The average per capita income (EUR/year) [Province] is 8300. The total Gross Value Added (GVA) (EUR million/year) [Province] is 2652.3. The primary sector share of tota…
+
+[CAND 200] ID=2965 CHUNK=1
+ID NARRATIVE: 2965
+The MOVING reference member state of this VC (Value Chain) is SCOTLAND HUTTON. The reference MOVING Card ID of this VC is VC 04 UK. Deer hunting (stalking) are popular tourist activities within the Highlands and Islands of Scotland. The land is which the stalking takes place is wild land, however it
+ovince] is 30.77%. The tertiary sector share of total GVA/year [Province] is 66.17%. The per capita income (EUR/year) [Region] is 23107.90. The total Gross Value Added (GVA) (EUR million/year) [Region] is 65311.8. The primary sector share of total GVA/year [Region] is 1.23%. The secondary sector share of total GVA/year [Region] is 18.06%. The tertiary sector share of total GVA/year [Region] is 80.72%.   The total number of bed places (BPs) in tourist accommodations/year in th…
+

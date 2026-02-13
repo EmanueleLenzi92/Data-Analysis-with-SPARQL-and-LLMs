@@ -1,0 +1,850 @@
+{
+  "per_query_model": [
+    {
+      "query": "Q3",
+      "model": "deepseek-r11.5b-qwen-distill-fp16",
+      "precision": 0.12037,
+      "recall": 0.481481,
+      "f1": 0.192593,
+      "TP": 13,
+      "FP": 95,
+      "FN": 14,
+      "pred_size": 108,
+      "gold_size": 27
+    },
+    {
+      "query": "Q3",
+      "model": "deepseek-r114b-qwen-distill-q8_0",
+      "precision": 0.628571,
+      "recall": 0.814815,
+      "f1": 0.709677,
+      "TP": 22,
+      "FP": 13,
+      "FN": 5,
+      "pred_size": 35,
+      "gold_size": 27
+    },
+    {
+      "query": "Q3",
+      "model": "gemma22b",
+      "precision": 0.073654,
+      "recall": 0.962963,
+      "f1": 0.136842,
+      "TP": 26,
+      "FP": 327,
+      "FN": 1,
+      "pred_size": 353,
+      "gold_size": 27
+    },
+    {
+      "query": "Q3",
+      "model": "gemma29b-instruct-q8_0",
+      "precision": 0.357143,
+      "recall": 0.925926,
+      "f1": 0.515464,
+      "TP": 25,
+      "FP": 45,
+      "FN": 2,
+      "pred_size": 70,
+      "gold_size": 27
+    },
+    {
+      "query": "Q3",
+      "model": "gemma312b-it-q8_0",
+      "precision": 0.232143,
+      "recall": 0.962963,
+      "f1": 0.374101,
+      "TP": 26,
+      "FP": 86,
+      "FN": 1,
+      "pred_size": 112,
+      "gold_size": 27
+    },
+    {
+      "query": "Q3",
+      "model": "gemma34b-it-q8_0",
+      "precision": 0.147436,
+      "recall": 0.851852,
+      "f1": 0.251366,
+      "TP": 23,
+      "FP": 133,
+      "FN": 4,
+      "pred_size": 156,
+      "gold_size": 27
+    },
+    {
+      "query": "Q3",
+      "model": "llama213b-chat-q8_0",
+      "precision": 0.080745,
+      "recall": 0.962963,
+      "f1": 0.148997,
+      "TP": 26,
+      "FP": 296,
+      "FN": 1,
+      "pred_size": 322,
+      "gold_size": 27
+    },
+    {
+      "query": "Q3",
+      "model": "llama3.18b",
+      "precision": 0.236364,
+      "recall": 0.962963,
+      "f1": 0.379562,
+      "TP": 26,
+      "FP": 84,
+      "FN": 1,
+      "pred_size": 110,
+      "gold_size": 27
+    },
+    {
+      "query": "Q3",
+      "model": "llama3.23b",
+      "precision": 0.077143,
+      "recall": 1.0,
+      "f1": 0.143236,
+      "TP": 27,
+      "FP": 323,
+      "FN": 0,
+      "pred_size": 350,
+      "gold_size": 27
+    },
+    {
+      "query": "Q3",
+      "model": "llama38b-instruct-q8_0",
+      "precision": 0.165563,
+      "recall": 0.925926,
+      "f1": 0.280899,
+      "TP": 25,
+      "FP": 126,
+      "FN": 2,
+      "pred_size": 151,
+      "gold_size": 27
+    },
+    {
+      "query": "Q3",
+      "model": "mistral7b-instruct-q8_0",
+      "precision": 0.064246,
+      "recall": 0.851852,
+      "f1": 0.119481,
+      "TP": 23,
+      "FP": 335,
+      "FN": 4,
+      "pred_size": 358,
+      "gold_size": 27
+    },
+    {
+      "query": "Q3",
+      "model": "phi3.5latest",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "TP": 0,
+      "FP": 48,
+      "FN": 27,
+      "pred_size": 48,
+      "gold_size": 27
+    },
+    {
+      "query": "Q3",
+      "model": "phi414b-q8_0",
+      "precision": 0.676471,
+      "recall": 0.851852,
+      "f1": 0.754098,
+      "TP": 23,
+      "FP": 11,
+      "FN": 4,
+      "pred_size": 34,
+      "gold_size": 27
+    },
+    {
+      "query": "Q4",
+      "model": "deepseek-r11.5b-qwen-distill-fp16",
+      "precision": 0.089474,
+      "recall": 0.62963,
+      "f1": 0.156682,
+      "TP": 17,
+      "FP": 173,
+      "FN": 10,
+      "pred_size": 190,
+      "gold_size": 27
+    },
+    {
+      "query": "Q4",
+      "model": "deepseek-r114b-qwen-distill-q8_0",
+      "precision": 0.346154,
+      "recall": 0.666667,
+      "f1": 0.455696,
+      "TP": 18,
+      "FP": 34,
+      "FN": 9,
+      "pred_size": 52,
+      "gold_size": 27
+    },
+    {
+      "query": "Q4",
+      "model": "gemma22b",
+      "precision": 0.063981,
+      "recall": 1.0,
+      "f1": 0.120267,
+      "TP": 27,
+      "FP": 395,
+      "FN": 0,
+      "pred_size": 422,
+      "gold_size": 27
+    },
+    {
+      "query": "Q4",
+      "model": "gemma29b-instruct-q8_0",
+      "precision": 0.25,
+      "recall": 0.851852,
+      "f1": 0.386555,
+      "TP": 23,
+      "FP": 69,
+      "FN": 4,
+      "pred_size": 92,
+      "gold_size": 27
+    },
+    {
+      "query": "Q4",
+      "model": "gemma312b-it-q8_0",
+      "precision": 0.233645,
+      "recall": 0.925926,
+      "f1": 0.373134,
+      "TP": 25,
+      "FP": 82,
+      "FN": 2,
+      "pred_size": 107,
+      "gold_size": 27
+    },
+    {
+      "query": "Q4",
+      "model": "gemma34b-it-q8_0",
+      "precision": 0.117371,
+      "recall": 0.925926,
+      "f1": 0.208333,
+      "TP": 25,
+      "FP": 188,
+      "FN": 2,
+      "pred_size": 213,
+      "gold_size": 27
+    },
+    {
+      "query": "Q4",
+      "model": "llama213b-chat-q8_0",
+      "precision": 0.077844,
+      "recall": 0.962963,
+      "f1": 0.144044,
+      "TP": 26,
+      "FP": 308,
+      "FN": 1,
+      "pred_size": 334,
+      "gold_size": 27
+    },
+    {
+      "query": "Q4",
+      "model": "llama3.18b",
+      "precision": 0.204918,
+      "recall": 0.925926,
+      "f1": 0.33557,
+      "TP": 25,
+      "FP": 97,
+      "FN": 2,
+      "pred_size": 122,
+      "gold_size": 27
+    },
+    {
+      "query": "Q4",
+      "model": "llama3.23b",
+      "precision": 0.072886,
+      "recall": 0.925926,
+      "f1": 0.135135,
+      "TP": 25,
+      "FP": 318,
+      "FN": 2,
+      "pred_size": 343,
+      "gold_size": 27
+    },
+    {
+      "query": "Q4",
+      "model": "llama38b-instruct-q8_0",
+      "precision": 0.282353,
+      "recall": 0.888889,
+      "f1": 0.428571,
+      "TP": 24,
+      "FP": 61,
+      "FN": 3,
+      "pred_size": 85,
+      "gold_size": 27
+    },
+    {
+      "query": "Q4",
+      "model": "mistral7b-instruct-q8_0",
+      "precision": 0.063882,
+      "recall": 0.962963,
+      "f1": 0.119816,
+      "TP": 26,
+      "FP": 381,
+      "FN": 1,
+      "pred_size": 407,
+      "gold_size": 27
+    },
+    {
+      "query": "Q4",
+      "model": "phi3.5latest",
+      "precision": 0.060386,
+      "recall": 0.925926,
+      "f1": 0.113379,
+      "TP": 25,
+      "FP": 389,
+      "FN": 2,
+      "pred_size": 414,
+      "gold_size": 27
+    },
+    {
+      "query": "Q4",
+      "model": "phi414b-q8_0",
+      "precision": 0.305556,
+      "recall": 0.814815,
+      "f1": 0.444444,
+      "TP": 22,
+      "FP": 50,
+      "FN": 5,
+      "pred_size": 72,
+      "gold_size": 27
+    },
+    {
+      "query": "Q5",
+      "model": "deepseek-r11.5b-qwen-distill-fp16",
+      "precision": 0.154639,
+      "recall": 0.652174,
+      "f1": 0.25,
+      "TP": 30,
+      "FP": 164,
+      "FN": 16,
+      "pred_size": 194,
+      "gold_size": 46
+    },
+    {
+      "query": "Q5",
+      "model": "deepseek-r114b-qwen-distill-q8_0",
+      "precision": 0.702703,
+      "recall": 0.565217,
+      "f1": 0.626506,
+      "TP": 26,
+      "FP": 11,
+      "FN": 20,
+      "pred_size": 37,
+      "gold_size": 46
+    },
+    {
+      "query": "Q5",
+      "model": "gemma22b",
+      "precision": 0.134503,
+      "recall": 1.0,
+      "f1": 0.237113,
+      "TP": 46,
+      "FP": 296,
+      "FN": 0,
+      "pred_size": 342,
+      "gold_size": 46
+    },
+    {
+      "query": "Q5",
+      "model": "gemma29b-instruct-q8_0",
+      "precision": 0.423077,
+      "recall": 0.956522,
+      "f1": 0.586667,
+      "TP": 44,
+      "FP": 60,
+      "FN": 2,
+      "pred_size": 104,
+      "gold_size": 46
+    },
+    {
+      "query": "Q5",
+      "model": "gemma312b-it-q8_0",
+      "precision": 0.319149,
+      "recall": 0.978261,
+      "f1": 0.481283,
+      "TP": 45,
+      "FP": 96,
+      "FN": 1,
+      "pred_size": 141,
+      "gold_size": 46
+    },
+    {
+      "query": "Q5",
+      "model": "gemma34b-it-q8_0",
+      "precision": 0.202899,
+      "recall": 0.913043,
+      "f1": 0.332016,
+      "TP": 42,
+      "FP": 165,
+      "FN": 4,
+      "pred_size": 207,
+      "gold_size": 46
+    },
+    {
+      "query": "Q5",
+      "model": "llama213b-chat-q8_0",
+      "precision": 0.100796,
+      "recall": 0.826087,
+      "f1": 0.179669,
+      "TP": 38,
+      "FP": 339,
+      "FN": 8,
+      "pred_size": 377,
+      "gold_size": 46
+    },
+    {
+      "query": "Q5",
+      "model": "llama3.18b",
+      "precision": 0.397849,
+      "recall": 0.804348,
+      "f1": 0.532374,
+      "TP": 37,
+      "FP": 56,
+      "FN": 9,
+      "pred_size": 93,
+      "gold_size": 46
+    },
+    {
+      "query": "Q5",
+      "model": "llama3.23b",
+      "precision": 0.179487,
+      "recall": 0.913043,
+      "f1": 0.3,
+      "TP": 42,
+      "FP": 192,
+      "FN": 4,
+      "pred_size": 234,
+      "gold_size": 46
+    },
+    {
+      "query": "Q5",
+      "model": "llama38b-instruct-q8_0",
+      "precision": 0.409524,
+      "recall": 0.934783,
+      "f1": 0.569536,
+      "TP": 43,
+      "FP": 62,
+      "FN": 3,
+      "pred_size": 105,
+      "gold_size": 46
+    },
+    {
+      "query": "Q5",
+      "model": "mistral7b-instruct-q8_0",
+      "precision": 0.101648,
+      "recall": 0.804348,
+      "f1": 0.180488,
+      "TP": 37,
+      "FP": 327,
+      "FN": 9,
+      "pred_size": 364,
+      "gold_size": 46
+    },
+    {
+      "query": "Q5",
+      "model": "phi3.5latest",
+      "precision": 0.121495,
+      "recall": 0.847826,
+      "f1": 0.212534,
+      "TP": 39,
+      "FP": 282,
+      "FN": 7,
+      "pred_size": 321,
+      "gold_size": 46
+    },
+    {
+      "query": "Q5",
+      "model": "phi414b-q8_0",
+      "precision": 0.649123,
+      "recall": 0.804348,
+      "f1": 0.718447,
+      "TP": 37,
+      "FP": 20,
+      "FN": 9,
+      "pred_size": 57,
+      "gold_size": 46
+    },
+    {
+      "query": "Q6",
+      "model": "deepseek-r11.5b-qwen-distill-fp16",
+      "precision": 0.046025,
+      "recall": 0.733333,
+      "f1": 0.086614,
+      "TP": 11,
+      "FP": 228,
+      "FN": 4,
+      "pred_size": 239,
+      "gold_size": 15
+    },
+    {
+      "query": "Q6",
+      "model": "deepseek-r114b-qwen-distill-q8_0",
+      "precision": 0.461538,
+      "recall": 0.8,
+      "f1": 0.585366,
+      "TP": 12,
+      "FP": 14,
+      "FN": 3,
+      "pred_size": 26,
+      "gold_size": 15
+    },
+    {
+      "query": "Q6",
+      "model": "gemma22b",
+      "precision": 0.040761,
+      "recall": 1.0,
+      "f1": 0.078329,
+      "TP": 15,
+      "FP": 353,
+      "FN": 0,
+      "pred_size": 368,
+      "gold_size": 15
+    },
+    {
+      "query": "Q6",
+      "model": "gemma29b-instruct-q8_0",
+      "precision": 0.176471,
+      "recall": 1.0,
+      "f1": 0.3,
+      "TP": 15,
+      "FP": 70,
+      "FN": 0,
+      "pred_size": 85,
+      "gold_size": 15
+    },
+    {
+      "query": "Q6",
+      "model": "gemma312b-it-q8_0",
+      "precision": 0.101351,
+      "recall": 1.0,
+      "f1": 0.184049,
+      "TP": 15,
+      "FP": 133,
+      "FN": 0,
+      "pred_size": 148,
+      "gold_size": 15
+    },
+    {
+      "query": "Q6",
+      "model": "gemma34b-it-q8_0",
+      "precision": 0.080645,
+      "recall": 1.0,
+      "f1": 0.149254,
+      "TP": 15,
+      "FP": 171,
+      "FN": 0,
+      "pred_size": 186,
+      "gold_size": 15
+    },
+    {
+      "query": "Q6",
+      "model": "llama213b-chat-q8_0",
+      "precision": 0.032345,
+      "recall": 0.8,
+      "f1": 0.062176,
+      "TP": 12,
+      "FP": 359,
+      "FN": 3,
+      "pred_size": 371,
+      "gold_size": 15
+    },
+    {
+      "query": "Q6",
+      "model": "llama3.18b",
+      "precision": 0.214286,
+      "recall": 1.0,
+      "f1": 0.352941,
+      "TP": 15,
+      "FP": 55,
+      "FN": 0,
+      "pred_size": 70,
+      "gold_size": 15
+    },
+    {
+      "query": "Q6",
+      "model": "llama3.23b",
+      "precision": 0.078534,
+      "recall": 1.0,
+      "f1": 0.145631,
+      "TP": 15,
+      "FP": 176,
+      "FN": 0,
+      "pred_size": 191,
+      "gold_size": 15
+    },
+    {
+      "query": "Q6",
+      "model": "llama38b-instruct-q8_0",
+      "precision": 0.182927,
+      "recall": 1.0,
+      "f1": 0.309278,
+      "TP": 15,
+      "FP": 67,
+      "FN": 0,
+      "pred_size": 82,
+      "gold_size": 15
+    },
+    {
+      "query": "Q6",
+      "model": "mistral7b-instruct-q8_0",
+      "precision": 0.036649,
+      "recall": 0.933333,
+      "f1": 0.070529,
+      "TP": 14,
+      "FP": 368,
+      "FN": 1,
+      "pred_size": 382,
+      "gold_size": 15
+    },
+    {
+      "query": "Q6",
+      "model": "phi3.5latest",
+      "precision": 0.028369,
+      "recall": 0.266667,
+      "f1": 0.051282,
+      "TP": 4,
+      "FP": 137,
+      "FN": 11,
+      "pred_size": 141,
+      "gold_size": 15
+    },
+    {
+      "query": "Q6",
+      "model": "phi414b-q8_0",
+      "precision": 0.227273,
+      "recall": 1.0,
+      "f1": 0.37037,
+      "TP": 15,
+      "FP": 51,
+      "FN": 0,
+      "pred_size": 66,
+      "gold_size": 15
+    }
+  ],
+  "per_model_micro": [
+    {
+      "model": "deepseek-r11.5b-qwen-distill-fp16",
+      "precision": 0.097127,
+      "recall": 0.617391,
+      "f1": 0.167849,
+      "TP": 71,
+      "FP": 660,
+      "FN": 44
+    },
+    {
+      "model": "deepseek-r114b-qwen-distill-q8_0",
+      "precision": 0.52,
+      "recall": 0.678261,
+      "f1": 0.588679,
+      "TP": 78,
+      "FP": 72,
+      "FN": 37
+    },
+    {
+      "model": "gemma22b",
+      "precision": 0.076768,
+      "recall": 0.991304,
+      "f1": 0.1425,
+      "TP": 114,
+      "FP": 1371,
+      "FN": 1
+    },
+    {
+      "model": "gemma29b-instruct-q8_0",
+      "precision": 0.304843,
+      "recall": 0.930435,
+      "f1": 0.459227,
+      "TP": 107,
+      "FP": 244,
+      "FN": 8
+    },
+    {
+      "model": "gemma312b-it-q8_0",
+      "precision": 0.218504,
+      "recall": 0.965217,
+      "f1": 0.35634,
+      "TP": 111,
+      "FP": 397,
+      "FN": 4
+    },
+    {
+      "model": "gemma34b-it-q8_0",
+      "precision": 0.137795,
+      "recall": 0.913043,
+      "f1": 0.239453,
+      "TP": 105,
+      "FP": 657,
+      "FN": 10
+    },
+    {
+      "model": "llama213b-chat-q8_0",
+      "precision": 0.07265,
+      "recall": 0.886957,
+      "f1": 0.134299,
+      "TP": 102,
+      "FP": 1302,
+      "FN": 13
+    },
+    {
+      "model": "llama3.18b",
+      "precision": 0.260759,
+      "recall": 0.895652,
+      "f1": 0.403922,
+      "TP": 103,
+      "FP": 292,
+      "FN": 12
+    },
+    {
+      "model": "llama3.23b",
+      "precision": 0.097496,
+      "recall": 0.947826,
+      "f1": 0.176805,
+      "TP": 109,
+      "FP": 1009,
+      "FN": 6
+    },
+    {
+      "model": "llama38b-instruct-q8_0",
+      "precision": 0.252955,
+      "recall": 0.930435,
+      "f1": 0.39777,
+      "TP": 107,
+      "FP": 316,
+      "FN": 8
+    },
+    {
+      "model": "mistral7b-instruct-q8_0",
+      "precision": 0.066181,
+      "recall": 0.869565,
+      "f1": 0.123001,
+      "TP": 100,
+      "FP": 1411,
+      "FN": 15
+    },
+    {
+      "model": "phi3.5latest",
+      "precision": 0.073593,
+      "recall": 0.591304,
+      "f1": 0.130895,
+      "TP": 68,
+      "FP": 856,
+      "FN": 47
+    },
+    {
+      "model": "phi414b-q8_0",
+      "precision": 0.423581,
+      "recall": 0.843478,
+      "f1": 0.563953,
+      "TP": 97,
+      "FP": 132,
+      "FN": 18
+    }
+  ],
+  "per_model_macro": [
+    {
+      "model": "deepseek-r11.5b-qwen-distill-fp16",
+      "precision_macro": 0.102627,
+      "recall_macro": 0.624154,
+      "f1_macro": 0.171472,
+      "queries_count": 4
+    },
+    {
+      "model": "deepseek-r114b-qwen-distill-q8_0",
+      "precision_macro": 0.534741,
+      "recall_macro": 0.711675,
+      "f1_macro": 0.594311,
+      "queries_count": 4
+    },
+    {
+      "model": "gemma22b",
+      "precision_macro": 0.078225,
+      "recall_macro": 0.990741,
+      "f1_macro": 0.143138,
+      "queries_count": 4
+    },
+    {
+      "model": "gemma29b-instruct-q8_0",
+      "precision_macro": 0.301673,
+      "recall_macro": 0.933575,
+      "f1_macro": 0.447171,
+      "queries_count": 4
+    },
+    {
+      "model": "gemma312b-it-q8_0",
+      "precision_macro": 0.221572,
+      "recall_macro": 0.966788,
+      "f1_macro": 0.353142,
+      "queries_count": 4
+    },
+    {
+      "model": "gemma34b-it-q8_0",
+      "precision_macro": 0.137088,
+      "recall_macro": 0.922705,
+      "f1_macro": 0.235242,
+      "queries_count": 4
+    },
+    {
+      "model": "llama213b-chat-q8_0",
+      "precision_macro": 0.072932,
+      "recall_macro": 0.888003,
+      "f1_macro": 0.133721,
+      "queries_count": 4
+    },
+    {
+      "model": "llama3.18b",
+      "precision_macro": 0.263354,
+      "recall_macro": 0.923309,
+      "f1_macro": 0.400112,
+      "queries_count": 4
+    },
+    {
+      "model": "llama3.23b",
+      "precision_macro": 0.102013,
+      "recall_macro": 0.959742,
+      "f1_macro": 0.181001,
+      "queries_count": 4
+    },
+    {
+      "model": "llama38b-instruct-q8_0",
+      "precision_macro": 0.260092,
+      "recall_macro": 0.9374,
+      "f1_macro": 0.397071,
+      "queries_count": 4
+    },
+    {
+      "model": "mistral7b-instruct-q8_0",
+      "precision_macro": 0.066606,
+      "recall_macro": 0.888124,
+      "f1_macro": 0.122579,
+      "queries_count": 4
+    },
+    {
+      "model": "phi3.5latest",
+      "precision_macro": 0.052563,
+      "recall_macro": 0.510105,
+      "f1_macro": 0.094299,
+      "queries_count": 4
+    },
+    {
+      "model": "phi414b-q8_0",
+      "precision_macro": 0.464606,
+      "recall_macro": 0.867754,
+      "f1_macro": 0.57184,
+      "queries_count": 4
+    }
+  ],
+  "info": {
+    "gold_path": "gold.json",
+    "pred_filename": "a.json",
+    "discovered_queries": [
+      "Q3",
+      "Q4",
+      "Q5",
+      "Q6"
+    ]
+  }
+}

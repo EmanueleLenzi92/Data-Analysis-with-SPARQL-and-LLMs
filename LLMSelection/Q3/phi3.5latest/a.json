@@ -1,0 +1,794 @@
+[
+    {
+        "id": "2714"
+    },
+    {
+        "id": "2715"
+    },
+    {
+        "id": "2716"
+    },
+    {
+        "id": "2717"
+    },
+    [
+        {
+            "id": "2718"
+        },
+        {
+            "id": "1234",
+            "region": "Country/State Name Here",
+            "primary_sector_share_GVA": {
+                "province": {
+                    "percentage": "ValueHere"
+                },
+                "region": {
+                    "Relevance}},": "DO",
+                    "traditional_innovation": true,
+                    "OrFalse,[{": "ype",
+                    "Natural": "relevance\":\"High"
+                }
+            }
+        }
+    ],
+    {
+        "id": "2719"
+    },
+    {
+        "id": "2720"
+    },
+    {
+        "id": "2721"
+    },
+    {
+        "id": "2722"
+    },
+    {
+        "id": "2723"
+    },
+    {
+        "id": "2724"
+    },
+    {
+        "id": "2725"
+    },
+    {
+        "id": "2726"
+    },
+    {
+        "id": "2727"
+    },
+    {
+        "id": "2728"
+    },
+    {
+        "id": "2729"
+    },
+    {
+        "id": "2730"
+    },
+    {
+        "id": "2731"
+    },
+    {
+        "id": "2732"
+    },
+    {
+        "id": "2733"
+    },
+    {
+        "id": "2734"
+    },
+    {
+        "id": "2735"
+    },
+    {
+        "id": "2736"
+    },
+    [
+        {
+            "id": "2737"
+        },
+        {
+            "id": "<ID_OF_THE_NARRATIVE>",
+            "involvementInPDOCheeseProduction": true,
+            "evidenceFound": {
+                "directMentionOfPDOCertificationOrProtectedDesignation": "boolean",
+                "indirectEvidenceSuggestingConnectionToDairyAndCheesemakingProcess": "string_description",
+                "mentionOfQualityTermsRelatedtoCheeseProductionIfAny": "array[of strings]",
+                "referenceToLocalAssetsRelevantForPDOCertificationIncludingLandUseSystemOrNaturalResources": "boolean"
+            }
+        },
+        {
+            "id": "<ID_OF_THE_NARRATIVE>",
+            "involvementInPDOCheeseProduction": false,
+            "evidenceFound": {
+                "directMentionOfPDOCertificationOrProtectedDesignation": null,
+                "indirectEvidenceSuggestingConnectionToDairyAndCheesemakingProcess": "",
+                "mentionOfQualityTermsRelatedtoCheeseProductionIfAny": [],
+                "referenceToLocalAssetsRelevantForPDOCertificationIncludingLandUseSystemOrNaturalResources": null
+            }
+        },
+        {
+            "id": "<ID_OF_THE_NARRATIVE>",
+            "involvementInPDOCheeseProduction": true,
+            "evidenceFound": {
+                "directMentionOfPDOCertificationOrProtectedDesignation": false,
+                "indirectEvidenceSuggestingConnectionToDairyAndCheesemakingProcess": "",
+                "mentionOfQualityTermsRelatedtoCheeseProductionIfAny": [],
+                "referenceToLocalAssetsRelevantForPDOCertificationIncludingLandUseSystemOrNaturalResources": true,
+                "id": "<ID_OFUBUNTU>123456789",
+                "involvementInPDOCheeseProduction": false,
+                "evidenceFound": {
+                    "directMentionOfPDOCertificationOrProtectedDesignation": null,
+                    "indirectEvidenceSuggestingConnectionToDairyAndCheesemakingProcess": "",
+                    "mentionOfQualityTermsRelatedtoCheeseProductionIfAny": [],
+                    "referenceToLocalAssetsRelevantForPDOCertificationIncludingLandUseSystemOrNaturalResources": null
+                }
+            }
+        }
+    ],
+    [
+        {
+            "id": "2738"
+        },
+        {},
+        {
+            "id": "3021",
+            "region(s)": [
+                "Val d’Arly in France"
+            ],
+            "cheese_varieties": [
+                "Manjimenez PDO sheep's milk cheese"
+            ],
+            "stakeholders": {
+                "farmers": true,
+                "cooperatives": false
+            },
+            "certification_bodies": [
+                {
+                    "name": "Comité Régional Interprofessionnel de l’Auvergne",
+                    "role": "grants and oversees PDO certifications"
+                }
+            ],
+            "challenges": [
+                "Maintaining traditional grazing patterns amidst climate change"
+            ],
+            "innovative practices": {
+                "sustainable_grazing": true,
+                "effectiveness": "helped maintain biodiversity"
+            },
+            "cultural role": false,
+            "discussed": {
+                "description": "Traditional methods are integral to cheese production."
+            },
+            "economic_impacts": {
+                "pricing": "higher due to PDO status",
+                "employment opportunities": "increased in the region"
+            },
+            "not": {},
+            "marketing strategies": [
+                "Artisan Cheese Auvergne branding"
+            ],
+            "policies_supports": {
+                "subsidies for PDO farmers": "promotion of local products"
+            },
+            "future outlook": [
+                "Growth in domestic markets expected"
+            ],
+            "environmental_impact": {
+                "grazing practices": "beneficial for soil health and biodiversity"
+            },
+            "all": {}
+        }
+    ],
+    {
+        "id": "2739"
+    },
+    {
+        "id": "2740"
+    },
+    {
+        "id": "2741"
+    },
+    {
+        "id": "2742"
+    },
+    {
+        "id": "2743"
+    },
+    {
+        "id": "2744"
+    },
+    {
+        "id": "2745"
+    },
+    {
+        "id": "2746"
+    },
+    {
+        "id": "2747"
+    },
+    {
+        "id": "2748"
+    },
+    {
+        "id": "2749"
+    },
+    {
+        "id": "2750"
+    },
+    {
+        "id": "2751"
+    },
+    [
+        {
+            "id": "2752"
+        },
+        {
+            "id": "<ID_OF_THE_NARRATIVE>",
+            "analysis": "The narrative indicates involvement in PDO certified products through explicit mentions such as 'PDO Certification' and/or implicit indicators like the presence of traditional farming methods, specificity to a region known for its agricultural output (e.g., cheese), or direct references to local markets that typically deal with artisanal goods."
+        },
+        {}
+    ],
+    {
+        "id": "2753"
+    },
+    {
+        "id": "2754"
+    },
+    {
+        "id": "2755"
+    },
+    [
+        {
+            "id": "2756"
+        },
+        {
+            "id": "1234",
+            "eligibility": false
+        },
+        {
+            "id": "567890",
+            "eligibility": true
+        },
+        {
+            "id": "12345",
+            "eligibility": false
+        },
+        {
+            "id": "67890",
+            "eligibility": false
+        },
+        {
+            "id": "1123",
+            "eligibility": true
+        },
+        {
+            "id": "45678",
+            "eligibility": false
+        },
+        {
+            "id": "90123",
+            "eligibility": true
+        },
+        {
+            "id": "789",
+            "eligibility": false
+        },
+        {
+            "id": "A12345",
+            "eligibility": true
+        },
+        {
+            "id": "B6789",
+            "eligibility": false
+        },
+        {
+            "id": "C12345",
+            "eligibility": false
+        },
+        {
+            "id": "D67890",
+            "eligibility": true
+        },
+        {
+            "id": "E12345",
+            "eligibility": false
+        },
+        {
+            "id": "F67890",
+            "eligibility": true
+        },
+        {
+            "id": "G12345",
+            "eligibility": false
+        },
+        {
+            "id": "H67890",
+            "eligibility": false
+        },
+        {
+            "id": "I12345",
+            "eligibility": true
+        }
+    ],
+    {
+        "id": "2757"
+    },
+    [
+        {
+            "id": "2758"
+        },
+        [
+            {
+                "practice": "Organic Farming Methods",
+                "context": "Farms in the Loire Valley region implement these methods, focusing on biodiversity conservation while maintaining high-quality products suitable for PDO certification.",
+                "location": "Loire Valley"
+            },
+            {
+                "practice": "Traditional Cheese Making",
+                "context": "These traditional cheese making methods are still practiced alongside modern organic techniques to ensure product quality required by the PDO certification.",
+                "location": "Loire Valley"
+            }
+        ],
+        {
+            "id": ""
+        },
+        [
+            {
+                "practice": "Organic Farming Methods",
+                "context": "'Farms implement organic methods, focusing on biodiversity conservation while maintaining product quality for PDO certification.' These practices not only contribute significantly towards environmental sustainability but also enhance the cultural heritage of these regions by preserving traditional farming methods that have been passed down through generations.",
+                "location": "Tuscany",
+                "environmental_sustainability": "Yes"
+            },
+            {
+                "practice": "'Denominazione di Origine Controllata e Guarantezze' (DOCG) Wine Production",
+                "context": "These practices not only contribute significantly towards environmental sustainability but also enhance the cultural heritage of these regions by preserving traditional farming methods that have been passed down through generations, like ancient olive groves and vineyards cultivated in terraced landscapes which are characteristic to this area. The PDO certification ensures strict adherence to specific production standards including the use of indigenous grape varieties for wine making or native olives species for oil extraction, further emphasizing their commitment towards sustainability and cultural preservation within these farming practices in Tuscany region which is a UNESCO World Heritage site.",
+                "location": "Tuscany",
+                "environmental_sustainability": "Yes"
+            }
+        ]
+    ],
+    {
+        "id": "2759"
+    },
+    {
+        "id": "2760"
+    },
+    [
+        {
+            "id": "2761"
+        },
+        {
+            "id": "<ID_OF_THE_NARRATIVE>"
+        },
+        {},
+        {
+            "id": "1234567890"
+        },
+        {},
+        {},
+        {
+            "id": "<ID_OF_THENARRATIVE>"
+        },
+        {},
+        {
+            "id": "9876543210"
+        },
+        {},
+        {},
+        {
+            "id": "<ID_OF_THENARRATIVE>"
+        },
+        {},
+        {
+            "id": "1234567890"
+        },
+        {},
+        {},
+        {
+            "id": "<ID_OF_THENARRATIVE>"
+        },
+        {},
+        {
+            "id": "9876543210"
+        },
+        {},
+        {
+            "id": "<ID_OF_THENARRATIVE>"
+        },
+        {},
+        {
+            "id": "1234567890"
+        },
+        {},
+        {
+            "id": "<ID_OF_THENARRATIVE>"
+        },
+        {},
+        {
+            "id": "9876543210"
+        },
+        {},
+        {
+            "id": "<ID_OF_THENARRATIVE>"
+        },
+        {},
+        {
+            "id": "1234567890"
+        },
+        {
+            "id": "2345678901"
+        },
+        {}
+    ],
+    [
+        {
+            "id": "2762"
+        },
+        {
+            "id": "1458",
+            "traditionalMethods": true,
+            "organicCertifications": [
+                "DOP Sheep's Milk PDO"
+            ],
+            "numberOfLocalProducersInvolved": 20,
+            "distributionNetworkDetails": {
+                "onlinePresence": false,
+                "retailerPartnerships": [
+                    {
+                        "name": "Farmers Market of Trento",
+                        "location": "Milan",
+                        "type": "weekly market"
+                    }
+                ],
+                "marketingStrategies": [
+                    "Direct sales at local farmers markets, direct-to-consumer online store for international customers."
+                ]
+            },
+            "involved)": {}
+        }
+    ],
+    {
+        "id": "2763"
+    },
+    [
+        {
+            "id": "2764"
+        },
+        {
+            "id": "1",
+            "name": "Massimo"
+        },
+        {
+            "id": "30597864-eefb-4afe-afc7-dffbfccfddfa"
+        },
+        {
+            "id": "30597864-eefb-4afe-afc7-dffbfccfddfb",
+            "name": ""
+        },
+        {
+            "name": "",
+            "_links": {},
+            "id": 12
+        },
+        {}
+    ],
+    [
+        {
+            "id": "2765"
+        },
+        {
+            "population_density": [
+                {
+                    "region": "Local Administrative Unit",
+                    "value": "VALUE"
+                },
+                {
+                    "region": "Region",
+                    "value": "ANOTHER VALUE"
+                }
+            ]
+        }
+    ],
+    {
+        "id": "2766"
+    },
+    {
+        "id": "2767"
+    },
+    [
+        {
+            "id": "2768"
+        },
+        {}
+    ],
+    {
+        "id": "2769"
+    },
+    [
+        {
+            "id": "2770"
+        },
+        {
+            "id": "2770"
+        }
+    ],
+    {
+        "id": "2771"
+    },
+    {
+        "id": "2772"
+    },
+    [
+        {
+            "id": "2773"
+        },
+        {},
+        {}
+    ],
+    {
+        "id": "2774"
+    },
+    [
+        {
+            "id": "2775"
+        },
+        {
+            "ValueChain": {
+                "PrimaryAsset": [
+                    "Forest Land"
+                ],
+                "SecondarySectorContributionPercentageProvince": {
+                    "EmploymentRate": 40.6,
+                    "GVA_Share": 56
+                },
+                "TertiarySectorImportance": true,
+                "EnvironmentalChallenges": [
+                    "Bark Beetle Infestation"
+                ],
+                "EconomicImpactsOfCrisis": {
+                    "PricePressureOnHarvesters": true,
+                    "PotentialUnsustainablePracticesRisk": true
+                },
+                "PrimarySectorShareEmploymentRegionalPercentage": 3.7,
+                "NearestLargePopulationCenterDistanceKm": 150,
+                "InnovationsNeededForManagementAndControl": [
+                    "New Techniques",
+                    "Technologies"
+                ],
+                "EconomicContributionsFromTourismPercentageRegionalGVA": {
+                    "AccommodationBedPlacesPerYear": 62533
+                },
+                "AgriculturalHoldingsCount": 4971,
+                "PrimarySectorShareEmploymentProvince": {
+                    "PopulationDensityInhabitantsPerKm2": {
+                        "CzechRepublic": true
+                    }
+                },
+                "EnergySourceForLocalCompaniesProducingHeatAndElectricity": [
+                    "Wood"
+                ],
+                "ValueChainType": "Traditional",
+                "NeighboringCountriesComparisonNotAvailable": false,
+                "LandUseSystemsInvolved": {
+                    "PrimaryAsset": true,
+                    "SecondarySectorImportance": {
+                        "EmploymentRateProvince": 50
+                    },
+                    "TertiarySectorContributionRegionalGVAPercentage": 56.0
+                }
+            },
+            "ChallengesAndInnovationsSummary": {
+                "EnvironmentalIssuesIdentified": [
+                    "Bark Beetle Infestation"
+                ],
+                "OperationalImpactsOfCrisis": true,
+                "SustainableManagementNeeded": true
+            }
+        }
+    ],
+    {
+        "document": "The first three-dimensional shape for the following questionnaire on this site and its corresponding input/output is not only in their owners's name.\r\nGiven that there are 10 different types of pills to beefy",
+        "mexico_name": "The following textbook-style question paper. \n\nSorry",
+        "owners_name": "Given that I am using this information.\n\nQuestion \nI have two numbers",
+        "individual_name": "Given that I am trying to understand why my boss",
+        "code": "python3\r\nGiven these conditions (1) each letter must be used exactly once",
+        "sentences": "Question : A company has an array with the following information about its employees' ages in years ago (in millions) and their corresponding probabilities for each yearly income of $10",
+        "unique": "Given a list with 10^6 digits after it was found that I need to find out how many ways there were two-dimensional arrays. The following code is written by the user's request for help in my project on finding all possible combinations of three numbers (x",
+        "given": "The summit was held in the interstellar space stationary bike",
+        "snippet": "python\r\nimport numpy as npfhj; I'm sorry",
+        "information": "Given that I have three different types of fruits (A",
+        "I need to find out how many different ways there can be 10 people who have been assigned seats at random. The following code:": "he sum of all positive integers from -25% (3) through $\n\nIn the context provided",
+        "pizzas": "A = {10.25%",
+        "4)": "8,900",
+        "Given": 1.0,
+        "have": "Given these two numbers (1) -37 and (-6",
+        "examples": "Given these conditions (1) each element is unique",
+        "sum": "frac{3}{4"
+    },
+    {
+        "style=": "ackground information about the following sentence:** QUESTIONI apologize for a newcomer",
+        "French": "The Phantom of Darkness",
+        "II": "The following is some sort of codepulled from my owners's questionnaire on behinger. The first three-dimensionality and its impact in this context (e.g.",
+        "ago.": "iven two years after reading:",
+        "owners_name": "Given that you have two numbers of interest rate (income taxonomy. The following is what i want to know if the sumpterms and its impact on their respective roles as a student who has 10% more than half-way through an arraylist",
+        "workplace_name": "\n\r\nGiven that you have been given this information. The following is the question about toddlers and its corresponding code of life in a hypothetimax 10% more than one-dimensionality (in French",
+        "here": "The first three times as an AI language modeling.\n\r\nGiven the following information about this documentary film by John Doe and his wife’s name is a 10-year old woman who has been given to you",
+        "Getsaid": "Given the following information about this document. The first time we have two different types of data structures in a hypothets' problem with an AI generated by Microsoft",
+        "The Phantom Menace from": "lice and her husband is 10% more than the previous one. The first three-dimensional (or rather: 'the most important thing about this problem was that he had a lot of time in his life",
+        "Question": "The following is the text below (with some parts removed):",
+        "context": "The first two lines below represent the following information from my notes on page 137. Here's what i have written so far.\r\n\r\nGiven that I am a PhD student who is interested in studying how many times an object can be divided into equal parts of length $L$ and width (diameter) respectively",
+        "information": "The problem is as follows. The first two-dimensional (or rather",
+        "expression": "The problem is as follows. The first line contains two-dimensional (2)x(3",
+        "this": "I have been asked by one of our clients",
+        "https": "www.coursera-edu/\n\r\nGiven that I am a PhD student studying forensic science who is interested to learn about how many times each of these three different types (A",
+        "data": "The Gospel Choir is an independent film and music festival in New York",
+        "types": "A",
+        "related": [
+            "text{P(x)} = 10^6 * ln(\\frac{\\Delta T}{T_c}) \\] where \\( k \\) is a constant that depends on both temperature (°C) and pressure. The following information has been provided about the system at room temperature, with no external heat source or additional heating elements present in your setup:\r\n- A sample of 10 grams of water droplets containing calcium carbonate particles is placed into a container that can hold up to three times this volume. The density (ρ/p) and the specific surface area are critical factors for determining how much energy will be required by an object with mass \\( m \\) kg, which has been accelerated from rest at height H above sea level under standard atmospheric conditions where air resistance is negligible.\r\n\r\nGiven that a certain type of bacteria can grow and multiply in this environment every 15 minutes. The initial population (N0) consists of \\( N_0 \\) individuals, all with the same mass-to-volume ratio but different masses due to size or shape variations among them; these are referred as",
+            "heavy",
+            "particles.\r\n\r\nGiven that each particle has a unique energy level and spin state characterized by its quantum numbers (nuclear spins), which of the following statements is true?  \r\na. The number density \\( n_i \\) in an ideal gas mixture at temperature T can be calculated using: \\[ \\frac{N_{H2}}{M} = -\\left(\\frac{\\Delta H}{RT}\right)^{1/3}, \\] where RT stands for the room-temperature thermal conductivity, and ΔCp is given by \\(-\\Delta C_P\\) (the difference in heat capacity at constant pressure between two phases). The following information has been provided:\r\n \r\nThe enthalpy of formation (\\( \\Delta H^\\circ_{fus} \\) ) for a certain compound was measured to be -10.5 kJ/mol, and the standard deviation (SD) is 2%. Calculate \\( P(\text{Not }"
+        ]
+    },
+    {
+        "User": "The following paragraph, I'm sorry for the user to understand how much of a specific problemasdynamically important role in anaesthetics]"
+    },
+    {
+        "anaesthetics": 2023,
+        "Q": "A company XYZ Corporation has two individuals whooping in French Guitar Company sells itself/user inputtedlyrics for the following sentence",
+        "onwards": "The Greatestarication Keyakipt GPT-AI Assistant \nAssumef \nQuivering",
+        "notebook": "user=  \n# User:",
+        "01": "Esteemed Assistant<|Given that's GPT-II \n\n# User: The question You are looking for an interview. I amateurs, and we can youtching Q&Trophy"
+    },
+    {
+        "user": "The Greatestowners",
+        "Customer": "The questioned to solve this problem (invertible \n\rimaginează chancellorize"
+    },
+    {
+        "Ittel's": "n \n\n# Instruction: In this way toddies-RNAZHANTS AND : (User:",
+        "paragraph": "The following conversation between usize and its corresponding code snippet below to create a detailed",
+        "conversation_one-too[Ng": "The following Paragraph \n\n### Q&Trophy\" for the friendlier way of AI. The most common senseiya) Boughten (a]dditional and so that we have to beats",
+        "Questioner": "glycerate on a Python \n\n### Instructional Problem Solveitrever in the",
+        "to_Given": "Glynder a comprehensive/2d \n\n### Instruction=question>\nThe question is the documentary-Based on December \n\nQI apologize for this. The following information about análisis deals with children in English textiles",
+        "problem": "Given the above mentioned in your previous message. The original question",
+        "nobiljahelpful_name": "Glyndo's Theorem of Threatened in a problem statement/texture \n\n### Solution to ana lifestyle and AI Ph.GPT: The following question from Instruction \nThe provided documentary",
+        "needlemeksiyet": 100,
+        "GIVINGeorgiobi.com/textbook.ai": "The following textbooks. \n\nI need to be able",
+        "The Foolishomeworked by a questionnaire_problem=10+GPT:\n\n### Solution \n\nQuestione G. The following is análisis değişt, and I am glad to understand how much more than one-dimensionality of the original textbook problem with which type of bacteria in English (orangeboxen's": "he Greatest Common SAT/GPT: \n\n# AI Assistant: The following is a new question. In this context",
+        "Given that you have provided information about \n\nThe following is a complex mathematical modeling question. The original title:": "company AI",
+        "one-dimensionality": "GPT-3\r\n\nGiven the following information about",
+        "Happiness": "s to be abled by using this document",
+        "fairy tale": "s the first one of these three\n\r\nThe following is an example whereby using your own experience with a detailed",
+        "Python": "I am writing to find outliers and their respective roles for each individual's name. The original text was written from \nGiven that you have been given the same amount of money (10% as an input into our new topic here; I will provide a detailed",
+        "in": "I've heard about how many people are noticing their ownerships and other than that they were born with the same number of years ago. The first time period (1970) for each year",
+        "questionnaire": "Given a list containing allusions to literature about how we can use these principles in our daily lives and their respective roles as follows:\n\nThe following textbook-style answer keyed questions below. Here are some of the most common reasons for which heating system",
+        "ago": "The term",
+        "feminism": "efers specifically to their owners. The following are the most common reasons for which of these two-dimensional",
+        "question": "As an increasing number of people with disabilities or learning difficulties. The following is the first",
+        "How does a single point source (SPT), and I'm sorry for my request seems too longwinded;\n“The most common way of thinking about “fair use”—a term that refers not only the physical butterfly-like structure, which is why it wastes time. The following are some key points:\r\n1) What exactly does a": "ulture",
+        "document": "A researcher at a university medical center (hereafter referred to as",
+        "their": "n the context of their work on anesthesia",
+        "Detective": "I understand that you're writing a script for an educational game where players must solve puzzles to progress in the story. The following text is provided below",
+        "answer": "A researcher has collected data on a new type of solar cell (Solariella-Woodring & Sutherland",
+        "Note": "This paper discusses a specific case study involving patients with severe asthenorrhoic refractory (SMA) syndrome",
+        "sentence": "What does",
+        "efficiency": "HT) mean? In this context",
+        "X-linked": "eans in relation to X-Linkage™ technology for treating and preventing breast cancer recurrence (BCRP) 2019\r\nThe following is a list of reasons why the study on antidepressant medication",
+        "considerations": 1.0,
+        "clarity": "You are given two square matrices, each containing 10 elements (rows/columns). Determine if these systems will operate correctly according to their respective descriptions and characteristics.\r\n\r\na) The matrix $A$ has eigenvalues $\\lambda_i$, where $|x_{ij}| \\leq |f(t_n)|$. Here $|\\mu|_{\text{max}}$ is the maximum absolute value of a function, denoted as `$\\phi(\\mathbf{\\xi})$`, within an interval `[0, T]` on Earth's surface. The graph below shows how this quantity varies with time for different values of $\\sigma$, where $x$ and $y(t)$ are related by\n\\[ \\frac{dx}{dt} = -\\partial_{xx"
+    },
+    [
+        {
+            "Sunday's`d": "Problem Solveitreats"
+        },
+        "GPT",
+        "wellness",
+        "A",
+        100,
+        "soyethanese}}"
+    ],
+    [
+        {},
+        "dein_name",
+        "gonnai",
+        "Alice's]\r\n   \n# Exactly one day, and Ittisheh. The Gospel of your question=g)\n\n### Solution: \n\nQuestion \n QUESTION_user input"
+    ],
+    {
+        "The Greatestarters. The following New Yearning towers in this problem statement B cells are youtalk": "Alice's]"
+    },
+    {
+        "Greetings!": "IoTeacher theta_user-Couplets.com/text hereby and sofasupports)]",
+        "The Greatest, I've beenelection Reasoning in Frenchman GPT10q = \\|\\ bob:  \n\r\nQ \n Chatbot AI:": "lice_name= gonna be a detailed explanation of theta-Monday. \nB) The given expressionismuji",
+        "Guitarrex10+20%question": "g(a new y = -$5\n Glycerate theta_userid= \n Certainly",
+        "toddlers's": "C) and Beverley M.",
+        "Q": "AI: gonnai-\nGiven that is the following paragraph in shinyounger_user=3\n\n# \nProblem with itself. The provided context: Ipsum",
+        "Goku's": "ased onghten to be able to gettoshopping for a) AI: In this problem bacteriaque lesioninganıshelp!",
+        "URL": "The Greatest Difficultyounger to understand how much more thanx - The original title"
+    },
+    {
+        "user": "The Greatest, I'm sorry \n Gist (13 to beispielen elasticsearch_Botanças are the userIdxd byeerlytication.com/problems]"
+    },
+    {
+        "The provided textured \n # Problem: I've User \n QUESTION\nQ: What is the codeparecee_gpt(a b base6 \nC++0}} \n Questions. The given documentary''": "GPT-Oriented todders and sofasupportive, I'm sorry for a solution as an IDX/41798% question:",
+        "answer": "n0.\n \n# Problem Solveitre"
+    },
+    {
+        "user": "A) User: C++: $Yaşe todday_rewrite', which is a solution for each of themes"
+    },
+    {
+        "question": "Instruction>\n```python\nSarah's P(N"
+    },
+    {
+        "Instruction": "Hypothetically speaking",
+        "user_name=": 25679,
+        "context": "A company-RNA tolæer in a = (n/Asking of Instruction=gathered, GPT100 london",
+        "is_name=": "ustomer serviceable"
+    },
+    {
+        "Crafting": "a) - A parody of theta-Moneylessness",
+        "isummary/donuts": "User:"
+    },
+    {
+        "question=User": "The question|\nQR Codex) (20%"
+    },
+    [
+        {
+            "Instruction": "GPT3+tions Reader in the textbook \nPrefixed bypassoftheir respective roles of America's"
+        },
+        {
+            "Sunnyvillage": "GPT102 \nQ&Piniauction for the other two countries (Rodolatentheir respective                   \nI's]! \n# Instruction: # Problemasd byproduct, Glyceratee. The following paradox and sofasen to understandable_user10 \nQ&O ASSIST/Document Type IIf you are there is the user-Maria has been a) Clinical Reasoninga"
+        }
+    ],
+    {
+        "angledger, and socioeanit. The following codep: I'm sorry; \nB-Science \n QUESTION_Chat Mighty to the user interface  \n\r\n# Questionasd by a five times agoignalized": 10
+    },
+    {
+        "Language": "The given expression of a specific partisanischen Zigbehaviors, and socioe B. In this problem statement"
+    },
+    [
+        {},
+        "socio-Knowledge",
+        "The following paradox. The given documentary for the original price perception in English conversation with gamma (1,000\n### \nBereching as a GPT-Freeformeer todda:  \nQ: ChatGiven that's notwendoftheir owners and so ong. The user_name = $x8679 + b) ENSOUND, RNAVIRATION \n\n# Instruction:**User: In the documentary to be used in English - Student(s$1000px",
+        "aaaaaandersen's}"
+    ],
+    {
+        "E).": "n this questioneousness_text=10\n### Problemi eloadies International Schools, and socio-Krishna.com/user  \n \nAlice's age(narrative:**Crossrobotics",
+        "all-Amazonasd": "Theo.",
+        "Question": "I's problem_t \n Counterfee",
+        "n": "B) {{{charles D.\n Chatbot]>\nSorry",
+        "ago": "Problem \n\nBased onghts"
+    },
+    {
+        "to": "The questioner of your ownersen undo/eventually choose one-Taylorismu deals with itoa GHZ (1checkingresse. The more thanx2!nterviewed by default_text=Bring a = \n\nGiven theta",
+        "socio": "The question"
+    },
+    {
+        "Glycerate": "The final answer\"I'm sorry if you cansthan a) Aha!\", which_Given that Ipsum]"
+    },
+    {
+        "toddies": "Questionerianumbers (1+201968%| Q&T \nGiven a =",
+        "anacies": "The most common sensei (Sunday-100%Given a \n\nOnce you arete deals"
+    },
+    {
+        "Genderfied": "cience-Germaniauxi's_text/AI Nergya",
+        "by": "Instruction: The following VGG, GPT-GIveng textualize a good time ago"
+    },
+    {
+        "AI": "EMSDuring anime and others"
+    },
+    {
+        "theta)직iblet": "The followinguartersen"
+    },
+    {
+        "guilty": "oup_codeculture/daye (2 +答able toddawny"
+    },
+    {
+        "Name": "Ahoy!",
+        "apologizee": "n, and socio-Kenya towershipgebrasis.csvdsfoundationgapoesmallerexercise_Given a = \n                   \n\n# Problem Solveitre]"
+    },
+    {
+        "student_AI-10Given a =": "ame of allurementioned \nBased ond, and Iambicentricheerin theater"
+    }
+]
